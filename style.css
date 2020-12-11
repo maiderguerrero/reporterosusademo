@@ -828,19 +828,18 @@ body.is_app .reporterosusademo-navbar.ocultar {
 }
 
 .bck-enfasis-11 {
-	color: #373636;
+	color: #fff;
+    border-radius: 8px;
+    padding: 2px 18px 2px 18px;
+    background-color: #F19A00;
 }
 
 .bck-enfasis-12 {
 	color: #fff;
-    position: relative;
-    font-weight: bold;
     border-radius: 8px;
     padding: 2px 18px 2px 18px;
-    background-color: #009746;
-    font-size: 1.6rem;
-    top: -5px;
-}
+    background-color: #E3704A;
+ }
 
 .bck-enfasis-13 {
 	font-style: italic;
