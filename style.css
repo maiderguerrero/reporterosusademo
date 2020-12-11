@@ -1421,9 +1421,8 @@ body.is_app .reporterosusademo-navbar.ocultar {
 	font-size: 1.8rem;
 	font-weight: bold;
 	text-align: right;
-	left: -20px;
 	font-family: inherit;
-	margin: 0px 0px 0px -19px;
+	margin: 0px 0px 0px 3px;
 	width: inherit;
 }
 
