@@ -893,12 +893,13 @@ body.is_app .reporterosusademo-navbar.ocultar {
 	content: "";
     height: 6px;
     width: 6px;
-    background-color: #333;
-    color: #333;
+    background-color: #045862;
+    color: #fff;
     border-radius: 50%;
     position: absolute;
     margin-top: .6em;
     margin-left: 6px;
+    font-weight: bold;
 
 }
 
