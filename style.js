@@ -66,6 +66,7 @@
 				{ name: 'Lista Desordenada 6', element: 'ul', attributes: { 'class': 'bck-ul bck-ul-6' } },
 				{ name: 'Lista Desordenada 7', element: 'ul', attributes: { 'class': 'bck-ul bck-ul-7' } },
 				{ name: 'Lista Desordenada 8', element: 'ul', attributes: { 'class': 'bck-ul bck-ul-8' } },
+				{ name: 'Lista Desordenada 9', element: 'ul', attributes: { 'class': 'bck-ul bck-ul-9' } },
 
 				{ name: 'Caja 1', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-1' } },
 				{ name: 'Caja 2', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-2' } },
