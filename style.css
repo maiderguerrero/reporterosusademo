@@ -714,7 +714,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 #actividad .content .texto_curso .bck-ol li:before,
 #actividad .popover-content .bck-ol li:before,
 #actividad .content .workspace ul li .bck-ol li:before {
-	content: counter(bck-li-counter);
+	/*content: counter(bck-li-counter);*/
 	position: relative;
 	text-align: left;
 	font-size: 1.9rem;
