@@ -1534,12 +1534,14 @@ body.is_app .reporterosusademo-navbar.ocultar {
 #actividad .content .texto_curso ul.bck-ul-2 li:before,
 #actividad .popover-content ul.bck-ul-2 li:before,
 #actividad .content .workspace ul li ul.bck-ul-2 li:before {
-	content: "-";
-	background: none;
+	font-family: 'FontAwesome';
+    content: "\f068";
+    background: none;
     color: #333;
     position: absolute;
     margin-top: 0em;
-    margin-left: 4px;
+    margin-left: 7px;
+    font-size: 1rem;
 }
 
 /*LISTA DESORDENADA 3*/
@@ -1597,12 +1599,14 @@ body.is_app .reporterosusademo-navbar.ocultar {
 #actividad .content .texto_curso ul.bck-ul-4 li:before,
 #actividad .popover-content ul.bck-ul-4 li:before,
 #actividad .content .workspace ul li ul.bck-ul-4 li:before {
-    content: "-";
+    font-family: 'FontAwesome';
+    content: "\f068";
     background: none;
     color: #3482BF;
     position: absolute;
     margin-top: 0em;
-    margin-left: 4px;
+    margin-left: 7px;
+    font-size: 1rem;
 }
 
 /*LISTA DESORDENADA 5*/
@@ -1660,12 +1664,14 @@ body.is_app .reporterosusademo-navbar.ocultar {
 #actividad .content .texto_curso ul.bck-ul-6 li:before,
 #actividad .popover-content ul.bck-ul-6 li:before,
 #actividad .content .workspace ul li ul.bck-ul-6 li:before {
-    content: "-";
+    font-family: 'FontAwesome';
+    content: "\f068";
     background: none;
     color: #9C9BA0;
     position: absolute;
     margin-top: 0em;
-    margin-left: 6px;
+    margin-left: 7px;
+    font-size: 1rem;
 }
 
 /*LISTA DESORDENADA 7*/
