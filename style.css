@@ -664,16 +664,17 @@ body.is_app .reporterosusademo-navbar.ocultar {
 
 .bck-title-11 {
 	color: #9C9BA0;
-	background-color: #fff;
-	border: 4px double #9C9BA0;
-	font-weight: bold;
-	border-radius: 20px;
-	padding: 5px;
-	 -moz-width: fit-content;
+    background-color: #fff;
+    border: 4px double #9C9BA0;
+    font-weight: bold;
+    border-radius: 20px;
+    padding: 3px 12px;
+    -moz-width: fit-content;
     -ms-width: fit-content;
     -webkit-width: fit-content;
     -o-width: fit-content;
     width: fit-content;
+    font-size: 1.8rem;
 }
 
 /*TITULO 12*/
@@ -684,6 +685,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 	border-top-left-radius: 20px;
 	border-top-right-radius: 20px;
 	padding: 5px 20px;
+	text-align: center;
 	-moz-width: fit-content;
     -ms-width: fit-content;
     -webkit-width: fit-content;
@@ -693,10 +695,10 @@ body.is_app .reporterosusademo-navbar.ocultar {
 
 .bck-title-12:before {
 	content: "";
-	border-bottom: 29px solid transparent;
-    border-top: 29px solid transparent;
-    border-left: 25px solid #0087CC;
-    padding: 20px;
+	border-left: 15px solid transparent;
+    border-right: 15px solid transparent;
+    border-top: 15px solid #9c9ba0;
+    top: 0;
 
 }
 
