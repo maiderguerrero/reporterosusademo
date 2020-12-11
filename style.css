@@ -587,14 +587,10 @@ body.is_app .reporterosusademo-navbar.ocultar {
 /*TITULO 5*/
 
 .bck-title-5 {
-	font-weight: 400;
-    font-size: 2.3rem;
-    margin-left: 0;
-    border-bottom: none;
-    border-radius: 15px;
-    background: #000;
-    color: #fff;
-    padding: 15px;
+	font-size: 2.2rem;
+	border-bottom: none;
+	color: #025864;
+	font-weight: bold;
 }
 
 /*TITULO 6*/
