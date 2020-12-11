@@ -544,7 +544,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 
 .bck-title-1 {
 	color: #e30613;
-	font-size: 4.3rem;
+	font-size: 4.5rem;
 	padding-bottom: 0px;
 	margin-left: 10px;
 	/*font-family: Conv_TypeType-TT_Rounds;*/
@@ -571,10 +571,10 @@ body.is_app .reporterosusademo-navbar.ocultar {
 /*TITULO 3*/
 
 .bck-title-3 {
-	font-family: Conv_TypeType-TT_Rounds;
-	font-weight: 100;
-	font-size: 1.7rem;
+	/*font-family: Conv_TypeType-TT_Rounds;*/
+	font-size: 2.2rem;
 	border-bottom: none;
+	color: #e30613;
 }
 
 /*TITULO 4*/
