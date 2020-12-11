@@ -1101,7 +1101,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 	width: inherit;
 }
 
-/*LISTA ORDENADA 9*/
+/*LISTA ORDENADA 11*/
 #actividad .content .cke_contents .bck-ol-11,
 #actividad .content .texto_curso .bck-ol-11,
 #actividad .content .workspace ul li .bck-ol-11 {
@@ -1141,6 +1141,40 @@ body.is_app .reporterosusademo-navbar.ocultar {
     border-radius: 100%;
 }
 
+
+/*LISTA ORDENADA 12*/
+#actividad .content .cke_contents .bck-ol-12,
+#actividad .content .texto_curso .bck-ol-12,
+#actividad .content .workspace ul li .bck-ol-12 {
+	list-style-type: none;
+	counter-reset: bck-li-counter;
+}
+
+#actividad .content .cke_contents .bck-ol-12 li,
+#actividad .content .cke_contents .bck-ol-12 li,
+#actividad .content .texto_curso .bck-ol-12 li,
+#actividad .popover-content .bck-ol-12 li,
+#actividad .content .workspace ul li .bck-ol-12 li {
+	counter-increment: bck-li-counter;
+	padding-left: 0px;
+	position: relative;
+	z-index: 0;
+}
+
+#actividad .content .cke_contents .bck-ol-12 li:before,
+#actividad .content .texto_curso ol.bck-ol-12 li:before,
+#actividad .popover-content ol.bck-ol-12 li:before,
+#actividad .content .workspace ul li ol.bck-ol-12 li:before {
+	content: counter(bck-li-counter) ".";
+	position: absolute;
+	color: #F19A00;
+	font-weight: bold;
+	margin-top: 0;
+	text-align: right;
+	margin-left: -10px;
+	width: 29px;
+	/*font-family: Conv_TypeType-TT_Rounds;*/
+}
 
 /*LISTAS DESORDENADAS*/
 .texto_curso ul li {
