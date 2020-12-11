@@ -1559,7 +1559,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
     padding-left: 40px;
     position: relative;
     list-style: none;
-    margin-bottom: 30px;
+    margin-bottom: 10px;
 }
 
 #actividad .content .cke_contents .bck-ul-3 li:before,
@@ -1624,7 +1624,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
     padding-left: 60px;
     position: relative;
     list-style: none;
-    margin-bottom: 50px;
+    margin-bottom: 10px;
 }
 
 #actividad .content .cke_contents .bck-ul-5 li:before,
@@ -1654,7 +1654,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 #actividad .content .texto_curso .bck-ul-6 li,
 #actividad .popover-content .bck-ul-6 li,
 #actividad .content .workspace ul li .bck-ul-6 li {
-    padding-left: 60px;
+    padding-left: 40px;
     position: relative;
     list-style-type: none;
     margin-bottom: 10px;
