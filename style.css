@@ -1621,7 +1621,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 #actividad .content .texto_curso .bck-ul-5 li,
 #actividad .popover-content .bck-ul-5 li,
 #actividad .content .workspace ul li .bck-ul-5 li {
-    padding-left: 60px;
+    padding-left: 40px;
     position: relative;
     list-style: none;
     margin-bottom: 10px;
@@ -1736,6 +1736,40 @@ body.is_app .reporterosusademo-navbar.ocultar {
     margin-top: 1px;
     margin-left: 2px;
     background: transparent;
+}
+
+/*LISTA DESORDENADA 9*/
+#actividad .content .cke_contents .bck-ul-9,
+#actividad .content .texto_curso .bck-ul-9,
+#actividad .content .workspace ul li .bck-ul-9 {
+    list-style-type: none;
+}
+
+#actividad .content .cke_contents .bck-ul-9 li,
+#actividad .content .cke_contents .bck-ul-9 li,
+#actividad .content .texto_curso .bck-ul-9 li,
+#actividad .popover-content .bck-ul-9 li,
+#actividad .content .workspace ul li .bck-ul-9 li {
+    padding-left: 40px;
+    position: relative;
+    list-style: none;
+    margin-bottom: 10px;
+    color: #fff;
+}
+
+#actividad .content .cke_contents .bck-ul-9 li:before,
+#actividad .content .texto_curso ul.bck-ul-9 li:before,
+#actividad .popover-content ul.bck-ul-9 li:before,
+#actividad .content .workspace ul li ul.bck-ul-9 li:before {
+    content: "";
+    height: 6px;
+    width: 6px;
+    background-color: #fff;
+    color: #555;
+    border-radius: 50%;
+    position: absolute;
+    margin-top: .6em;
+    margin-left: 6px;
 }
 
 .bck-box p {
