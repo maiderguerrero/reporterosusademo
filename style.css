@@ -791,14 +791,27 @@ body.is_app .reporterosusademo-navbar.ocultar {
 .bck-enfasis-9 {
     color: #fff;
     background-color: #00A6BA;
-    border-radius: 10px;
+    border-radius: 3px;
+    padding: 2px 15px;
+    text-align: center;
+}
+
+.bck-enfasis-9:before {
+	content: "";
+	display: block;
+	position: absolute;
+	border-bottom: 23px solid transparent;
+    border-top: 21px solid transparent;
+    border-right: 25px solid #00A6BA;
 }
 
 /*ENFASIS 10*/
 .bck-enfasis-10 {
 	background-color: #990381;
 	color: #fff;
-	border-radius: 10px;
+	border-radius: 3px;
+    padding: 2px 15px;
+    text-align: center;
 }
 
 .bck-enfasis-11 {
