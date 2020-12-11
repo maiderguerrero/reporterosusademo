@@ -596,10 +596,12 @@ body.is_app .reporterosusademo-navbar.ocultar {
 /*TITULO 6*/
 
 .bck-title-6 {
-	color: #211915;
+	color: #fff;
     font-size: 3.8rem;
     border-bottom: none;
-    font-weight: inherit;
+    font-weight: bold;
+    background-color: #e30613;
+    padding: 15px;
 }
 
 
