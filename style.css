@@ -660,6 +660,16 @@ body.is_app .reporterosusademo-navbar.ocultar {
 	border-bottom: none;
 }
 
+/*TITULO 11*/
+
+.bck-title-11 {
+	color: #9C9BA0;
+	background-color: #fff;
+	border: 4px double #9C9BA0;
+	font-weight: bold;
+}
+
+
 
 .bck-enfasis {
 	color: #31A2C7;
