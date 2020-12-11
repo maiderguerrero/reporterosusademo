@@ -531,6 +531,9 @@ body.is_app .reporterosusademo-navbar.ocultar {
 	padding-left: 12px;
 }
 
+
+/*-----------------------------------TITULOS------------------------------------*/
+
 /*tÃ­tulo genÃ©rico*/
 
 .bck-title {
@@ -737,9 +740,12 @@ body.is_app .reporterosusademo-navbar.ocultar {
 	padding: 10px;
 }
 
-.bck-enfasis {
-	color: #31A2C7;
-	font-weight: bold;
+/**/
+
+/*------------------------------------ENFASIS------------------------------------------------*/
+
+.bck-enfasis-1 {
+	color: #F19A00;
 }
 
 .bck-enfasis-2 {
