@@ -640,13 +640,24 @@ body.is_app .reporterosusademo-navbar.ocultar {
 .bck-title-9 {
 	color: #fff;
 	background-color: #025864;
-	padding: 5px 10px;
+	padding: 3px 5px;
 	font-weight: bold;
 	 -moz-width: fit-content;
     -ms-width: fit-content;
     -webkit-width: fit-content;
     -o-width: fit-content;
     width: fit-content;
+}
+
+/*TITULO 10*/
+
+.bck-title-10 {
+	color: #F19A00;
+	font-size: 4rem;
+	padding-bottom: 0px;
+	margin-left: 0px;
+	font-weight: bold;
+	border-bottom: none;
 }
 
 
