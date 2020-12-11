@@ -691,6 +691,16 @@ body.is_app .reporterosusademo-navbar.ocultar {
     width: fit-content;
 }
 
+.bck-title-12:before {
+	content: "";
+	border-bottom: 29px solid transparent;
+    border-top: 29px solid transparent;
+    border-left: 25px solid #0087CC;
+    padding: 20px;
+
+}
+
+
 
 .bck-enfasis {
 	color: #31A2C7;
