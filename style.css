@@ -827,6 +827,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
     margin-top: 0.3px;
 }
 
+/*ENFASIS 11*/
 .bck-enfasis-11 {
 	color: #fff;
     border-radius: 8px;
@@ -834,6 +835,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
     background-color: #F19A00;
 }
 
+/*ENFASIS 12*/
 .bck-enfasis-12 {
 	color: #fff;
     border-radius: 8px;
@@ -841,10 +843,14 @@ body.is_app .reporterosusademo-navbar.ocultar {
     background-color: #E3704A;
  }
 
+/*ENFASIS 13*/
 .bck-enfasis-13 {
-	font-style: italic;
-	font-size: 1.8rem;
-}
+	color: #fff;
+    border-radius: 8px;
+    padding: 2px 18px 2px 18px;
+    background-color: #00A6BA;
+ }
+ 
 
 .bck-enfasis-14{
 	font-weight: bold;
