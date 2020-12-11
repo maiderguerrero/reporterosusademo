@@ -744,36 +744,35 @@ body.is_app .reporterosusademo-navbar.ocultar {
 
 /*------------------------------------ENFASIS------------------------------------------------*/
 
+/*ENFASIS 1*/
 .bck-enfasis-1 {
 	color: #F19A00;
 }
 
+/*ENFASIS 2*/
 .bck-enfasis-2 {
 	color: #FFEF00;
 }
 
+/*ENFASIS 3*/
 .bck-enfasis-3 {
 	color: #00A6BA;
 }
 
+/*ENFASIS 4*/
 .bck-enfasis-4 {
+	color: #9C9BA0;
+}
+
+/*ENFASIS 5*/
+.bck-enfasis-5 {
 	background-color: #FFEF00;
 	padding: 3px 0px;
 }
 
-
-.bck-enfasis-5:before {
-	content: "";
-	width: 100%;
-	padding: 15px;
-	color: red;
-	background-color: red;
-
-}
-
+/*Enfasis 6*/
 .bck-enfasis-6 {
-	font-weight: bold;
-	color: #DBBC00;
+	color: #3482BF;
 }
 
 .bck-enfasis-7 {
