@@ -546,7 +546,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 	color: #e30613;
 	font-size: 4.5rem;
 	padding-bottom: 0px;
-	margin-left: 10px;
+	margin-left: 0px;
 	/*font-family: Conv_TypeType-TT_Rounds;*/
 	font-weight: bold;
 	border-bottom: none;
@@ -562,7 +562,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 	color: #000;
 	font-size: 4rem;
 	padding-bottom: 0px;
-	margin-left: 10px;
+	margin-left: 0px;
 	/*font-family: Conv_TypeType-TT_Rounds;*/
 	font-weight: bold;
 	border-bottom: none;
