@@ -263,7 +263,7 @@ body {
 	font-size: 1.8rem;
 	font-weight: normal;
 	text-align: left;
-	/*font-family: 'Conv_TypeType-TT_Rounds';*/
+	font-family: 'Conv_TypeType-TT_Rounds';
 	color: #000;
 }
 
@@ -867,41 +867,46 @@ body.is_app .reporterosusademo-navbar.ocultar {
 	width: inherit;
 }
 
-
-/*LISTA DESORDENADA 5*/
-#actividad .content .cke_contents .bck-ul-5,
-#actividad .content .texto_curso .bck-ul-5,
-#actividad .content .workspace ul li .bck-ul-5 {
+/*LISTA ORDENADA 1*/
+#actividad .content .cke_contents .bck-ol-5,
+#actividad .content .texto_curso .bck-ol-5,
+#actividad .content .workspace ul li .bck-ol-5 {
 	list-style-type: none;
+	counter-reset: bck-li-counter;
 }
 
-#actividad .content .cke_contents .bck-ul-5 li,
-#actividad .content .cke_contents .bck-ul-5 li,
-#actividad .content .texto_curso .bck-ul-5 li,
-#actividad .popover-content .bck-ul-5 li,
-#actividad .content .workspace ul li .bck-ul-5 li {
-	padding-left: 40px;
+#actividad .content .cke_contents .bck-ol-5 li,
+#actividad .content .cke_contents .bck-ol-5 li,
+#actividad .content .texto_curso .bck-ol-5 li,
+#actividad .popover-content .bck-ol-5 li,
+#actividad .content .workspace ul li .bck-ol-5 li {
+	counter-increment: bck-li-counter;
+	padding-left: 0px;
 	position: relative;
-	list-style: none;
-	margin-bottom: 10px;
+	z-index: 0;
+	font-weight: 700;
 }
 
-#actividad .content .cke_contents .bck-ul-5 li:before,
-#actividad .content .texto_curso ul.bck-ul-5 li:before,
-#actividad .popover-content ul.bck-ul-5 li:before,
-#actividad .content .workspace ul li ul.bck-ul-5 li:before {
-	content: "";
-    height: 6px;
-    width: 6px;
-    background-color: #045862;
-    color: #fff;
-    border-radius: 50%;
-    position: absolute;
-    margin-top: .6em;
-    margin-left: 6px;
-    font-weight: bold;
 
+#actividad .content .cke_contents .bck-ol-5 li:before,
+#actividad .content .texto_curso .bck-ol-5 li:before,
+#actividad .popover-content .bck-ol-5 li:before,
+#actividad .content .workspace ul li .bck-ol-5 li:before {
+	content: counter(bck-li-counter) ".";
+	/*font-family: Conv_TypeType-TT_Rounds;*/
+	font-weight: bold;
+	position: absolute;
+	text-align: right;
+	color: #fff;
+	background-color: #045862;
+	font-size: 1.8rem;
+	width: 31px;
+	margin-top: 0px;
+	margin-left: -13px;
+	left: -25px;
+	top: 0px;
 }
+
 
 /*LISTAS DESORDENADAS*/
 .texto_curso ul li {
