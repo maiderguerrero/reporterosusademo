@@ -1,4 +1,4 @@
-/*Estilo MAPAS - CSS*/
+/*Estilo REPORTEROS USA - CSS*/
 
 /* Fonts */
 
@@ -754,7 +754,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 #actividad .popover-content .bck-ol-1 li:before,
 #actividad .content .workspace ul li .bck-ol-1 li:before {
 	content: counter(bck-li-counter) ".";
-	font-family: Conv_TypeType-TT_Rounds;
+	/*font-family: Conv_TypeType-TT_Rounds;*/
 	font-weight: 800;
 	position: absolute;
 	text-align: right;
@@ -797,7 +797,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 	text-align: right;
 	margin-left: -10px;
 	width: 29px;
-	font-family: Conv_TypeType-TT_Rounds;
+	/*font-family: Conv_TypeType-TT_Rounds;*/
 
 }
 
@@ -867,6 +867,40 @@ body.is_app .reporterosusademo-navbar.ocultar {
 	width: inherit;
 }
 
+
+/*LISTA DESORDENADA 5*/
+#actividad .content .cke_contents .bck-ul-5,
+#actividad .content .texto_curso .bck-ul-5,
+#actividad .content .workspace ul li .bck-ul-5 {
+	list-style-type: none;
+}
+
+#actividad .content .cke_contents .bck-ul-5 li,
+#actividad .content .cke_contents .bck-ul-5 li,
+#actividad .content .texto_curso .bck-ul-5 li,
+#actividad .popover-content .bck-ul-5 li,
+#actividad .content .workspace ul li .bck-ul-5 li {
+	padding-left: 40px;
+	position: relative;
+	list-style: none;
+	margin-bottom: 10px;
+}
+
+#actividad .content .cke_contents .bck-ul-5 li:before,
+#actividad .content .texto_curso ul.bck-ul-5 li:before,
+#actividad .popover-content ul.bck-ul-5 li:before,
+#actividad .content .workspace ul li ul.bck-ul-5 li:before {
+	content: "";
+    height: 6px;
+    width: 6px;
+    background-color: #333;
+    color: #333;
+    border-radius: 50%;
+    position: absolute;
+    margin-top: .6em;
+    margin-left: 6px;
+
+}
 
 /*LISTAS DESORDENADAS*/
 .texto_curso ul li {
