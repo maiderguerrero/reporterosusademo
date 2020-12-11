@@ -711,8 +711,30 @@ body.is_app .reporterosusademo-navbar.ocultar {
 	background: #00A6BA;
 	width: 100%;
 	text-align: center;
-	font-size: 2.2rem;
-	padding: 5px;
+	font-size: 2.5rem;
+	padding: 10px;
+}
+
+/*TITULO 14*/
+
+.bck-title-14 {
+	color: #fff;
+	background: #990381;
+	width: 100%;
+	text-align: center;
+	font-size: 2.5rem;
+	padding: 10px;
+}
+
+/*TITULO 15*/
+
+.bck-title-15 {
+	color: #fff;
+	background: #9C9BA0;
+	width: 100%;
+	text-align: center;
+	font-size: 2.5rem;
+	padding: 10px;
 }
 
 .bck-enfasis {
