@@ -787,13 +787,18 @@ body.is_app .reporterosusademo-navbar.ocultar {
 	font-size: 1.5rem;
 }
 
-
+/*ENFASIS 9*/
 .bck-enfasis-9 {
-	font-weight: 800;
+    color: #fff;
+    background-color: #00A6BA;
+    border-radius: 10px;
 }
 
+/*ENFASIS 10*/
 .bck-enfasis-10 {
-	background-color: #99D5B5;
+	background-color: #990381;
+	color: #fff;
+	border-radius: 10px;
 }
 
 .bck-enfasis-11 {
