@@ -1668,6 +1668,38 @@ body.is_app .reporterosusademo-navbar.ocultar {
     margin-left: 6px;
 }
 
+/*LISTA DESORDENADA 7*/
+#actividad .content .cke_contents .bck-ul-7,
+#actividad .content .texto_curso .bck-ul-7,
+#actividad .content .workspace ul li .bck-ul-7 {
+    list-style-type: none;
+}
+
+#actividad .content .cke_contents .bck-ul-7 li,
+#actividad .content .cke_contents .bck-ul-7 li,
+#actividad .content .texto_curso .bck-ul-7 li,
+#actividad .popover-content .bck-ul-7 li,
+#actividad .content .workspace ul li .bck-ul-7 li {
+    padding-left: 40px;
+    position: relative;
+    list-style-type: none;
+    margin-bottom: 10px;
+}
+
+#actividad .content .cke_contents .bck-ul-7 li:before,
+#actividad .content .texto_curso ul.bck-ul-7 li:before,
+#actividad .popover-content ul.bck-ul-7 li:before,
+#actividad .content .workspace ul li ul.bck-ul-7 li:before {
+    font-family: 'FontAwesome';
+    content: "\f061";
+    background-color: transparent;
+    color: #025764;
+    position: absolute;
+    margin-top: 1px;
+    margin-left: 2px;
+    background: transparent;
+}
+
 /*LISTA DESORDENADA 8*/
 #actividad .content .cke_contents .bck-ul-8,
 #actividad .content .texto_curso .bck-ul-8,
