@@ -52,6 +52,10 @@
 				{ name: 'Lista Ordenada 13', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-13' } },
 				{ name: 'Lista Ordenada 14', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-14' } },
 				{ name: 'Lista Ordenada 15', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-15' } },
+				{ name: 'Lista Ordenada 16', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-16' } },
+				{ name: 'Lista Ordenada 17', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-17' } },
+				{ name: 'Lista Ordenada 18', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-18' } },
+				{ name: 'Lista Ordenada 19', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-19' } },
 
 
 				{ name: 'Lista Desordenada 1', element: 'ul', attributes: { 'class': 'bck-ul bck-ul-1' } },
