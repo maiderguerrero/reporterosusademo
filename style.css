@@ -653,7 +653,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 
 .bck-title-10 {
 	color: #F19A00;
-	font-size: 4rem;
+	font-size: 3.6rem;
 	padding-bottom: 0px;
 	margin-left: 0px;
 	font-weight: bold;
@@ -667,6 +667,13 @@ body.is_app .reporterosusademo-navbar.ocultar {
 	background-color: #fff;
 	border: 4px double #9C9BA0;
 	font-weight: bold;
+	border-radius: 20px;
+	padding: 5px;
+	 -moz-width: fit-content;
+    -ms-width: fit-content;
+    -webkit-width: fit-content;
+    -o-width: fit-content;
+    width: fit-content;
 }
 
 
