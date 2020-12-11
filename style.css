@@ -762,10 +762,13 @@ body.is_app .reporterosusademo-navbar.ocultar {
 }
 
 
-.bck-enfasis-5 {
-	font-family: 'Conv_marydale', Sans-Serif;
-	color: #415799;
-	font-size: 2rem;
+.bck-enfasis-5:before {
+	content: "";
+	width: 100%;
+	padding: 15px;
+	color: red;
+	background-color: red;
+
 }
 
 .bck-enfasis-6 {
