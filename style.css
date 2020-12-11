@@ -575,6 +575,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 	font-size: 2.2rem;
 	border-bottom: none;
 	color: #e30613;
+	font-weight: bold;
 }
 
 /*TITULO 4*/
@@ -584,6 +585,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 	font-size: 2.2rem;
 	border-bottom: none;
 	color: #00A6BA;
+	font-weight: bold;
 }
 
 /*TITULO 5*/
