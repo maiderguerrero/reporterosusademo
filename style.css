@@ -558,6 +558,16 @@ body.is_app .reporterosusademo-navbar.ocultar {
 
 /*TITULO 2*/
 
+.bck-title-2 {
+	color: #000;
+	font-size: 4rem;
+	padding-bottom: 0px;
+	margin-left: 10px;
+	/*font-family: Conv_TypeType-TT_Rounds;*/
+	font-weight: bold;
+	border-bottom: none;
+}
+
 /*TITULO 3*/
 
 .bck-title-3 {
