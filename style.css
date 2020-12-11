@@ -798,7 +798,6 @@ body.is_app .reporterosusademo-navbar.ocultar {
 	margin-left: -10px;
 	width: 29px;
 	/*font-family: Conv_TypeType-TT_Rounds;*/
-
 }
 
 /*LISTA ORDENADA 3*/
@@ -965,6 +964,42 @@ body.is_app .reporterosusademo-navbar.ocultar {
 #actividad .popover-content .bck-ol-7 li,
 #actividad .content .workspace ul li .bck-ol-7 li {
 	counter-increment: bck-li-counter;
+	padding-left: 0px;
+	position: relative;
+	z-index: 0;
+	font-size: 1.4rem;
+}
+
+#actividad .content .cke_contents .bck-ol-7 li:before,
+#actividad .content .texto_curso ol.bck-ol-7 li:before,
+#actividad .popover-content ol.bck-ol-7 li:before,
+#actividad .content .workspace ul li ol.bck-ol-7 li:before {
+	content: counter(bck-li-counter);
+	position: absolute;
+	color: #025864;
+	font-weight: bold;
+	margin-top: 0;
+	text-align: right;
+	margin-left: -10px;
+	width: 79px;
+	font-size: 1.4rem;
+	/*font-family: Conv_TypeType-TT_Rounds;*/
+}
+
+/*LISTA ORDENADA 8*/
+#actividad .content .cke_contents .bck-ol-8,
+#actividad .content .texto_curso .bck-ol-8,
+#actividad .content .workspace ul li .bck-ol-8 {
+	list-style-type: none;
+	counter-reset: bck-li-counter;
+}
+
+#actividad .content .cke_contents .bck-ol-8 li,
+#actividad .content .cke_contents .bck-ol-8 li,
+#actividad .content .texto_curso .bck-ol-8 li,
+#actividad .popover-content .bck-ol-8 li,
+#actividad .content .workspace ul li .bck-ol-8 li {
+	counter-increment: bck-li-counter;
 	padding-left: 5px;
 	position: relative;
 	z-index: 0;
@@ -973,10 +1008,10 @@ body.is_app .reporterosusademo-navbar.ocultar {
 }
 
 
-#actividad .content .cke_contents .bck-ol-7 li:before,
-#actividad .content .texto_curso .bck-ol-7 li:before,
-#actividad .popover-content .bck-ol-7 li:before,
-#actividad .content .workspace ul li .bck-ol-7 li:before {
+#actividad .content .cke_contents .bck-ol-8 li:before,
+#actividad .content .texto_curso .bck-ol-8 li:before,
+#actividad .popover-content .bck-ol-8 li:before,
+#actividad .content .workspace ul li .bck-ol-8 li:before {
 	content: counter(bck-li-counter);
     /* font-family: Conv_TypeType-TT_Rounds; */
     font-weight: bold;
@@ -994,40 +1029,6 @@ body.is_app .reporterosusademo-navbar.ocultar {
 }
 
 
-/*LISTA ORDENADA 8*/
-#actividad .content .cke_contents .bck-ol-8,
-#actividad .content .texto_curso .bck-ol-8,
-#actividad .content .workspace ul li .bck-ol-8 {
-	list-style-type: none;
-	counter-reset: bck-li-counter;
-}
-
-#actividad .content .cke_contents .bck-ol-8 li,
-#actividad .content .cke_contents .bck-ol-8 li,
-#actividad .content .texto_curso .bck-ol-8 li,
-#actividad .popover-content .bck-ol-8 li,
-#actividad .content .workspace ul li .bck-ol-8 li {
-	counter-increment: bck-li-counter;
-	padding-left: 0px;
-	position: relative;
-	z-index: 0;
-}
-
-#actividad .content .cke_contents .bck-ol-8 li:before,
-#actividad .content .texto_curso ol.bck-ol-8 li:before,
-#actividad .popover-content ol.bck-ol-8 li:before,
-#actividad .content .workspace ul li ol.bck-ol-8 li:before {
-	content: counter(bck-li-counter) ".";
-	position: absolute;
-	color: #e30613;
-	font-weight: bold;
-	margin-top: 0;
-	text-align: right;
-	margin-left: -10px;
-	width: 29px;
-	/*font-family: Conv_TypeType-TT_Rounds;*/
-}
-
 /*LISTA ORDENADA 9*/
 #actividad .content .cke_contents .bck-ol-9,
 #actividad .content .texto_curso .bck-ol-9,
@@ -1042,30 +1043,24 @@ body.is_app .reporterosusademo-navbar.ocultar {
 #actividad .popover-content .bck-ol-9 li,
 #actividad .content .workspace ul li .bck-ol-9 li {
 	counter-increment: bck-li-counter;
-	padding-left: 5px;
+	padding-left: 0px;
 	position: relative;
 	z-index: 0;
 }
 
-
 #actividad .content .cke_contents .bck-ol-9 li:before,
-#actividad .content .texto_curso .bck-ol-9 li:before,
-#actividad .popover-content .bck-ol-9 li:before,
-#actividad .content .workspace ul li .bck-ol-9 li:before {
-	content: counter(bck-li-counter);
-    /* font-family: Conv_TypeType-TT_Rounds; */
-    font-weight: bold;
-    position: absolute;
-    text-align: right;
-    color: #fff;
-    background-color: #E3704A;
-    font-size: 1.8rem;
-    width: 28px;
-    padding: 1px;
-    margin-top: -2px;
-    margin-left: -5px;
-    text-align: center;
-    border-radius: 100%;
+#actividad .content .texto_curso ol.bck-ol-9 li:before,
+#actividad .popover-content ol.bck-ol-9 li:before,
+#actividad .content .workspace ul li ol.bck-ol-9 li:before {
+	content: counter(bck-li-counter) ".";
+	position: absolute;
+	color: #e30613;
+	font-weight: bold;
+	margin-top: 0;
+	text-align: right;
+	margin-left: -10px;
+	width: 29px;
+	/*font-family: Conv_TypeType-TT_Rounds;*/
 }
 
 /*LISTA ORDENADA 10*/
@@ -1082,23 +1077,30 @@ body.is_app .reporterosusademo-navbar.ocultar {
 #actividad .popover-content .bck-ol-10 li,
 #actividad .content .workspace ul li .bck-ol-10 li {
 	counter-increment: bck-li-counter;
-	padding-left: 0px;
+	padding-left: 5px;
+	position: relative;
 	z-index: 0;
 }
 
+
 #actividad .content .cke_contents .bck-ol-10 li:before,
-#actividad .content .texto_curso ol.bck-ol-10 li:before,
-#actividad .popover-content ol.bck-ol-10 li:before,
-#actividad .content .workspace ul li ol.bck-ol-10 li:before {
-	content: counter(bck-li-counter, lower-alpha)'.';
-	position: absolute;
-	color: #E3704A;
-	font-weight: bold;
-	text-align: right;
-	left: -20px;
-	font-family: inherit;
-	margin: -2px 0px 0px -1px;
-	width: inherit;
+#actividad .content .texto_curso .bck-ol-10 li:before,
+#actividad .popover-content .bck-ol-10 li:before,
+#actividad .content .workspace ul li .bck-ol-10 li:before {
+	content: counter(bck-li-counter);
+    /* font-family: Conv_TypeType-TT_Rounds; */
+    font-weight: bold;
+    position: absolute;
+    text-align: right;
+    color: #fff;
+    background-color: #E3704A;
+    font-size: 1.8rem;
+    width: 28px;
+    padding: 1px;
+    margin-top: -2px;
+    margin-left: -5px;
+    text-align: center;
+    border-radius: 100%;
 }
 
 /*LISTA ORDENADA 11*/
@@ -1115,30 +1117,23 @@ body.is_app .reporterosusademo-navbar.ocultar {
 #actividad .popover-content .bck-ol-11 li,
 #actividad .content .workspace ul li .bck-ol-11 li {
 	counter-increment: bck-li-counter;
-	padding-left: 5px;
-	position: relative;
+	padding-left: 0px;
 	z-index: 0;
 }
 
-
 #actividad .content .cke_contents .bck-ol-11 li:before,
-#actividad .content .texto_curso .bck-ol-11 li:before,
-#actividad .popover-content .bck-ol-11 li:before,
-#actividad .content .workspace ul li .bck-ol-11 li:before {
-	content: counter(bck-li-counter);
-    /* font-family: Conv_TypeType-TT_Rounds; */
-    font-weight: bold;
-    position: absolute;
-    text-align: right;
-    color: #fff;
-    background-color: #00A6BA;
-    font-size: 1.8rem;
-    width: 28px;
-    padding: 1px;
-    margin-top: -2px;
-    margin-left: -5px;
-    text-align: center;
-    border-radius: 100%;
+#actividad .content .texto_curso ol.bck-ol-11 li:before,
+#actividad .popover-content ol.bck-ol-11 li:before,
+#actividad .content .workspace ul li ol.bck-ol-11 li:before {
+	content: counter(bck-li-counter, lower-alpha)'.';
+	position: absolute;
+	color: #E3704A;
+	font-weight: bold;
+	text-align: right;
+	left: -20px;
+	font-family: inherit;
+	margin: -2px 0px 0px -1px;
+	width: inherit;
 }
 
 /*LISTA ORDENADA 12*/
@@ -1171,7 +1166,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
     position: absolute;
     text-align: right;
     color: #fff;
-    background-color: #F19A00;
+    background-color: #00A6BA;
     font-size: 1.8rem;
     width: 28px;
     padding: 1px;
@@ -1195,24 +1190,30 @@ body.is_app .reporterosusademo-navbar.ocultar {
 #actividad .popover-content .bck-ol-13 li,
 #actividad .content .workspace ul li .bck-ol-13 li {
 	counter-increment: bck-li-counter;
-	padding-left: 0px;
+	padding-left: 5px;
 	position: relative;
 	z-index: 0;
 }
 
+
 #actividad .content .cke_contents .bck-ol-13 li:before,
-#actividad .content .texto_curso ol.bck-ol-13 li:before,
-#actividad .popover-content ol.bck-ol-13 li:before,
-#actividad .content .workspace ul li ol.bck-ol-13 li:before {
-	content: counter(bck-li-counter) ".";
-	position: absolute;
-	color: #F19A00;
-	font-weight: bold;
-	margin-top: 0;
-	text-align: right;
-	margin-left: -10px;
-	width: 29px;
-	/*font-family: Conv_TypeType-TT_Rounds;*/
+#actividad .content .texto_curso .bck-ol-13 li:before,
+#actividad .popover-content .bck-ol-13 li:before,
+#actividad .content .workspace ul li .bck-ol-13 li:before {
+	content: counter(bck-li-counter);
+    /* font-family: Conv_TypeType-TT_Rounds; */
+    font-weight: bold;
+    position: absolute;
+    text-align: right;
+    color: #fff;
+    background-color: #F19A00;
+    font-size: 1.8rem;
+    width: 28px;
+    padding: 1px;
+    margin-top: -2px;
+    margin-left: -5px;
+    text-align: center;
+    border-radius: 100%;
 }
 
 /*LISTA ORDENADA 14*/
@@ -1230,6 +1231,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 #actividad .content .workspace ul li .bck-ol-14 li {
 	counter-increment: bck-li-counter;
 	padding-left: 0px;
+	position: relative;
 	z-index: 0;
 }
 
@@ -1237,15 +1239,15 @@ body.is_app .reporterosusademo-navbar.ocultar {
 #actividad .content .texto_curso ol.bck-ol-14 li:before,
 #actividad .popover-content ol.bck-ol-14 li:before,
 #actividad .content .workspace ul li ol.bck-ol-14 li:before {
-	content: counter(bck-li-counter, lower-alpha)'.';
+	content: counter(bck-li-counter) ".";
 	position: absolute;
 	color: #F19A00;
 	font-weight: bold;
+	margin-top: 0;
 	text-align: right;
-	left: -20px;
-	font-family: inherit;
-	margin: -2px 0px 0px -1px;
-	width: inherit;
+	margin-left: -10px;
+	width: 29px;
+	/*font-family: Conv_TypeType-TT_Rounds;*/
 }
 
 /*LISTA ORDENADA 15*/
@@ -1263,24 +1265,22 @@ body.is_app .reporterosusademo-navbar.ocultar {
 #actividad .content .workspace ul li .bck-ol-15 li {
 	counter-increment: bck-li-counter;
 	padding-left: 0px;
-	position: relative;
 	z-index: 0;
-	color: #2A7184;
 }
 
 #actividad .content .cke_contents .bck-ol-15 li:before,
 #actividad .content .texto_curso ol.bck-ol-15 li:before,
 #actividad .popover-content ol.bck-ol-15 li:before,
 #actividad .content .workspace ul li ol.bck-ol-15 li:before {
-	content: counter(bck-li-counter) ".";
+	content: counter(bck-li-counter, lower-alpha)'.';
 	position: absolute;
-	color: #2A7184;
+	color: #F19A00;
 	font-weight: bold;
-	margin-top: 0;
 	text-align: right;
-	margin-left: -10px;
-	width: 29px;
-	/*font-family: Conv_TypeType-TT_Rounds;*/
+	left: -20px;
+	font-family: inherit;
+	margin: -2px 0px 0px -1px;
+	width: inherit;
 }
 
 /*LISTA ORDENADA 16*/
@@ -1297,32 +1297,25 @@ body.is_app .reporterosusademo-navbar.ocultar {
 #actividad .popover-content .bck-ol-16 li,
 #actividad .content .workspace ul li .bck-ol-16 li {
 	counter-increment: bck-li-counter;
-	padding-left: 5px;
+	padding-left: 0px;
 	position: relative;
 	z-index: 0;
-	color: #9C9BA0;
-	font-weight: bold;
+	color: #2A7184;
 }
 
-
 #actividad .content .cke_contents .bck-ol-16 li:before,
-#actividad .content .texto_curso .bck-ol-16 li:before,
-#actividad .popover-content .bck-ol-16 li:before,
-#actividad .content .workspace ul li .bck-ol-16 li:before {
-	content: counter(bck-li-counter);
-    /* font-family: Conv_TypeType-TT_Rounds; */
-    font-weight: bold;
-    position: absolute;
-    text-align: right;
-    color: #fff;
-    background-color: #9C9BA0;
-    font-size: 1.8rem;
-    width: 28px;
-    padding: 1px;
-    margin-top: -2px;
-    margin-left: -5px;
-    text-align: center;
-    border-radius: 100%;
+#actividad .content .texto_curso ol.bck-ol-16 li:before,
+#actividad .popover-content ol.bck-ol-16 li:before,
+#actividad .content .workspace ul li ol.bck-ol-16 li:before {
+	content: counter(bck-li-counter) ".";
+	position: absolute;
+	color: #2A7184;
+	font-weight: bold;
+	margin-top: 0;
+	text-align: right;
+	margin-left: -10px;
+	width: 29px;
+	/*font-family: Conv_TypeType-TT_Rounds;*/
 }
 
 /*LISTA ORDENADA 17*/
@@ -1339,15 +1332,57 @@ body.is_app .reporterosusademo-navbar.ocultar {
 #actividad .popover-content .bck-ol-17 li,
 #actividad .content .workspace ul li .bck-ol-17 li {
 	counter-increment: bck-li-counter;
+	padding-left: 5px;
+	position: relative;
+	z-index: 0;
+	color: #9C9BA0;
+	font-weight: bold;
+}
+
+
+#actividad .content .cke_contents .bck-ol-17 li:before,
+#actividad .content .texto_curso .bck-ol-17 li:before,
+#actividad .popover-content .bck-ol-17 li:before,
+#actividad .content .workspace ul li .bck-ol-17 li:before {
+	content: counter(bck-li-counter);
+    /* font-family: Conv_TypeType-TT_Rounds; */
+    font-weight: bold;
+    position: absolute;
+    text-align: right;
+    color: #fff;
+    background-color: #9C9BA0;
+    font-size: 1.8rem;
+    width: 28px;
+    padding: 1px;
+    margin-top: -2px;
+    margin-left: -5px;
+    text-align: center;
+    border-radius: 100%;
+}
+
+/*LISTA ORDENADA 18*/
+#actividad .content .cke_contents .bck-ol-18,
+#actividad .content .texto_curso .bck-ol-18,
+#actividad .content .workspace ul li .bck-ol-18 {
+	list-style-type: none;
+	counter-reset: bck-li-counter;
+}
+
+#actividad .content .cke_contents .bck-ol-18 li,
+#actividad .content .cke_contents .bck-ol-18 li,
+#actividad .content .texto_curso .bck-ol-18 li,
+#actividad .popover-content .bck-ol-18 li,
+#actividad .content .workspace ul li .bck-ol-18 li {
+	counter-increment: bck-li-counter;
 	padding-left: 0px;
 	position: relative;
 	z-index: 0;
 }
 
-#actividad .content .cke_contents .bck-ol-17 li:before,
-#actividad .content .texto_curso ol.bck-ol-17 li:before,
-#actividad .popover-content ol.bck-ol-17 li:before,
-#actividad .content .workspace ul li ol.bck-ol-17 li:before {
+#actividad .content .cke_contents .bck-ol-18 li:before,
+#actividad .content .texto_curso ol.bck-ol-18 li:before,
+#actividad .popover-content ol.bck-ol-18 li:before,
+#actividad .content .workspace ul li ol.bck-ol-18 li:before {
 	content: counter(bck-li-counter) ".";
 	position: absolute;
 	color: #9C9BA0;
