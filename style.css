@@ -798,11 +798,13 @@ body.is_app .reporterosusademo-navbar.ocultar {
 
 .bck-enfasis-9:before {
 	content: "";
-	display: block;
-	position: absolute;
-	border-bottom: 23px solid transparent;
-    border-top: 21px solid transparent;
-    border-right: 25px solid #00A6BA;
+    display: block;
+    position: absolute;
+    border-bottom: 12px solid transparent;
+    border-top: 12px solid transparent;
+    border-right: 15px solid #00A6BA;
+    margin-left: -14px;
+    margin-top: 0.3px;
 }
 
 /*ENFASIS 10*/
@@ -812,6 +814,17 @@ body.is_app .reporterosusademo-navbar.ocultar {
 	border-radius: 3px;
     padding: 2px 15px;
     text-align: center;
+}
+
+.bck-enfasis-10:before {
+	content: "";
+    display: block;
+    position: absolute;
+    border-bottom: 12px solid transparent;
+    border-top: 12px solid transparent;
+    border-right: 15px solid #990381;
+    margin-left: -14px;
+    margin-top: 0.3px;
 }
 
 .bck-enfasis-11 {
