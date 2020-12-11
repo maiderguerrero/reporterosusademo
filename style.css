@@ -942,8 +942,8 @@ body.is_app .reporterosusademo-navbar.ocultar {
     border: 2px solid #025864;
     background-color: #fff;
     font-size: 1.8rem;
-    width: 25px;
-    height: 25px;
+    width: 27px;
+    height: 27px;
     padding: 0;
     margin-top: -1px;
     margin-left: -3px;
@@ -1046,7 +1046,6 @@ body.is_app .reporterosusademo-navbar.ocultar {
 	position: relative;
 	z-index: 0;
 	font-weight: bold;
-	color: #e30613;
 }
 
 
@@ -1095,12 +1094,11 @@ body.is_app .reporterosusademo-navbar.ocultar {
 	content: counter(bck-li-counter, lower-alpha)'.';
 	position: absolute;
 	color: #E3704A;
-	font-size: 1.8rem;
 	font-weight: bold;
 	text-align: right;
 	left: -20px;
 	font-family: inherit;
-	margin: 0px 0px 0px -1px;
+	margin: -2px 0px 0px -1px;
 	width: inherit;
 }
 
