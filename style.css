@@ -684,7 +684,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 	color: #fff;
 	border-top-left-radius: 20px;
 	border-top-right-radius: 20px;
-	padding: 5px 20px;
+	padding: 8px 30px;
 	text-align: center;
 	-moz-width: fit-content;
     -ms-width: fit-content;
@@ -698,7 +698,9 @@ body.is_app .reporterosusademo-navbar.ocultar {
 	border-left: 15px solid transparent;
     border-right: 15px solid transparent;
     border-top: 15px solid #9c9ba0;
-    top: 0;
+    margin-top: 25px;
+    margin-left: -25px;
+    position: absolute;
 
 }
 
