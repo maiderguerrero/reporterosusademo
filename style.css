@@ -2113,124 +2113,33 @@ body.is_app .reporterosusademo-navbar.ocultar {
 }
 
 /*CAJA 6*/
-.bck-box-6 .bck-title:before {
-	content: " ";
-	position: absolute;
-	padding: 15px;
-	background-image: url(imagenes/enparejas_mapas_naranja.png);
-	background-repeat: no-repeat;
-	background-size: contain;
-	margin-top: -3px;
-	margin-left: -35px;
-	display: block;
-}
-
-.bck-box .bck-box-6 {
-	min-height: 80px;
-	margin-top: 20px;
+.bck-box.bck-box-6 {
+	background: transparent;
+    border: none;
+    text-align: left;
+    border-radius: 0px;
 }
 
 .bck-box-6 .bck-title {
-	color: #dc4f24;
-	font-size: 1.5rem;
-	font-weight: 800;
-	text-align: left;
-	background-color: transparent;
-	padding: 10px;
-	padding-left: 50px;
-	border-bottom: 2px solid transparent;
-	margin-bottom: 0px;
+    border: 0px;
+    color: #fff;
+    font-size: 1.8rem;
+    background: #00A6BA;
+    border-radius: 0px;
+    padding: 5px;
 }
 
-.bck-box-6 .bck-content {
-	background: transparent;
-	border-bottom: 2px solid #dc4f24;
+.bck-box.bck-box-6 .bck-content {
+	padding: 20px 27px;
+	background: #EFF8F9;
 }
 
-.bck-box-6 {
-	background: transparent;
+
+.bck-box.bck-box-6 .bck-title:before {
+	 display: none;
 }
 
-/*Caja 6 en caja 11*/
 
-.bck-box-11 .bck-box-6 .bck-title:before {
-	content: " ";
-	position: absolute;
-	padding: 15px;
-	background-image: url(imagenes/enparejas_mapas_naranja.png);
-	background-repeat: no-repeat;
-	background-size: contain;
-	margin-top: -3px;
-	margin-left: -35px;
-	display: block;
-}
-
-.bck-box-11 .bck-box .bck-box-6 {
-	min-height: 80px;
-	margin-top: 20px;
-}
-
-.bck-box-11 .bck-box-6 .bck-title {
-	color: #dc4f24;
-    font-size: 1.5rem;
-    text-align: left;
-    background-color: transparent;
-    padding: 10px;
-    padding-left: 50px;
-    font-weight: 800;
-    margin-bottom: 0px;
-}
-
-.bck-box-11 .bck-box.bck-box-6 .bck-content {
-	padding: 10px;
-	border-bottom: 2px solid #dc4f24;
-	border-radius: 0;
-}
-
-.bck-box-11 .bck-box-6 {
-	background: transparent;
-}
-
-/*Caja 6 en caja 13*/
-
-.bck-box-13 .bck-box-6 .bck-title:before {
-	content: " ";
-	position: absolute;
-	padding: 15px;
-	background-image: url(imagenes/enparejas_mapas_naranja.png);
-	background-repeat: no-repeat;
-	background-size: contain;
-	margin-top: -3px;
-	margin-left: -35px;
-	display: block;
-	margin-bottom: 0px;
-}
-
-.bck-box-13 .bck-box .bck-box-6 {
-	min-height: 80px;
-	margin-top: 20px;
-}
-
-.bck-box-13 .bck-box-6 .bck-title {
-	color: #dc4f24;
-    font-size: 1.5rem;
-    font-weight: 800;
-    text-align: left;
-    background-color: transparent;
-    padding: 10px;
-    padding-left: 50px;
-    margin-bottom: 0px;
-}
-
-.bck-box-13 .bck-box.bck-box-6 .bck-content {
-	padding: 10px;
-	border-bottom: 2px solid #dc4f24;
-	border-radius: 0;
-}
-
-.bck-box-13 .bck-box-6 {
-	background: transparent;
-}
 
 /*CAJA 7*/
 .bck-box.bck-box-7 {
