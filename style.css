@@ -2214,57 +2214,39 @@ body.is_app .reporterosusademo-navbar.ocultar {
 
 /*CAJA 9*/
 .bck-box.bck-box-9 {
-	background: #FFE054;
+	background: transparent;
     border: none;
     text-align: left;
-    border-radius: 15px;
+    border-radius: 0px;
+}
+
+.bck-box.bck-box-9:after {
+	content: "";
+	background-image: url(imagenes/after_estrategias_reporterosusa);
+	background-repeat: no-repeat;
+	background-size: contain;
+	padding: 15px;
+}
+
+.bck-box-9 .bck-title {
+    border: 0px;
+    color: #fff;
+    text-align: center;
+    font-size: 1.8rem;
+    background: #9C9BA0;
+    border-top-left-radius: 15px;
+    padding: 5px;
 }
 
 .bck-box.bck-box-9 .bck-content {
-	padding: 4px 10px 15px;
-	width: 100%;
-	margin-left: 10px;
-	border-radius: 15px;
+	padding: 20px 27px;
+	font-size: 1.7rem;
+	background: #E3E4E7;
 }
 
-.bck-box.bck-box-9 .bck-title {
-	padding: 15px 45px;
-	padding-bottom: 0;
-    border: 0px;
-    color: #333;
-    font-size: 1.5rem;
-    font-weight: 800;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-}
 
-.bck-box-9 .bck-title:before {
-	content: " ";
-    position: absolute;
-    padding: 12px;
-    background: url(imagenes/vocabulario_mapas.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-    margin-top: -3px;
-    margin-left: -25px;
-}
-
-/*Caja 9 dentro de caja 6*/
-.bck-box-6 .bck-box-9 .bck-title:before {
-	content: " ";
-    position: absolute;
-    padding: 12px;
-    background: url(imagenes/vocabulario_mapas.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-    margin-top: -3px;
-    margin-left: -25px;
-}
-
-/*Párrafos en caja 9*/
-
-.bck-box.bck-box-9 p {
-	margin-bottom: 5px;
+.bck-box.bck-box-9 .bck-title:before {
+	 display: none;
 }
 
 
