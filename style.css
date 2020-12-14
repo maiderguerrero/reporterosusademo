@@ -2646,13 +2646,13 @@ body.is_app .reporterosusademo-navbar.ocultar {
     border-radius: 0px;
     background: #EEF7F0;
 	padding: 10px;
+	border: 3px dotted #009A5A;
 }
 
 .bck-box.bck-box-19 .bck-content {
 	padding: 25px;
 	background: #EEF7F0;
 	border-radius: 0px;
-	border: 2px dotted #009A5A;
 }
 
 .bck-box.bck-box-19 .bck-title {
