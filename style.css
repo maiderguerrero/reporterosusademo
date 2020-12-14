@@ -881,6 +881,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 	color: #F19A00;
 	border: 1px solid #F19A00;
 	font-size: 1.8rem;
+	border-radius: 5px;
 }
 
 
