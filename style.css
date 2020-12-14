@@ -868,8 +868,10 @@ body.is_app .reporterosusademo-navbar.ocultar {
 
 /*ENFASIS 16*/
 .bck-enfasis-16 { 
-	color: #F19A00;
+	background-color: #F19A00;
 	padding: 2px;
+	color: #fff;
+	font-size: 1.6rem;
 }
 
 /*----------------------LISTAS-----------------------*/
