@@ -2585,11 +2585,11 @@ body.is_app .reporterosusademo-navbar.ocultar {
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     background-color: #022374;
-    border: 4px solid #000;
+    border: 10px solid #000;
 }
 
 .bck-box.box-18 .bck-content {
-    padding: 15px
+    padding: 15px;
     border: 2px solid #E0040B;
 }
 
