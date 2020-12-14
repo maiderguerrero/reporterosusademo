@@ -2069,6 +2069,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
     background: #990381;
     border-top-left-radius: 15px;
     padding: 5px;
+    font-weight: bold;
 }
 
 .bck-box.bck-box-4 .bck-content {
@@ -2099,6 +2100,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
     background: #00A6BA;
     border-top-left-radius: 15px;
     padding: 5px;
+    font-weight: bold;
 }
 
 .bck-box.bck-box-5 .bck-content {
@@ -2228,14 +2230,20 @@ body.is_app .reporterosusademo-navbar.ocultar {
     background: #9C9BA0;
     border-top-left-radius: 15px;
     padding: 5px;
+    font-weight: bold;
 }
 
 .bck-box-9 .bck-title:after {
 	content: "";
-	background-image: url(imagenes/after_estrategias_reporterosusa.png);
-	background-repeat: no-repeat;
-	background-size: contain;
-	padding: 15px;
+    background-image: url(imagenes/after_estrategias_reporterosusa.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 25px;
+    position: absolute;
+    margin-top: -37px;
+    margin-right: -10px;
+    right: 0;
+    z-index: 1;
 }
 
 .bck-box.bck-box-9 .bck-content {
