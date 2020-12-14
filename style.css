@@ -2189,6 +2189,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 	background: #FFFCDC;
 	border-radius: 15px;
 	border: 2px solid #FFEF00;
+	padding-left: 45px;
 }
 
 .bck-box-8 .bck-content:before {
@@ -2196,8 +2197,9 @@ body.is_app .reporterosusademo-navbar.ocultar {
 	background-image: url(imagenes/lupa_reporterosusa.png);
 	background-repeat: no-repeat;
 	background-size: contain;
-	padding: 15px;
-	position: absolute;
+	padding: 10px;
+    position: absolute;
+    margin-left: -30px;
 }
 
 .bck-box-8 {
