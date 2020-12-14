@@ -2388,7 +2388,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 .bck-box.bck-box-13 {
     border: none;
     border-radius: 0px;
-    background: #DBECDF;
+    background: #DCEFF2;
 	padding: 10px;
 }
 
@@ -2429,6 +2429,97 @@ body.is_app .reporterosusademo-navbar.ocultar {
     margin-top: 30px;
 }
 
+/*CAJA 14*/
+
+.bck-box.bck-box-14 {
+    border: none;
+    border-radius: 0px;
+    background: #FCEAE7;
+	padding: 10px;
+}
+
+.bck-box.bck-box-14 .bck-content {
+	padding: 25px;
+	background: #FCEAE7;
+	border-radius: 0px;
+}
+
+.bck-box.bck-box-14 .bck-title {
+	background: #E4535D;
+    font-weight: bold;
+    color: #fff;
+    padding: 5px 20px;
+    border: 0px;
+    margin: auto;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    -moz-width: fit-content;
+    -ms-width: fit-content;
+    -webkit-width: fit-content;
+    -o-width: fit-content;
+    width: fit-content;
+    font-size: 1.8rem;
+    margin-top: -27px;
+}
+
+.bck-box-14 .bck-title:before {
+	content: '';
+    display: block;
+    position: absolute;
+    z-index: 10;
+    width: 0;
+    height: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-top: 10px solid #E4535D;
+    margin-top: 30px;
+}
+
+/*CAJA 15*/
+
+.bck-box.bck-box-15 {
+    border: none;
+    border-radius: 0px;
+    background: #E9D8EB;
+	padding: 10px;
+}
+
+.bck-box.bck-box-15 .bck-content {
+	padding: 25px;
+	background: #E9D8EB;
+	border-radius: 0px;
+}
+
+.bck-box.bck-box-15 .bck-title {
+	background: #990381;
+    font-weight: bold;
+    color: #fff;
+    padding: 5px 20px;
+    border: 0px;
+    margin: auto;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    -moz-width: fit-content;
+    -ms-width: fit-content;
+    -webkit-width: fit-content;
+    -o-width: fit-content;
+    width: fit-content;
+    font-size: 1.8rem;
+    margin-top: -27px;
+}
+
+.bck-box-15 .bck-title:before {
+	content: '';
+    display: block;
+    position: absolute;
+    z-index: 10;
+    width: 0;
+    height: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-top: 10px solid #990381;
+    margin-top: 30px;
+}
 
 
 /*CAJA POP-UP*/
