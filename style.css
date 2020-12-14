@@ -1968,6 +1968,27 @@ body.is_app .reporterosusademo-navbar.ocultar {
 	color: #fff;
 }
 
+.bck-box-1 .bck-title {
+	color: #fff;
+    font-size: 1.5rem;
+    text-align: left;
+    background-color: #e30613;
+    padding: 10px;
+    padding-left: 50px;
+    border-radius: 0px;
+    font-weight: 800;
+}
+
+.bck-box.bck-box-1 .bck-content {
+	padding: 10px;
+	border-bottom: none
+	color: #fff;
+	background-color: #e30613;
+}
+
+.bck-box-1 {
+	background: transparent;
+}
 
 
 /*CAJA 2*/
