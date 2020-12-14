@@ -2053,7 +2053,6 @@ body.is_app .reporterosusademo-navbar.ocultar {
 }
 
 
-
 /*CAJA 4*/
 .bck-box.bck-box-4 {
 	background: transparent;
@@ -2086,25 +2085,31 @@ body.is_app .reporterosusademo-navbar.ocultar {
 
 /*CAJA 5*/
 .bck-box.bck-box-5 {
-	min-height: 0;
-	margin-top: 15px;
+	background: transparent;
+    border: none;
+    text-align: left;
+    border-radius: 0px;
 }
 
 .bck-box-5 .bck-title {
-	border-bottom: 0px solid #eee;
-	color: #fff;
-	font-size: 2.1rem;
-	font-weight: bold;
-	background-color: #bf0811;
-	padding: 10px;
-	text-align: center;
+    border: 0px;
+    color: #fff;
+    text-align: center;
+    font-size: 1.8rem;
+    background: #00A6BA;
+    border-top-left-radius: 15px;
+    padding: 5px;
 }
 
-.bck-box.bck-box-5 {
-	padding: 10px;
-	background-color: #FBEDE9;
-	top: -20px;
-	border-radius: 0px 0px 15px 15px;
+.bck-box.bck-box-5 .bck-content {
+	padding: 20px 27px;
+	font-size: 1.7rem;
+	background: #EFF8F9;
+}
+
+
+.bck-box.bck-box-5 .bck-title:before {
+	 display: none;
 }
 
 /*CAJA 6*/
