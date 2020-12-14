@@ -2220,14 +2220,6 @@ body.is_app .reporterosusademo-navbar.ocultar {
     border-radius: 0px;
 }
 
-.bck-box.bck-box-9:after {
-	content: "";
-	background-image: url(imagenes/after_estrategias_reporterosusa);
-	background-repeat: no-repeat;
-	background-size: contain;
-	padding: 15px;
-}
-
 .bck-box-9 .bck-title {
     border: 0px;
     color: #fff;
@@ -2236,6 +2228,14 @@ body.is_app .reporterosusademo-navbar.ocultar {
     background: #9C9BA0;
     border-top-left-radius: 15px;
     padding: 5px;
+}
+
+.bck-box-9 .bck-title:after {
+	content: "";
+	background-image: url(imagenes/after_estrategias_reporterosusa.png);
+	background-repeat: no-repeat;
+	background-size: contain;
+	padding: 15px;
 }
 
 .bck-box.bck-box-9 .bck-content {
