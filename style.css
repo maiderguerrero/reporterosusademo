@@ -1992,16 +1992,19 @@ body.is_app .reporterosusademo-navbar.ocultar {
     border: 2px dotted #e30613;
     border-radius: 15px;
     color: #333;
+    padding: 20px;
 }
 
 .bck-box.bck-box-2 .bck-content {
 	color: #333;
     background: #FDEEE7;
+    padding: 5px;
 }
 
 .bck-box.bck-box-2 .bck-title {
 	color: #333;
     background: #FDEEE7;
+    padding: 5px;
 }
 
 .bck-box.bck-box-2 .bck-title:before {
