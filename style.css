@@ -1962,7 +1962,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 	display: none;
 }
 
-.bck-box .bck-box-1 {
+.bck-box.bck-box-1 {
 	background: #e30613;
 	padding: 20px;
 	color: #fff;
@@ -1974,14 +1974,13 @@ body.is_app .reporterosusademo-navbar.ocultar {
     text-align: left;
     background-color: #e30613;
     padding: 10px;
-    padding-left: 50px;
     border-radius: 0px;
     font-weight: 800;
 }
 
 .bck-box.bck-box-1 .bck-content {
 	padding: 10px;
-	border-bottom: none
+	border-bottom: none;
 	color: #fff;
 	background-color: #e30613;
 }
