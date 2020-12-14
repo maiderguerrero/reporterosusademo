@@ -101,6 +101,7 @@
 				{ name: 'Caja 19', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-19' } },
 				{ name: 'Caja 20', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-20' } },
 				{ name: 'Caja 21', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-21' } },
+				{ name: 'Caja 21', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-22' } },
 
 				{ name: 'Icono Critical Thinking Naranja oscuro', element: 'span', attributes: { 'class': 'icon icon-critical' } },
 				{ name: 'Icono Critical Thinking Naranja claro', element: 'span', attributes: { 'class': 'icon icon-critical-gold' } },
