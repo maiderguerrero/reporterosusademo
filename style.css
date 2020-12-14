@@ -2260,28 +2260,32 @@ body.is_app .reporterosusademo-navbar.ocultar {
 
 /*CAJA 10*/
 .bck-box.bck-box-10 {
-	background: #E58D7C;
-    border: none;
-    text-align: left;
-    border-radius: 15px;
+	background: #fff;
+    border: 2px solid #DAEFF8;
+    border-radius: 20px;
+}
+
+.bck-box.bck-box-10:before {
+	content: "";
+	background-image: url(imagenes/icono_news_reporterosusa.png);
+	background-repeat: no-repeat;
+	background-size: contain;
+	padding: 20px;
+	position: absolute;
+	right: 0;
 }
 
 .bck-box.bck-box-10 .bck-content {
-	padding: 4px 10px 15px;
-	width: 100%;
-	margin-left: 10px;
+	padding: 15px;
 	border-radius: 15px;
 }
 
 .bck-box.bck-box-10 .bck-title {
-	padding: 15px 45px;
+	padding: 5px;
 	padding-bottom: 0;
     border: 0px;
-    color: #000;
-    font-size: 1.5rem;
-    font-weight: 800;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
+    color: #2A7184;
+    font-weight: bold;
 }
 
 .bck-box-10 .bck-title:before {
