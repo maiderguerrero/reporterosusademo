@@ -2034,7 +2034,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
     -webkit-width: fit-content;
     -o-width: fit-content;
     width: fit-content;
-    margin-top: -45px;
+    margin-top: -40px;
     font-size: 1.8rem;
 }
 
@@ -2044,7 +2044,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
     background: #FEF6EB;
     padding: 5px;
     font-size: 1.7rem;
-    padding-top: 20px;
+    padding-top: 15px;
 }
 
 
