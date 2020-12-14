@@ -2591,6 +2591,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 .bck-box.box-18 .bck-content {
     padding: 15px;
     border: 2px solid #E0040B;
+    border-radius: 5px;
 }
 
 /*CAJA 19*/
@@ -2602,6 +2603,11 @@ body.is_app .reporterosusademo-navbar.ocultar {
     margin-top: 10px;
     margin-bottom: 15px;
     background: #fff;
+    border-radius: 5px;
+}
+
+.bck-box.box-19 .bck-content {
+	border: 0px solid transparent;
 }
 
 /*CAJA 20*/
@@ -2613,7 +2619,11 @@ body.is_app .reporterosusademo-navbar.ocultar {
     margin-bottom: 15px;
     background: #FADBCB;
     margin-left: 50px;
+    border-radius: 5px;
+}
 
+.bck-box.box-20 .bck-content {
+	border: 0px solid transparent;
 }
 
 
