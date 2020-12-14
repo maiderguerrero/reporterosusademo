@@ -2013,7 +2013,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 
 /*CAJA 3*/
 .bck-box.bck-box-3 {
-	background: transparent;
+	background: #FEF6EB;
     border: 2px dotted #F19A00;
     border-radius: 15px;
     color: #333;
@@ -2023,7 +2023,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 .bck-box.bck-box-3 .bck-title {
 	color: #F19A00;
     background: #fff;
-    padding: 5px;
+    padding: 3px 10px;
     border: 1px solid #F19A00;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
@@ -2034,6 +2034,8 @@ body.is_app .reporterosusademo-navbar.ocultar {
     -webkit-width: fit-content;
     -o-width: fit-content;
     width: fit-content;
+    margin-top: -45px;
+    font-size: 1.8rem;
 }
 
 
@@ -2041,6 +2043,8 @@ body.is_app .reporterosusademo-navbar.ocultar {
 	color: #333;
     background: #FEF6EB;
     padding: 5px;
+    font-size: 1.7rem;
+    padding-top: 20px;
 }
 
 
