@@ -2056,7 +2056,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 
 /*CAJA 4*/
 .bck-box.bck-box-4 {
-	background: #EEE3F0;
+	background: transparent;
     border: none;
     text-align: left;
     border-radius: 0px;
@@ -2069,11 +2069,13 @@ body.is_app .reporterosusademo-navbar.ocultar {
     font-size: 1.8rem;
     background: #990381;
     border-top-left-radius: 15px;
+    padding: 5px;
 }
 
 .bck-box.bck-box-4 .bck-content {
-	padding: 10px;
+	padding: 20px 27px;
 	font-size: 1.7rem;
+	background: #EEE3F0;
 }
 
 
