@@ -2056,56 +2056,33 @@ body.is_app .reporterosusademo-navbar.ocultar {
 
 /*CAJA 4*/
 .bck-box.bck-box-4 {
-	background: #F1B9A7;
+	background: #EEE3F0;
     border: none;
     text-align: left;
-    border-radius: 15px;
+    border-radius: 0px;
 }
 
 .bck-box-4 .bck-title {
-	padding: 15px 55px;
-	padding-bottom: 0;
     border: 0px;
-    color: #000;
-    font-size: 1.5rem;
-    font-weight: 800;
-    background: #F1B9A7;
+    color: #fff;
+    text-align: center;
+    font-size: 1.8rem;
+    background: #990381;
     border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
 }
 
 .bck-box.bck-box-4 .bck-content {
-	padding: 4px 10px 15px;
-	width: 100%;
-	margin-left: 10px;
-	border-radius: 15px;
+	padding: 10px;
+	font-size: 1.7rem;
 }
 
 
 .bck-box.bck-box-4 .bck-title:before {
-	    content: " ";
-    position: absolute;
-    padding: 15px;
-    background: url(imagenes/estrategia_mapas.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-    margin-top: -4px;
-    margin-left: -35px;
+	 display: none;
 }
 
-.bck-box-5 .bck-box-4 .bck-title {
-	padding: 15px 55px;
-	padding-bottom: 0;
-    border: 0px;
-    color: #333;
-    font-size: 1.5rem;
-    font-weight: 800;
-    background: #F1B9A7;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-}
 
-/*CAJA5*/
+/*CAJA 5*/
 .bck-box.bck-box-5 {
 	min-height: 0;
 	margin-top: 15px;
