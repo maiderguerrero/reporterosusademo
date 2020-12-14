@@ -2191,20 +2191,23 @@ body.is_app .reporterosusademo-navbar.ocultar {
 	border: 2px solid #FFEF00;
 }
 
+.bck-box-8 .bck-content:before {
+	content: "";
+	background-image: url(imagenes/lupa_reporterosusa.png);
+	background-repeat: no-repeat;
+	background-size: contain;
+	padding: 15px;
+	position: absolute;
+}
+
 .bck-box-8 {
-	background: transparent;
-	margin-top: 50px;
+	background-color: #FFFCDC;
+	border-radius: 15px;
+	padding: 15px;
 }
 
 .bck-box-8:before {
-	content: "VIDEO";
-	color: #dc4f24;
-	padding: 40px;
-	position: absolute;
-	margin-top: -65px;
-	left: -30px;
-	font-weight: bold;
-	font-size: 2.2rem;
+	display: none;
 }
 
 /*CAJA 9*/
