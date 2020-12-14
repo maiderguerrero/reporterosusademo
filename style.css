@@ -2013,7 +2013,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 
 /*CAJA 3*/
 .bck-box.bck-box-3 {
-	background: #FEF6EB;
+	background: transparent;
     border: 2px dotted #F19A00;
     border-radius: 15px;
     color: #333;
