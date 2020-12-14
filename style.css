@@ -2317,10 +2317,10 @@ body.is_app .reporterosusademo-navbar.ocultar {
     background-image: url(imagenes/icono_sonidosyletras_reporterosusa.png);
     background-repeat: no-repeat;
     background-size: contain;
-    padding: 25px;
+    padding: 35px;
     position: absolute;
-    margin-top: -37px;
-    margin-right: -10px;
+    margin-top: -47px;
+    margin-right: 24px;
     right: 0;
     z-index: 1;
 }
