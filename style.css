@@ -1989,44 +1989,24 @@ body.is_app .reporterosusademo-navbar.ocultar {
 
 /*CAJA 2*/
 .bck-box.bck-box-2 {
-	background: #DC4F24;
-    border: none;
-    margin-top: 20px;
+	background: #FDEEE7;
+    border: 2px dotted #e30613;
     border-radius: 15px;
-    color: #fff;
+    color: #333;
 }
 
 .bck-box.bck-box-2 .bck-content {
-	font-family: 'Conv_TypeType-TT_Rounds';
-	color: #fff;
-    background: #DC4F24;
-    font-size: 2.1rem;
-    font-weight: bold;
-    padding-top: 4px;
-    padding-left: 20px;
-    border-radius: 15px;
+	color: #333;
+    background: #FDEEE7;
 }
 
 .bck-box.bck-box-2 .bck-title {
-	color: #fff;
-    background: #DC4F24;
-    margin-bottom: 0;
-    font-size: 1.5rem;
-    padding: 15px 45px 0px 55px;
-    font-weight: 800;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
+	color: #333;
+    background: #FDEEE7;
 }
 
 .bck-box.bck-box-2 .bck-title:before {
-	content: " ";
-    position: absolute;
-    padding: 15px;
-    background: url(imagenes/foro_mapas.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-    margin-top: -3px;
-    margin-left: -35px;
+	display: none;
 }
 
 /*CAJA 3*/
