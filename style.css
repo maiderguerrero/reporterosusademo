@@ -2553,6 +2553,31 @@ body.is_app .reporterosusademo-navbar.ocultar {
 }
 
 
+/*CAJA 17*/
+
+.bck-box.bck-box-17 {
+    border: none;
+    border-radius: 0px;
+    background: #F6F5F2;
+	padding: 0px;
+	-webkit-box-shadow: rgb(186, 186, 186) 10px 10px 15px 0px;
+	-moz-box-shadow: rgb(186, 186, 186) 10px 10px 15px 0px;
+	box-shadow: rgb(186, 186, 186) 10px 10px 15px 0px;
+}
+
+.bck-box.bck-box-17 .bck-content {
+	padding: 25px;
+	background: transparent;
+}
+
+.bck-box.bck-box-17 .bck-title {
+	background: transparent;
+    padding: 13px 20px;
+    border: 0px;
+    border-radius: 0px;
+    font-size: 1.8rem;
+}
+
 
 
 /*CAJA POP-UP*/
