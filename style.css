@@ -2261,23 +2261,26 @@ body.is_app .reporterosusademo-navbar.ocultar {
 /*CAJA 10*/
 .bck-box.bck-box-10 {
 	background: #fff;
-    border: 2px solid #DAEFF8;
+    border: 4px solid #DAEFF8;
     border-radius: 20px;
 }
 
 .bck-box.bck-box-10:before {
 	content: "";
-	background-image: url(imagenes/icono_news_reporterosusa.png);
-	background-repeat: no-repeat;
-	background-size: contain;
-	padding: 20px;
-	position: absolute;
-	right: 0;
+    background-image: url(imagenes/icono_news_reporterosusa.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 30px;
+    position: absolute;
+    right: 0;
+    margin-top: -20px;
+    margin-right: -20px;
 }
 
 .bck-box.bck-box-10 .bck-content {
-	padding: 15px;
+	padding: 15px 25px;
 	border-radius: 15px;
+	color: #2A7184;
 }
 
 .bck-box.bck-box-10 .bck-title {
@@ -2288,35 +2291,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
     font-weight: bold;
 }
 
-.bck-box-10 .bck-title:before {
-	content: " ";
-    position: absolute;
-    padding: 12px;
-    background: url(imagenes/vocabulario_mapas.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-    margin-top: -3px;
-    margin-left: -25px;
-}
 
-
-/*Caja 10 dentro de caja 6*/
-.bck-box-6 .bck-box-10 .bck-title:before {
-	content: " ";
-    position: absolute;
-    padding: 12px;
-    background: url(imagenes/vocabulario_mapas.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-    margin-top: -3px;
-    margin-left: -25px;
-}
-
-/*Párrafo en caja 10*/
-
-.bck-box.bck-box-10 p {
-	margin-bottom: 5px;
-}
 
 /*CAJA 11*/
 .bck-box.bck-box-11 {
