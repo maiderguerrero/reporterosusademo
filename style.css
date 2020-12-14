@@ -861,6 +861,11 @@ body.is_app .reporterosusademo-navbar.ocultar {
  }
 
 
+/*ENFASIS 15*/
+.bck-enfasis-15 { 
+    font-size: 1.5rem;
+}
+
 
 /*----------------------LISTAS-----------------------*/
 #actividad .content .cke_contents .bck-ol li:before,
