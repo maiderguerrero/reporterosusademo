@@ -869,9 +869,9 @@ body.is_app .reporterosusademo-navbar.ocultar {
 /*ENFASIS 16*/
 .bck-enfasis-16 { 
 	background-color: #F19A00;
-	padding: 2px;
+	padding: 3px 5px;
 	color: #fff;
-	font-size: 1.6rem;
+	font-size: 1.8rem;
 }
 
 /*ENFASIS 17*/
@@ -880,7 +880,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 	padding: 2px 4px;
 	color: #F19A00;
 	border: 1px solid #F19A00;
-	font-size: 1.6rem;
+	font-size: 1.8rem;
 }
 
 
