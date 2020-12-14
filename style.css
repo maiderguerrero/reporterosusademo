@@ -2295,67 +2295,45 @@ body.is_app .reporterosusademo-navbar.ocultar {
 
 /*CAJA 11*/
 .bck-box.bck-box-11 {
+	background: transparent;
     border: none;
     text-align: left;
-    border-radius: 15px;
-    background: #fff;
+    border-radius: 0px;
+}
+
+.bck-box-11 .bck-title {
+    border: 0px;
+    color: #fff;
+    text-align: center;
+    font-size: 1.8rem;
+    background: #E3704A;
+    border-top-left-radius: 15px;
+    padding: 5px;
+    font-weight: bold;
+}
+
+.bck-box-11 .bck-title:after {
+	content: "";
+    background-image: url(imagenes/icono_sonidosyletras_reporterosusa.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 25px;
+    position: absolute;
+    margin-top: -37px;
+    margin-right: -10px;
+    right: 0;
+    z-index: 1;
 }
 
 .bck-box.bck-box-11 .bck-content {
-	padding: 4px 10px 15px;
-	width: 100%;
-	margin-left: 0px;
-	border-bottom-left-radius: 15px;
-	border-bottom-right-radius: 15px;
-	background: #fff;
-}
-
-.bck-box.bck-box-11 .bck-title {
-	background: #333;
-    padding: 5px 20px;
-    border: 0px;
-    color: #fff;
-    font-size: 1.5rem;
-    font-weight: 800;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-}
-
-.bck-box-11 .bck-title:before {
-	display: none;
-}
-
-
-/*Caja 11 dentro de caja 6*/
-.bck-box-6 .bck-box-11 .bck-title:before {
-	content: " ";
-    position: absolute;
-    padding: 12px;
-    background: url(imagenes/vocabulario_mapas.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-    margin-top: -3px;
-    margin-left: -25px;
-}
-
-/*Arreglos cajas*/
-.bck-box-5 .bck-box-1 .bck-title {
-	color: #fff;
-	font-size: 1.5rem;
-	font-weight: 800;
-	text-align: left;
-	background-color: #808080;
-	padding: 10px;
-	padding-left: 50px;
-}
-
-.bck-box-1 .bck-content .bck-box-4 .bck-title {
-	padding: 10px 25px;
-	border: 0px;
-	color: #9D9D9C;
+	padding: 20px 27px;
 	font-size: 1.8rem;
-	font-weight: bold;
-	background: transparent;
+	background: #FAE5DB;
+}
+
+
+.bck-box.bck-box-11 .bck-title:before {
+	 display: none;
 }
 
 
