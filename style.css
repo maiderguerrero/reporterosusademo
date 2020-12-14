@@ -395,13 +395,28 @@ body:not(.isTablet) #book-index #indice .unit-content .actividades .item:active,
 	font-weight: bold;
 }
 
-#actividad .content .header .title h3 {
-	color: #fff;
-	background: #DC4F24;
-	width: 100%;
-	padding: 13px;
-	font-weight: bold;
+#actividad .content .header .title {
+    min-height: 0px;
+    background: red;
+    padding: 0;
 }
+
+
+#actividad .content .header .title h3 {
+	background: #fff;
+    color: #e30613;
+    -moz-width: fit-content;
+    -webkit-width: fit-content;
+    -ms-width: fit-content;
+    -o-width: fit-content;
+    width: fit-content;
+    padding: 0px 10px 0px 0px;
+    font-weight: bold;
+    font-size: 2.2rem;
+    margin-top: 0;
+}
+
+
 #actividad .content .header .title h3::before{
 	content: '';
 	display: none;
