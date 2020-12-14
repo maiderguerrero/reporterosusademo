@@ -1961,119 +1961,14 @@ body.is_app .reporterosusademo-navbar.ocultar {
 .bck-box.bck-box-1:after {
 	display: none;
 }
-.bck-box-1 .bck-title:before {
-	content: " ";
-	position: absolute;
-	padding: 17px;
-	background-image: url(imagenes/engrupo_mapas_naranja.png);
-	background-repeat: no-repeat;
-	background-size: contain;
-	margin-top: -3px;
-	margin-left: -40px;
-}
 
 .bck-box .bck-box-1 {
-	min-height: 80px;
-	margin-top: 20px;
+	background: #e30613;
+	padding: 20px;
+	color: #fff;
 }
 
-.bck-box-1 .bck-title {
-	color: #dc4f24;
-    font-size: 1.5rem;
-    text-align: left;
-    background-color: transparent;
-    padding: 10px;
-    padding-left: 50px;
-    border-radius: 0px;
-    font-weight: 800;
-}
 
-.bck-box.bck-box-1 .bck-content {
-	padding: 10px;
-	border-bottom: 2px solid #dc4f24;
-}
-
-.bck-box-1 {
-	background: transparent;
-}
-
-/*Caja 1 en caja 11*/
-
-.bck-box-11 .bck-box-1 .bck-title:before {
-	content: " ";
-	position: absolute;
-	padding: 17px;
-	background-image: url(imagenes/engrupo_mapas_naranja.png);
-	background-repeat: no-repeat;
-	background-size: contain;
-	margin-top: -3px;
-	margin-left: -40px;
-	display: block;
-}
-
-.bck-box-11 .bck-box .bck-box-1 {
-	min-height: 80px;
-	margin-top: 20px;
-}
-
-.bck-box-11 .bck-box-1 .bck-title {
-	color: #dc4f24;
-    font-size: 2rem;
-    text-align: left;
-    background-color: transparent;
-    padding: 10px;
-    padding-left: 50px;
-    font-weight: 800;
-}
-
-.bck-box-11 .bck-box.bck-box-1 .bck-content {
-	padding: 10px;
-	border-bottom: 2px solid #dc4f24;
-	border-radius: 0;
-}
-
-.bck-box-11 .bck-box-1 {
-	background: transparent;
-}
-
-/*Caja 1 en caja 13*/
-
-.bck-box-13 .bck-box-1 .bck-title:before {
-	content: " ";
-	position: absolute;
-	padding: 17px;
-	background-image: url(imagenes/engrupo_mapas_naranja.png);
-	background-repeat: no-repeat;
-	background-size: contain;
-	margin-top: -3px;
-	margin-left: -40px;
-	display: block;
-}
-
-.bck-box-13 .bck-box .bck-box-1 {
-	min-height: 80px;
-	margin-top: 20px;
-}
-
-.bck-box-13 .bck-box-1 .bck-title {
-	color: #dc4f24;
-    font-size: 2rem;
-    text-align: left;
-    background-color: transparent;
-    padding: 10px;
-    padding-left: 50px;
-    font-weight: 800;
-}
-
-.bck-box-13 .bck-box.bck-box-1 .bck-content {
-	padding: 10px;
-	border-bottom: 2px solid #dc4f24;
-	border-radius: 0;
-}
-
-.bck-box-13 .bck-box-1 {
-	background: transparent;
-}
 
 /*CAJA 2*/
 .bck-box.bck-box-2 {
