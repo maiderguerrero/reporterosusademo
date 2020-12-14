@@ -2126,7 +2126,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
     font-size: 1.8rem;
     background: #00A6BA;
     border-radius: 0px;
-    padding: 5px;
+    padding: 5px 25px;
 }
 
 .bck-box.bck-box-6 .bck-content {
@@ -2145,22 +2145,22 @@ body.is_app .reporterosusademo-navbar.ocultar {
 .bck-box.bck-box-7 {
 	min-height: 0;
 	margin-top: 15px;
+	border: 2px solid #00A6BA;
+	background-color: #fff;
+	padding: 20px;
 }
 
 .bck-box-7 .bck-title {
 	border-bottom: 0px solid transparent;
-	color: #fff;
-	font-size: 2.1rem;
-	font-weight: bold;
-	background-color: #D0D0D0;
-	padding: 10px;
-	text-align: center;
+	color: #333;
+	font-size: 1.8rem;
+	background-color: #fff;
 }
 
 .bck-box-7 .bck-content {
-	padding: 10px;
-	background-color: #D0D0D0;
-	border-radius: 15px;
+	background-color: #fff;
+	border-radius: 0px;
+	color: #333;
 }
 
 /*Caja 7 en cajas 1 y 6*/
