@@ -1962,6 +1962,41 @@ body.is_app .reporterosusademo-navbar.ocultar {
     margin-left: 6px;
 }
 
+/*LISTA DESORDENADA 10*/
+#actividad .content .cke_contents .bck-ul-10,
+#actividad .content .texto_curso .bck-ul-10,
+#actividad .content .workspace ul li .bck-ul-10 {
+    list-style-type: none;
+}
+
+#actividad .content .cke_contents .bck-ul-10 li,
+#actividad .content .cke_contents .bck-ul-10 li,
+#actividad .content .texto_curso .bck-ul-10 li,
+#actividad .popover-content .bck-ul-10 li,
+#actividad .content .workspace ul li .bck-ul-10 li {
+    padding-left: 40px;
+    position: relative;
+    list-style: none;
+    margin-bottom: 10px;
+    color: #F19A00;
+}
+
+#actividad .content .cke_contents .bck-ul-10 li:before,
+#actividad .content .texto_curso ul.bck-ul-10 li:before,
+#actividad .popover-content ul.bck-ul-10 li:before,
+#actividad .content .workspace ul li ul.bck-ul-10 li:before {
+    content: "";
+    height: 6px;
+    width: 6px;
+    background-color: #F19A00;
+    color: #555;
+    border-radius: 50%;
+    position: absolute;
+    margin-top: .6em;
+    margin-left: 6px;
+}
+
+
 .bck-box p {
 	display: block;
 }
