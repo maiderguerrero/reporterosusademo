@@ -2854,6 +2854,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 
 .bck-box.bck-box-24 .bck-title {
 	background: #e30613;
+	text-align: left;
     font-weight: bold;
     color: #fff;
     padding: 13px 20px;
