@@ -3214,18 +3214,17 @@ th {
 }
 
 /*TABLA 1*/ 
-.bck-table .bck-table-1 {
+.bck-table-1 {
 	border: 2px solid #F19A00;
 }
 
 /*TABLA 2*/ 
-.bck-table .bck-table-2 {
+.bck-table-2 {
 	border: 2px solid #9C9BA0;
 }
 
 /*TABLA 3*/
-
-.bck-table .bck-table-3 {
+.bck-table-3 {
 	border: 2px solid transparent;
 }
 
