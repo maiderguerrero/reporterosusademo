@@ -2879,16 +2879,20 @@ body.is_app .reporterosusademo-navbar.ocultar {
 
 .bck-box.bck-box-25:before {
 	content: "";
-	background-image: url(imagenes/beforecaja_conexionarte_reporterosusa.png);
-	background-repeat: no-repeat;
-	background-size: contain;
-	padding: 50px;
-	position: absolute;
-	right: 0;
+    background-image: url(imagenes/beforecaja_conexionarte_reporterosusa.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 50px;
+    position: absolute;
+    right: 0;
+    margin-right: 20px;
+    margin-top: -15px;
+
 }
 
 .bck-box.bck-box-25 .bck-content {
 	padding: 25px;
+	padding-left: 0;
 	background: transparent;
 }
 
