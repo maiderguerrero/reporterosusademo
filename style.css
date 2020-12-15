@@ -2823,18 +2823,14 @@ body.is_app .reporterosusademo-navbar.ocultar {
     padding-top: 15px;
 }
 
-.bck-box.bck-box-23 .bck-content:before {
+.bck-box.bck-box-23 .bck-title:before {
 	content: "";
 	background-image: url(imagenes/before_tick_testcultural_reporterosusa.png);
 	background-repeat: no-repeat;
 	background-size: contain;
 	padding: 20px;
 	right: 0px;
-}
-
-
-.bck-box.bck-box-23 .bck-title:before {
-	display: none;
+	position: absolute;
 }
 
 
