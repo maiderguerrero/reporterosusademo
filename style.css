@@ -3031,6 +3031,8 @@ body.is_app .reporterosusademo-navbar.ocultar {
 
 .item-container .icon-like:before {
 	background-image: url(imagenes/icono_like_reporterosusa.png);
+	width: 23px;
+    height: 23px;
 }
 
 .item-container .icon-dislike:before {
