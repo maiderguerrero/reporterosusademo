@@ -3237,6 +3237,10 @@ table.bck-table-3 {
 	border: 2px solid transparent;
 }
 
+table.bck-table-2 td {
+	border-color: transparent;
+}
+
 /*CELDA 1*/
 table td.bck-td-1 {
 	background-color: #F19A00;
