@@ -899,6 +899,17 @@ body.is_app .reporterosusademo-navbar.ocultar {
 	border-radius: 5px;
 }
 
+/*ENFASIS 18*/
+.bck-enfasis-18 {
+	color: #025864;
+	font-size: 1.5rem;
+	font-weight: bold;
+}
+
+/*ENFASIS 19*/
+.bck-enfasis-19 {
+	color: #E3704A;
+}
 
 /*----------------------LISTAS-----------------------*/
 #actividad .content .cke_contents .bck-ol li:before,
