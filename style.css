@@ -491,7 +491,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 
 /*Icono audio*/
 #actividad .player.audio {
-	background-image: url(imagenes/img_audio.png);
+	background-image: url(imagenes/icono_audio_reporterosusa.png);
 	color: #fff;
 }
 
@@ -3067,10 +3067,15 @@ body.is_app .reporterosusademo-navbar.ocultar {
 
 .item-container .icon-cabeza-engranajes:before {
 	background-image: url(imagenes/icono_cabezaengranajes_reporterosusa.png);
+	width: 34px;
+    height: 40px;
 }
 
 .item-container .icon-thespanishhub:before {
 	background-image: url(imagenes/thespanishhub_logo_horizontal_reporterosusa.png);
+	width: 113px;
+    height: 33px;
+    margin-top: -3px;
 }
 
 
