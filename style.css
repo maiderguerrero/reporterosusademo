@@ -2927,10 +2927,12 @@ body.is_app .reporterosusademo-navbar.ocultar {
 }
 
 /**Iconos**/
+.cke_contents .item-container .icon:before,
 .item-container .icon:before {
 	vertical-align: top;
 }
 
+.cke_contents .item-container .icon-parejas-negro:before,
 .item-container .icon-parejas-negro:before {
 	background-image: url(imagenes/icono_enparejas_negro_reporterosusa.png);
 	width: 160px;
