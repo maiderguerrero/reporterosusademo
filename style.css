@@ -3065,6 +3065,14 @@ body.is_app .reporterosusademo-navbar.ocultar {
     height: 70px;
 }
 
+.item-container .icon-cabeza-engranajes:before {
+	background-image: url(imagenes/icono_cabezaengranajes_reporterosusa.png);
+}
+
+.item-container .icon-thespanishhub:before {
+	background-image: url(imagenes/thespanishhub_logo_horizontal_reporterosusa.png);
+}
+
 
 /**TABLA**/
 table,
