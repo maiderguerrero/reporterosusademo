@@ -3218,9 +3218,18 @@ table.bck-table-1 {
 	border: 2px solid #F19A00;
 }
 
+
+table.bck-table-1 td {
+    border-color: #F19A00;
+}
+
 /*TABLA 2*/ 
 table.bck-table-2 {
 	border: 2px solid #9C9BA0;
+}
+
+table.bck-table-2 td {
+    border-color: #9C9BA0;
 }
 
 /*TABLA 3*/
@@ -3233,9 +3242,17 @@ table td.bck-td-1 {
 	background-color: #F19A00;
 }
 
+table.bck-table-1 td.bck-td-1 {
+	border-color: #fff;
+}
+
 /*CELDA 2*/
 table td.bck-td-2 {
 	background-color: #9C9BA0;
+}
+
+table.bck-table-2 td.bck-td-2 {
+	border-color: #fff;
 }
 
 /*CELDA 3*/
