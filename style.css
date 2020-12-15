@@ -3229,8 +3229,18 @@ th {
 }
 
 /*CELDA 1*/
-.bck-td-1 {
+table td.bck-td-1 {
+	background-color: #F19A00;
+}
+
+/*CELDA 2*/
+table td.bck-td-2 {
 	background-color: #9C9BA0;
+}
+
+/*CELDA 3*/
+table td.bck-td-3 {
+	background-color: #E3E4E7;
 }
 
 /*Boton toc - boton reininciar ejercicio*/
