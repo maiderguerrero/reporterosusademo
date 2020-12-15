@@ -123,6 +123,8 @@
 				{ name: 'Icono Escribir', element: 'span', attributes: { 'class': 'icon icon-escribir' } },
 				{ name: 'Icono Grabar', element: 'span', attributes: { 'class': 'icon icon-grabar' } },
 				{ name: 'Icono Lista', element: 'span', attributes: { 'class': 'icon icon-lista' } },
+				{ name: 'Icono Cabeza Engranajes', element: 'span', attributes: { 'class': 'icon icon-cabeza-engranajes' } },
+				{ name: 'Icono The Spanish Hub', element: 'span', attributes: { 'class': 'icon icon-thespanishhub' } },
 
 				{ name: 'Desplegable 1', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown bck-dropdown-1' } },
 				{ name: 'Desplegable 2', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown bck-dropdown-2' } },
