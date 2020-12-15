@@ -3229,6 +3229,10 @@ th {
 	border: 2px solid transparent;
 }
 
+/*CELDA 1*/
+.bck-td-1 {
+	background-color: #9C9BA0;
+}
 
 /*Boton toc - boton reininciar ejercicio*/
 .btn-primary {
