@@ -2867,6 +2867,25 @@ body.is_app .reporterosusademo-navbar.ocultar {
 	box-shadow: rgb(212, 212, 212) 5px 6px 13px 0px;
 }
 
+/*CAJA 25*/
+
+.bck-box.bck-box-25 {
+    border: none;
+    border-radius: 15px;
+    background: #fff;
+	padding: 0px;
+	border-bottom: 2px dotted #e30613;
+}
+
+.bck-box.bck-box-25 .bck-content {
+	padding: 25px;
+	background: transparent;
+}
+
+.bck-box.bck-box-25 .bck-title {
+	background: transparent;
+}
+
 
 /*CAJA POP-UP*/
 .info-popover .popover-title:before,
