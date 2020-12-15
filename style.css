@@ -2929,9 +2929,18 @@ body.is_app .reporterosusademo-navbar.ocultar {
 /**Iconos**/
 .cke_contents .icon:before, 
 .item-container.icon:before {
-	vertical-align: top;
-	display: inline-block;
 	content: "";
+	background-repeat: no-repeat;
+	-webkit-background-size: auto 100%;
+	   -moz-background-size: auto 100%;
+	     -o-background-size: auto 100%;
+	        background-size: auto 100%;
+	background-position: center center;
+	display: inline-block;
+	vertical-align: top;
+	height: 40px;
+	width: 45px;
+	margin-top: 0px;
 }
 
 .item-container .icon-parejas-negro:before {
