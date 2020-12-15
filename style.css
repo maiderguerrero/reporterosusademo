@@ -2931,48 +2931,48 @@ body.is_app .reporterosusademo-navbar.ocultar {
 	vertical-align: top;
 }
 
-.item-container .icon-critical:before {
-	background-image: url(imagenes/criticalthinking_naranja.png);
+.item-container .icon-parejas-negro:before {
+	background-image: url(imagenes/icono_enparejas_negro_reporterosusa.png);
 	width: 160px;
     height: 25px;
     vertical-align: top;
     margin-right: 5px;
 }
 
-.item-container .icon-critical-gold:before {
-	background-image: url(imagenes/criticalthinking_naranjaclaro.png);
+.item-container .icon-parejas-blanco:before {
+	background-image: url(imagenes/icono_enparejas_blanco_reporterosusa.png);
 	width: 160px;
     height: 25px;
     vertical-align: top;
     margin-right: 5px;
 }
 
-.item-container .icon-critical-verde:before {
-	background-image: url(imagenes/criticalthinking_verde.png);
+.item-container .icon-grupos-negro:before {
+	background-image: url(imagenes/icono_engrupos_negro_reporterosusa.png);
 	width: 160px;
     height: 25px;
     vertical-align: top;
     margin-right: 5px;
 }
 
-.item-container .icon-critical-negro:before {
-	background-image: url(imagenes/criticalthinking_negro.png);
+.item-container .icon-grupos-blanco:before {
+	background-image: url(imagenes/icono_engrupos_blanco_reporterosusa.png);
 	width: 160px;
     height: 25px;
     vertical-align: top;
     margin-right: 5px;
 }
 
-.item-container .icon-critical-azul:before {
-	background-image: url(imagenes/criticalthinking_azul.png);
+.item-container .icon-campana-azul:before {
+	background-image: url(imagenes/icono_campana_azul_reporterosusa.png);
 	width: 160px;
     height: 25px;
     vertical-align: top;
     margin-right: 5px;
 }
 
-.item-container .icon-search:before {
-	background-image: url(imagenes/search_naranja.png);
+.item-container .icon-campana-morado:before {
+	background-image: url(imagenes/icono_campana_morado_reporterosusa.png);
 	width: 105px;
     height: 23px;
     vertical-align: top;
@@ -2980,8 +2980,8 @@ body.is_app .reporterosusademo-navbar.ocultar {
     margin-top: 1px;
 }
 
-.item-container .icon-search-naranjaclaro:before {
-	background-image: url(imagenes/search_naranjaclaro.png);
+.item-container .icon-campana-teja:before {
+	background-image: url(imagenes/icono_campana_teja_reporterosusa.png);
 	width: 105px;
     height: 23px;
     vertical-align: top;
@@ -2989,8 +2989,8 @@ body.is_app .reporterosusademo-navbar.ocultar {
     margin-top: 1px;
 }
 
-.item-container .icon-search-verde:before {
-	background-image: url(imagenes/search_verde.png);
+.item-container .icon-una-estrella:before {
+	background-image: url(imagenes/icono_unaestrella_reporterosusa.png);
 	width: 105px;
     height: 23px;
     vertical-align: top;
@@ -2998,8 +2998,8 @@ body.is_app .reporterosusademo-navbar.ocultar {
     margin-top: 1px;
 }
 
-.item-container .icon-search-negro:before {
-	background-image: url(imagenes/search_negro.png);
+.item-container .icon-dos-estrellas:before {
+	background-image: url(imagenes/icono_dosestrellas_reporterosusa.png);
 	width: 105px;
     height: 23px;
     vertical-align: top;
@@ -3007,8 +3007,8 @@ body.is_app .reporterosusademo-navbar.ocultar {
     margin-top: 1px;
 }
 
-.item-container .icon-search-azul:before {
-	background-image: url(imagenes/search_azul.png);
+.item-container .icon-tres-estrellas:before {
+	background-image: url(imagenes/icono_tresestrellas_reporterosusa.png);
 	width: 105px;
     height: 23px;
     vertical-align: top;
@@ -3016,15 +3016,40 @@ body.is_app .reporterosusademo-navbar.ocultar {
     margin-top: 1px;
 }
 
-.item-container .icon-video-oscuro:before {
-	background-image: url(imagenes/icono_video_oscuro.png);
+.item-container .icon-video:before {
+	background-image: url(imagenes/icono_video_reporterosusa.png);
 	height: 20px;
 	width: 33px;
 }
 
-.item-container .icon-bocadillo-blanco:before {
-	background-image: url(imagenes/bocadillo_blanco.png);
+.item-container .icon-lupa:before {
+	background-image: url(imagenes/lupa_reporterosusa.png);
 }
+
+.item-container .icon-like:before {
+	background-image: url(imagenes/icono_like_reporterosusa.png);
+}
+
+.item-container .icon-dislike:before {
+	background-image: url(imagenes/icono_dislike_reporterosusa.png);
+}
+
+.item-container .icon-bombilla:before {
+	background-image: url(imagenes/icono_bombilla_reporterosusa.png);
+}
+
+.item-container .icon-escribir:before {
+	background-image: url(imagenes/icono_escribimos_reporterosusa.png);
+}
+
+.item-container .icon-grabar:before {
+	background-image: url(imagenes/icono_grabamos_reporterosusa.png);
+}
+
+.item-container .icon-lista:before {
+	background-image: url(imagenes/icono_lista_reporterosusa.png);
+}
+
 
 /**TABLA**/
 table,
