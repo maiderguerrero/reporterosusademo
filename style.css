@@ -3213,6 +3213,23 @@ th {
 	padding-left: 10px;
 }
 
+/*TABLA 1*/ 
+.bck-table .bck-table-1 {
+	border: 2px solid #F19A00;
+}
+
+/*TABLA 2*/ 
+.bck-table .bck-table-2 {
+	border: 2px solid #9C9BA0;
+}
+
+/*TABLA 3*/
+
+.bck-table .bck-table-3 {
+	border: 2px solid transparent;
+}
+
+
 /*Boton toc - boton reininciar ejercicio*/
 .btn-primary {
 	background-color: #428bcac9;
