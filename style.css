@@ -493,6 +493,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 #actividad .player.audio {
 	background-image: url(imagenes/icono_audio_reporterosusa.png);
 	color: #fff;
+	vertical-align: middle;
 }
 
 
