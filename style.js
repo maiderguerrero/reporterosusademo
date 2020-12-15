@@ -131,6 +131,14 @@
 				{ name: 'Icono Cabeza Engranajes', element: 'span', attributes: { 'class': 'icon icon-cabeza-engranajes' } },
 				{ name: 'Icono The Spanish Hub', element: 'span', attributes: { 'class': 'icon icon-thespanishhub' } },
 
+				{ name: 'Tabla 1', element: 'table', attributes: { 'class': 'bck-table-1' } },
+				{ name: 'Tabla 2', element: 'table', attributes: { 'class': 'bck-table-2' } },
+				{ name: 'Tabla 3', element: 'table', attributes: { 'class': 'bck-table-3' } },
+
+				{ name: 'Celda 1', element: 'td', attributes: { 'class': 'bck-td-1' } },
+				{ name: 'Celda 2', element: 'td', attributes: { 'class': 'bck-td-2' } },
+				{ name: 'Celda 3', element: 'td', attributes: { 'class': 'bck-td-3' } },
+
 				{ name: 'Desplegable 1', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown bck-dropdown-1' } },
 				{ name: 'Desplegable 2', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown bck-dropdown-2' } },
 				{ name: 'Desplegable 3', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown bck-dropdown-3' } },
