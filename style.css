@@ -212,7 +212,7 @@ body:not(.isTablet) #indice .units ul li:not(.disabled) a .title:hover {
 /*Material de apoyo*/
 
 #indice .unit-content .material .item .imagen.musica:after {
-	background-image: url(imagenes/icono_audio_materialapoyo3_reporterosusa.png);
+	background-image: url(imagenes/icono_audio_materialapoyo_reporterosusa.png);
 }
 
 #indice .unit-content .material .item .imagen.video:after {
@@ -221,7 +221,7 @@ body:not(.isTablet) #indice .units ul li:not(.disabled) a .title:hover {
 
 #indice .unit-content .material .item .imagen.archivo:after, 
 #indice .unit-content .material .item .imagen.pdf:after {
-    background-image: url(imagenes/icono_archivo_materialapoyo_reporterosusa.png);
+    background-image: url(imagenes/icono_archivo3_materialapoyo_reporterosusa.png);
 }
 
 
