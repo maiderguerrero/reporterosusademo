@@ -209,6 +209,12 @@ body:not(.isTablet) #indice .units ul li:not(.disabled) a .title:hover {
 	font-weight: 400;
 }
 
+/*Material de apoyo*/
+
+#indice .unit-content .material .item .imagen.musica:after {
+	background-image: url(imagenes/icono_audio_materialapoyo_reporterosusa.png);
+}
+
 /*Input Blanco*/
 .input_blanco .slide_main .html-book input {
 	-webkit-border-radius: 5px;
