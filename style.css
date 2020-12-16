@@ -213,15 +213,21 @@ body:not(.isTablet) #indice .units ul li:not(.disabled) a .title:hover {
 
 #indice .unit-content .material .item .imagen.musica:after {
 	background-image: url(imagenes/icono_audio_materialapoyo_reporterosusa.png);
+	background-color: #706f6f;
+    border-radius: 50%;
 }
 
 #indice .unit-content .material .item .imagen.video:after {
     background-image: url(imagenes/icono_video_materialapoyo_reporterosusa.png);
+    background-color: #706f6f;
+    border-radius: 50%;
 }
 
 #indice .unit-content .material .item .imagen.archivo:after, 
 #indice .unit-content .material .item .imagen.pdf:after {
     background-image: url(imagenes/icono_archivo_materialapoyo_reporterosusa.png);
+    background-color: #706f6f;
+    border-radius: 50%;
 }
 
 
@@ -3755,7 +3761,7 @@ table td.bck-td-9 {
 }
 
 #indice .unit-content .material .item .imagen.archivo:after {
-    background-color: rgba(174, 68, 15, 0.7);
+    background-color: #706f6f;
     border-radius: 50%;
 }
 
