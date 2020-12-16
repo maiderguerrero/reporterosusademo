@@ -377,7 +377,7 @@ body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover,
 
 #indice .units ul li.active:not(.disabled),
 #indice .units ul li:focus:not(.disabled) {
-	background: #31A2C7;
+	background: #c2c2c2;
 }
 
 
@@ -3820,10 +3820,7 @@ table td.bck-td-9 {
 #indice .unit-content .header .title {
 	display: none;
  }
- #indice .units ul li.active:not(.disabled), 
-#indice .units ul li:focus:not(.disabled) {
-    background-color: #ae440f !important;
-}
+
 
 .btn-primary, 
 .btn-primary.disabled {
