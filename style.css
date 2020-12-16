@@ -215,6 +215,16 @@ body:not(.isTablet) #indice .units ul li:not(.disabled) a .title:hover {
 	background-image: url(imagenes/icono_audio_materialapoyo_reporterosusa.png);
 }
 
+#indice .unit-content .material .item .imagen.video:after {
+    background-image: url(imagenes/icono_video_materialapoyo_reporterosusa.png);
+}
+
+#indice .unit-content .material .item .imagen.archivo:after, 
+#indice .unit-content .material .item .imagen.pdf:after {
+    background-image: url(imagenes/icono_archivo_materialapoyo_reporterosusa.png);
+}
+
+
 /*Input Blanco*/
 .input_blanco .slide_main .html-book input {
 	-webkit-border-radius: 5px;
