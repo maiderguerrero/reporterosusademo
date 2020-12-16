@@ -419,7 +419,7 @@ body:not(.isTablet) #book-index #indice .unit-content .actividades .item:active,
 
 #actividad .content .header .title {
     min-height: 0px;
-    background: red;
+    background: #e30613;
     padding: 0;
 }
 
@@ -3054,22 +3054,8 @@ body.is_app .reporterosusademo-navbar.ocultar {
 	margin-left: 40px;
 }
 
-.btn-danger,
-.btn-danger[disabled] {
-	color: #fff;
-	border-color: transparent;
-	border-radius: 0px;
-}
-
-/*botonera general*/
-#actividad .class_slide .review {
-	margin-top: 40px;
-	text-align: left;
-	margin-left: 40px;
-}
-
 .btn-danger {
-	background-color: #ff0000;
+	background-color: #e30613;
 }
 
 .btn-danger,
@@ -3077,6 +3063,10 @@ body.is_app .reporterosusademo-navbar.ocultar {
 	color: #fff;
 	border-color: transparent;
 	border-radius: 0px;
+}
+
+.btn-danger:hover {
+	background-color: #bd0a15;
 }
 
 .btn-primary:not([disabled]):hover {
@@ -3085,35 +3075,38 @@ body.is_app .reporterosusademo-navbar.ocultar {
 
 .btn-solution {
 	color: #fff;
-    background-color: #1a66ff;
+    background-color: #0e4090;
     border-color: transparent;
     border-radius: 0; 
 }
 
 .btn-solution:hover {
-	background-color: #1a66ffb3;
+	background-color: #082c65;
 }
 
 .btn-primary[disabled] {
 	color: #fff;
-    background-color: #2b7239;
+    background-color: #009c55;
+    opacity: 0.8;
     border-color: transparent;
 }
 
 #actividad .content .review .attemps span {
-    width: 35px;
+        width: 20px;
     height: 35px;
     font-weight: 700;
-    color: #fff;
-    background-color: #2B7239;
+    color: #706f6f;
+    background-color: transparent;
+    font-size: 3.5rem;
     -webkit-border-radius: 100%;
     -moz-border-radius: 100%;
     border-radius: 0;
     text-align: center;
-    padding: 6px 12px;
+    padding: 0;
     margin: 0 3px;
     display: inline-block;
     line-height: 24px;
+    vertical-align: middle;
 }
 
 /* modo correcion/revision */
@@ -3784,7 +3777,7 @@ table td.bck-td-9 {
 
 .btn-primary, 
 .btn-primary.disabled {
-     background-color: #ae440f;
+     background-color: #009c55;
 }
 
 #indice .actividades a:hover {
