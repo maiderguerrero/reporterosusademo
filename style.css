@@ -189,6 +189,10 @@ body:not(.isTablet) #indice .units ul li:not(.disabled) a .title:hover {
 	color: #fff;
 }
 
+#indice .units ul li a .title {
+	color: #fff;
+}
+
 #list-units .unittag_textbook_reporterosusademo {
 	background: #31a2c7 !important;
 }
