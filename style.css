@@ -3482,6 +3482,42 @@ table td.bck-td-9 {
 
 /*TAGS*/
 
+/*----------------UNIT TAG GRIS------------------------*/
+
+#list-units .unittag_gris_reporterosusa {
+	background-color: #706f6f !important;
+}
+
+
+/*----------------UNIT TAG AZUL CLARO------------------------*/
+
+#list-units .unittag_azulclaro_reporterosusa {
+	background-color: #6a9ed5 !important;
+}
+
+/*----------------UNIT TAG VERDE------------------------*/
+
+#list-units .unittag_verde_reporterosusa {
+	background-color: #009c55 !important;
+}
+
+/*----------------UNIT TAG AZUL OSCURO------------------------*/
+
+#list-units .unittag_azuloscuro_reporterosusa {
+	background-color: #0e4090 !important;
+}
+
+/*----------------UNIT TAG NARANJA------------------------*/
+
+#list-units .unittag_naranja_reporterosusa {
+	background-color: #f9b000 !important;
+}
+
+/*----------------UNIT TAG TEJA------------------------*/
+
+#list-units .unittag_teja_reporterosusa {
+	background-color: #eb5d40 !important;
+}
 
 
 /*secciÃ³n intro*/
