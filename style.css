@@ -193,6 +193,15 @@ body:not(.isTablet) #indice .units ul li:not(.disabled) a .title:hover {
 	color: #fff;
 }
 
+#indice .units ul li {
+    background: #000;
+    -webkit-border-radius: 18px;
+    -moz-border-radius: 18px;
+    border-radius: 18px;
+    margin-bottom: 8px;
+    padding: 8px 16px;
+}
+
 #list-units .unittag_textbook_reporterosusademo {
 	background: #31a2c7 !important;
 }
