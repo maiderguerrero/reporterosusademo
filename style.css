@@ -3502,8 +3502,8 @@ table td.bck-td-9 {
 #list-units .unittag_verde_reporterosusa.active:not(.disabled),
 #list-units .unittag_azuloscuro_reporterosusa.active:not(.disabled),
 #list-units .unittag_naranja_reporterosusa.active:not(.disabled),
-#list-units .unittag_teja_reporterosusa.active:not(.disabled), {
-	background-color: #c2c2c2;
+#list-units .unittag_teja_reporterosusa.active:not(.disabled) {
+	background-color: #c2c2c2 !important;
 }
 
 
