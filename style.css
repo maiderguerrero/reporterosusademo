@@ -3544,7 +3544,77 @@ table td.bck-td-9 {
 
 
 /*----------------UNIT TAG GRIS------------------------*/
+.unittag_gris_reporterosusa #actividad .content .header .title h3 {
+	color: #706f6f;
+}
 
+.unittag_gris_reporterosusa #actividad .content .header .title {
+	background: #706f6f;
+}
+
+.unittag_gris_reporterosusa .bck-title-1 {
+	color: #706f6f;
+}
+
+.unittag_gris_reporterosusa .bck-title-3 {
+	color: #706f6f;
+}
+
+.unittag_gris_reporterosusa #actividad .content .cke_contents .bck-ol-8 li, 
+.unittag_gris_reporterosusa #actividad .content .cke_contents .bck-ol-8 li, 
+.unittag_gris_reporterosusa #actividad .content .texto_curso .bck-ol-8 li, 
+.unittag_gris_reporterosusa #actividad .popover-content .bck-ol-8 li, 
+.unittag_gris_reporterosusa #actividad .content .workspace ul li .bck-ol-8 li {
+	color: #706f6f;
+}
+
+.unittag_gris_reporterosusa #actividad .content .cke_contents .bck-ol-8 li:before, 
+.unittag_gris_reporterosusa #actividad .content .texto_curso .bck-ol-8 li:before, 
+.unittag_gris_reporterosusa #actividad .popover-content .bck-ol-8 li:before, 
+.unittag_gris_reporterosusa #actividad .content .workspace ul li .bck-ol-8 li:before {
+	background-color: #706f6f;
+}
+
+.unittag_gris_reporterosusa #actividad .content .cke_contents .bck-ol-9 li:before, 
+.unittag_gris_reporterosusa #actividad .content .texto_curso ol.bck-ol-9 li:before, 
+.unittag_gris_reporterosusa #actividad .popover-content ol.bck-ol-9 li:before, 
+.unittag_gris_reporterosusa #actividad .content .workspace ul li ol.bck-ol-9 li:before {
+	color: #706f6f;
+}
+
+
+.unittag_gris_reporterosusa .bck-box.bck-box-1 {
+	background: #706f6f;
+}
+
+.unittag_gris_reporterosusa .bck-box-1 .bck-title {
+	background-color: #706f6f;
+}
+
+.unittag_gris_reporterosusa .bck-box.bck-box-1 .bck-content {
+	background-color: #706f6f;
+}
+
+.unittag_gris_reporterosusa .bck-box.bck-box-2 {
+	border: 2px dotted #706f6f;
+	background: #ececec;
+}
+
+.unittag_gris_reporterosusa .bck-box.bck-box-2 .bck-title {
+	background: #ececec;
+}
+
+.unittag_gris_reporterosusa .bck-box.bck-box-2 .bck-content {
+    background: #ececec;
+}
+
+.unittag_gris_reporterosusa .bck-box.bck-box-20 .bck-content {
+	border: 3px solid #706f6f;
+}
+
+.unittag_gris_reporterosusa .bck-box.bck-box-24 .bck-title {
+	background: #706f6f;
+}
 
 
 /*----------------UNIT TAG ROJO------------------------*/
