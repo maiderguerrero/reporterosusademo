@@ -322,7 +322,13 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 	font-weight: 600;
 	text-decoration: none;
 }
-/*INDICE LATERAL*/
+
+
+/*MENU LATERAL*/
+
+#book-index #indice .units ul li {
+	opacity: 1;
+}
 
 #indice .units ul li:not(.add) a .title {
 	font-size: 14px;
@@ -3612,9 +3618,18 @@ table td.bck-td-9 {
 	border: 3px solid #706f6f;
 }
 
+.unittag_gris_reporterosusa .bck-box.bck-box-22 {
+	background: #ececec;
+}
+
+.unittag_gris_reporterosusa .bck-box.bck-box-22 .bck-content {
+	border: 3px solid transparent;
+}
+
 .unittag_gris_reporterosusa .bck-box.bck-box-24 .bck-title {
 	background: #706f6f;
 }
+
 
 
 /*----------------UNIT TAG ROJO------------------------*/
