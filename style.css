@@ -2774,7 +2774,6 @@ body.is_app .reporterosusademo-navbar.ocultar {
 
 /*CAJA 20*/
 
-
 .bck-box.bck-box-20 {
     border-radius: 15px;
     border-bottom-left-radius: 15px;
@@ -3276,6 +3275,12 @@ body.is_app .reporterosusademo-navbar.ocultar {
 	width: 113px;
     height: 33px;
     margin-top: -3px;
+}
+
+.item-container .icon-flechaazul:before {
+	font-family: 'FontAwesome';
+    content: "\f061";
+    color: #00A6BA;
 }
 
 
