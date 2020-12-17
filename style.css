@@ -3842,11 +3842,12 @@ table td.bck-td-9 {
 
 .btn-primary, 
 .btn-primary.disabled {
-     background-color: #706f6f;
+    background-color: #7c7c7c;
+    color: #fff;
 }
 
 #indice .actividades a:hover {
-	color: #ae440f;
+	color: #7c7c7c;
 }
 #indice .unit-content .actividades .item .text {
     display: block;
