@@ -4165,7 +4165,136 @@ table td.bck-td-9 {
 
 
 /*----------------UNIT TAG TEJA------------------------*/
+.unittag_teja_reporterosusa #actividad .content .header .title h3 {
+	color: #eb5d40;
+}
 
+.unittag_teja_reporterosusa #actividad .content .header .title {
+	background: #eb5d40;
+}
+
+.unittag_teja_reporterosusa .bck-title-1 {
+	color: #eb5d40;
+}
+
+.unittag_teja_reporterosusa .bck-title-3 {
+	color: #eb5d40;
+}
+
+.unittag_teja_reporterosusa .bck-title-5 {
+	color: #771b6e;
+}
+
+.unittag_teja_reporterosusa .bck-title-8 {
+	background-color: #771b6e;
+}
+
+.unittag_teja_reporterosusa .bck-title-9 {
+	background-color: #771b6e;
+}
+
+.unittag_teja_reporterosusa #actividad .content .cke_contents .bck-ol-5 li, 
+.unittag_teja_reporterosusa #actividad .content .cke_contents .bck-ol-5 li, 
+.unittag_teja_reporterosusa #actividad .content .texto_curso .bck-ol-5 li, 
+.unittag_teja_reporterosusa #actividad .popover-content .bck-ol-5 li, 
+.unittag_teja_reporterosusa #actividad .content .workspace ul li .bck-ol-5 li {
+    color: #771b6e;
+}
+
+.unittag_teja_reporterosusa #actividad .content .cke_contents .bck-ol-5 li:before, 
+.unittag_teja_reporterosusa #actividad .content .texto_curso .bck-ol-5 li:before, 
+.unittag_teja_reporterosusa #actividad .popover-content .bck-ol-5 li:before, 
+.unittag_teja_reporterosusa #actividad .content .workspace ul li .bck-ol-5 li:before {
+    background-color: #771b6e;
+}
+
+
+.unittag_teja_reporterosusa #actividad .content .cke_contents .bck-ol-6 li:before, 
+.unittag_teja_reporterosusa #actividad .content .texto_curso .bck-ol-6 li:before, 
+.unittag_teja_reporterosusa #actividad .popover-content .bck-ol-6 li:before, 
+.unittag_teja_reporterosusa #actividad .content .workspace ul li .bck-ol-6 li:before {
+    color: #771b6e;
+    border: 2px solid #771b6e;
+}
+
+
+.unittag_teja_reporterosusa #actividad .content .cke_contents .bck-ol-8 li, 
+.unittag_teja_reporterosusa #actividad .content .cke_contents .bck-ol-8 li, 
+.unittag_teja_reporterosusa #actividad .content .texto_curso .bck-ol-8 li, 
+.unittag_teja_reporterosusa #actividad .popover-content .bck-ol-8 li, 
+.unittag_teja_reporterosusa #actividad .content .workspace ul li .bck-ol-8 li {
+	color: #eb5d40;
+}
+
+.unittag_teja_reporterosusa #actividad .content .cke_contents .bck-ol-8 li:before, 
+.unittag_teja_reporterosusa #actividad .content .texto_curso .bck-ol-8 li:before, 
+.unittag_teja_reporterosusa #actividad .popover-content .bck-ol-8 li:before, 
+.unittag_teja_reporterosusa #actividad .content .workspace ul li .bck-ol-8 li:before {
+	background-color: #eb5d40;
+}
+
+.unittag_teja_reporterosusa #actividad .content .cke_contents .bck-ol-9 li:before, 
+.unittag_teja_reporterosusa #actividad .content .texto_curso ol.bck-ol-9 li:before, 
+.unittag_teja_reporterosusa #actividad .popover-content ol.bck-ol-9 li:before, 
+.unittag_teja_reporterosusa #actividad .content .workspace ul li ol.bck-ol-9 li:before {
+	color: #eb5d40;
+}
+
+.unittag_teja_reporterosusa #actividad .content .cke_contents .bck-ul-7 li:before, 
+.unittag_teja_reporterosusa #actividad .content .texto_curso ul.bck-ul-7 li:before, 
+.unittag_teja_reporterosusa #actividad .popover-content ul.bck-ul-7 li:before, 
+.unittag_teja_reporterosusa #actividad .content .workspace ul li ul.bck-ul-7 li:before {
+    color: #771b6e;
+}
+
+.unittag_teja_reporterosusa #actividad .content .cke_contents .bck-ul-8 li:before, 
+.unittag_teja_reporterosusa #actividad .content .texto_curso ul.bck-ul-8 li:before, 
+.unittag_teja_reporterosusa #actividad .popover-content ul.bck-ul-8 li:before, 
+.unittag_teja_reporterosusa #actividad .content .workspace ul li ul.bck-ul-8 li:before {
+    color: #771b6e;
+}
+
+
+.unittag_teja_reporterosusa .bck-box.bck-box-1 {
+	background: #eb5d40;
+}
+
+.unittag_teja_reporterosusa .bck-box-1 .bck-title {
+	background-color: #eb5d40;
+}
+
+.unittag_teja_reporterosusa .bck-box.bck-box-1 .bck-content {
+	background-color: #eb5d40;
+}
+
+.unittag_teja_reporterosusa .bck-box.bck-box-2 {
+	border: 2px dotted #eb5d40;
+	background: #FEF1EC;
+}
+
+.unittag_teja_reporterosusa .bck-box.bck-box-2 .bck-title {
+	background: #FEF1EC;
+}
+
+.unittag_teja_reporterosusa .bck-box.bck-box-2 .bck-content {
+    background: #FEF1EC;
+}
+
+.unittag_teja_reporterosusa .bck-box.bck-box-20 .bck-content {
+	border: 3px solid #eb5d40;
+}
+
+.unittag_teja_reporterosusa .bck-box.bck-box-22 {
+	background: #FEF1EC;
+}
+
+.unittag_teja_reporterosusa .bck-box.bck-box-22 .bck-content {
+	border: 3px solid transparent;
+}
+
+.unittag_teja_reporterosusa .bck-box.bck-box-24 .bck-title {
+	background: #eb5d40;
+}
 
 
 
