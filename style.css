@@ -4693,11 +4693,13 @@ a:hover {
 }
 
 
+/*
 #book-index #indice .unit-content .actividades .item:hover,
 #book-index #indice .unit-content .actividades .item.current,
 #book-index #indice .unit-content .actividades .item:active {
 	background: #000;
 }
+*/
 
 #actividad a {
 background: transparent;
