@@ -328,6 +328,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 
 #book-index #indice .units ul li {
 	opacity: 1;
+	background-color: #000;
 }
 
 #indice .units ul li:not(.add) a .title {
