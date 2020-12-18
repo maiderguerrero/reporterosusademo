@@ -4673,9 +4673,6 @@ a:hover {
     margin: 0 0 20px 0;
 }
 
-#book-index #indice .unit-content .actividades .item {
-    background: #b7b7b7;
-}
 
 #book-index #indice .unit-content .actividades .item:hover,
 #book-index #indice .unit-content .actividades .item.current,
