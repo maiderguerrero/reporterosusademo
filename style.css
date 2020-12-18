@@ -337,6 +337,13 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 	margin-left: 10px;
 }
 
+body:not(.isTablet) #book-index #indice .unit-content .actividades .item:hover, 
+#book-index #indice .unit-content .actividades .item.active, 
+#book-index #indice .unit-content .actividades .item.current {
+    color: #7c7c7c;
+    background: #c2c2c2;
+}
+
 
 body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover,
 #book-index #indice .units ul li.active a {
@@ -373,6 +380,7 @@ body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover,
 
 #book-index #indice .unit-content .actividades .item .title {
 	font-size: 14px;
+	color: #fff;
 }
 
 #indice .unit-content .actividades .item .nota {
@@ -402,11 +410,11 @@ body:not(.isTablet) #indice .units ul li.active:not(.disabled) a .title {
 #book-index #indice .unit-content a:focus,
 #indice .units ul li a:focus,
 #indice .actividades a:focus {
-	color: #31A2C7;
+	color: #7c7c7c;
 }
 
 #book-index #indice .unit-content .actividades .item {
-	background: #87bacc;
+	background: #000;
 }
 
 
