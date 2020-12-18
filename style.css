@@ -409,12 +409,6 @@ body:not(.isTablet) #indice .units ul li.active:not(.disabled) a .title {
 	background: #87bacc;
 }
 
-body:not(.isTablet) #book-index #indice .unit-content .actividades .item:hover,
-#book-index #indice .unit-content .actividades .item.active,
-#book-index #indice .unit-content .actividades .item.current {
-	background: #31a2c75c;
-}
-
 
 body:not(.isTablet) #book-index #indice .unit-content .actividades .item:active,
 #book-index #indice .unit-content .actividades .item.active,
@@ -4678,7 +4672,7 @@ a:hover {
 #book-index #indice .unit-content .actividades .item:hover,
 #book-index #indice .unit-content .actividades .item.current,
 #book-index #indice .unit-content .actividades .item:active {
-	background: #000 !important;
+	background: #000;
 }
 
 #actividad a {
