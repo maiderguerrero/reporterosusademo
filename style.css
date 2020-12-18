@@ -383,6 +383,13 @@ body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover,
 	color: #fff;
 }
 
+#book-index #indice .unit-content .actividades .item .title:hover,
+#book-index #indice .unit-content .actividades .item .title:focus,
+#book-index #indice .unit-content .actividades .item .title:active {
+	color: #7c7c7c;
+}
+
+
 #indice .unit-content .actividades .item .nota {
 	background-color: #428bca;
 }
