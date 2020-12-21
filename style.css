@@ -816,6 +816,19 @@ body.is_app .reporterosusademo-navbar.ocultar {
 	padding: 10px;
 }
 
+/*TITULO 16*/
+
+.bck-title-16 {
+	color: #fff;
+	background: #A8A8A7;
+	text-align: center;
+	-moz-width: fit-content;
+    -ms-width: fit-content;
+    -webkit-width: fit-content;
+    -o-width: fit-content;
+    width: fit-content;
+}
+
 /**/
 
 /*------------------------------------ENFASIS------------------------------------------------*/
