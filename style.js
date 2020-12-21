@@ -71,6 +71,8 @@
 				{ name: 'Lista Ordenada 17', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-17' } },
 				{ name: 'Lista Ordenada 18', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-18' } },
 				{ name: 'Lista Ordenada 19', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-19' } },
+				{ name: 'Lista Ordenada 20', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-20' } },
+				{ name: 'Lista Ordenada 21', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-21' } },
 
 
 				{ name: 'Lista Desordenada 01', element: 'ul', attributes: { 'class': 'bck-ul bck-ul-1' } },
