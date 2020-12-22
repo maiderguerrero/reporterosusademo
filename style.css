@@ -831,35 +831,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
     font-weight: bold;
 }
 
-/*TITULO 17*/
 
-.bck-title-17 {
-	color: #fff;
-	background: #990381;
-	text-align: center;
-	-moz-width: fit-content;
-    -ms-width: fit-content;
-    -webkit-width: fit-content;
-    -o-width: fit-content;
-    width: fit-content;
-    padding: 2px 10px;
-    font-weight: bold;
-}
-
-
-.bck-title-17:before {
-	content: '';
-    display: block;
-    position: absolute;
-    z-index: 10;
-    width: 0;
-    height: 0;
-    border-bottom: 23px solid transparent;
-    border-top: 21px solid transparent;
-    border-left: 25px solid #0087CC;
-    margin-top: 0px;
-    margin-right: -25px;
-}
 
 /**/
 
@@ -3398,6 +3370,25 @@ body.is_app .reporterosusademo-navbar.ocultar {
     margin-top: 1px;
 }
 
+.item-container .icon-una-estrella-morado:before {
+	background-image: url(imagenes/icono_unaestrella_morado_reporterosusa.png);
+    width: 22px;
+    height: 22px;
+    vertical-align: top;
+    margin-right: 5px;
+    margin-top: 1px;
+}
+
+.item-container .icon-una-estrella-azul:before {
+	background-image: url(imagenes/icono_unaestrella_azul_reporterosusa.png);
+    width: 22px;
+    height: 22px;
+    vertical-align: top;
+    margin-right: 5px;
+    margin-top: 1px;
+}
+
+
 .item-container .icon-dos-estrellas:before {
 	background-image: url(imagenes/icono_dosestrellas_reporterosusa.png);
     width: 45px;
@@ -3407,8 +3398,44 @@ body.is_app .reporterosusademo-navbar.ocultar {
     margin-top: 1px;
 }
 
+.item-container .icon-dos-estrellas-morado:before {
+	background-image: url(imagenes/icono_dosestrellas_morado_reporterosusa.png);
+    width: 45px;
+    height: 22px;
+    vertical-align: top;
+    margin-right: 5px;
+    margin-top: 1px;
+}
+
+.item-container .icon-dos-estrellas-azul:before {
+	background-image: url(imagenes/icono_dosestrellas_azul_reporterosusa.png);
+    width: 45px;
+    height: 22px;
+    vertical-align: top;
+    margin-right: 5px;
+    margin-top: 1px;
+}
+
 .item-container .icon-tres-estrellas:before {
 	background-image: url(imagenes/icono_tresestrellas_reporterosusa.png);
+    width: 75px;
+    height: 23px;
+    vertical-align: top;
+    margin-right: 5px;
+    margin-top: 1px;
+}
+
+.item-container .icon-tres-estrellas-morado:before {
+	background-image: url(imagenes/icono_tresestrellas_morado_reporterosusa.png);
+    width: 75px;
+    height: 23px;
+    vertical-align: top;
+    margin-right: 5px;
+    margin-top: 1px;
+}
+
+.item-container .icon-tres-estrellas-azul:before {
+	background-image: url(imagenes/icono_tresestrellas_azul_reporterosusa.png);
     width: 75px;
     height: 23px;
     vertical-align: top;
