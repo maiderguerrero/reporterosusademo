@@ -835,7 +835,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 
 .bck-title-17 {
 	color: #fff;
-	background: #A8A8A7;
+	background: #990381;
 	text-align: center;
 	-moz-width: fit-content;
     -ms-width: fit-content;
@@ -844,6 +844,21 @@ body.is_app .reporterosusademo-navbar.ocultar {
     width: fit-content;
     padding: 2px 10px;
     font-weight: bold;
+}
+
+
+.bck-title-17:before {
+	content: '';
+    display: block;
+    position: absolute;
+    z-index: 10;
+    width: 0;
+    height: 0;
+    border-bottom: 23px solid transparent;
+    border-top: 21px solid transparent;
+    border-left: 25px solid #0087CC;
+    margin-top: 0px;
+    margin-right: -25px;
 }
 
 /**/
