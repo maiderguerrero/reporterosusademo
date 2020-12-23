@@ -4634,6 +4634,52 @@ table td.bck-td-9 {
 	background-color: #9D9D9C;
 }
 
+/*Dropdown 2*/
+.bck-dropdown.bck-dropdown-2 {
+	background-color: #fff;
+	margin-top: 10px;
+	border-radius: 15px;
+	border: 2px solid #dc4f24;
+}
+
+.bck-dropdown-2 .bck-dropdown-button {
+	margin-top: 0px;
+	font-size: 1.2rem;
+}
+
+.bck-dropdown-2 .bck-dropdown-icon {
+	background-color: transparent;
+	width: 35px;
+	height: 10px;
+	float: right;
+}
+
+.bck-dropdown-2 .bck-dropdown-icon>.fa {
+	border: 0px solid white;
+	padding-top: 2px;
+}
+
+.bck-dropdown-2 .fa-chevron-up:before,
+.bck-dropdown-2 .fa-chevron-down:before {
+	font-size: 1.8rem;
+	color: #dc4f24;
+}
+
+.bck-dropdown-2 .bck-dropdown-titulo {
+	font-size: 1.8rem;
+	padding-left: 8px;
+	font-weight: 600;
+	color: #dc4f24;
+}
+
+.bck-dropdown-2 .bck-dropdown-content {
+	background-color: transparent;
+	padding-left: 25px;
+	max-height: 800%;
+	border-bottom-left-radius: 13px;
+	border-bottom-right-radius: 13px;
+}
+
 /*Dropdown 3*/
 .bck-dropdown.bck-dropdown-3 {
 	background-color: #ffe054;
@@ -4700,8 +4746,6 @@ table td.bck-td-9 {
 
 /*Dropdown 4*/
 
-
-/*Dropdown 3*/
 .bck-dropdown.bck-dropdown-4 {
 	background-color: #e58d7c;
 	margin-top: 10px;
@@ -4765,51 +4809,7 @@ table td.bck-td-9 {
 	margin-bottom: 5px;
 }
 
-/*Dropdown 5*/
-.bck-dropdown.bck-dropdown-5 {
-	background-color: #fff;
-	margin-top: 10px;
-	border-radius: 15px;
-	border: 2px solid #dc4f24;
-}
 
-.bck-dropdown-5 .bck-dropdown-button {
-	margin-top: 0px;
-	font-size: 1.2rem;
-}
-
-.bck-dropdown-5 .bck-dropdown-icon {
-	background-color: transparent;
-	width: 35px;
-	height: 10px;
-	float: right;
-}
-
-.bck-dropdown-5 .bck-dropdown-icon>.fa {
-	border: 0px solid white;
-	padding-top: 2px;
-}
-
-.bck-dropdown-5 .fa-chevron-up:before,
-.bck-dropdown-5 .fa-chevron-down:before {
-	font-size: 1.8rem;
-	color: #dc4f24;
-}
-
-.bck-dropdown-5 .bck-dropdown-titulo {
-	font-size: 1.8rem;
-	padding-left: 8px;
-	font-weight: 600;
-	color: #dc4f24;
-}
-
-.bck-dropdown-5 .bck-dropdown-content {
-	background-color: transparent;
-	padding-left: 25px;
-	max-height: 800%;
-	border-bottom-left-radius: 13px;
-	border-bottom-right-radius: 13px;
-}
 
 .fa-times:before {
 	color: #333;
