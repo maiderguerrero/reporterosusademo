@@ -4641,56 +4641,66 @@ table td.bck-td-9 {
     max-height: 800%;
 }
 
-/*Dropdown 2*/
+/*Desplegable 2*/
 .bck-dropdown.bck-dropdown-2 {
-	background-color: #fff;
-    margin-top: 10px;
-    border-radius: 0px;
-    border: 2px solid #2B7239;
-}
-
-.bck-dropdown-2 .bck-dropdown-button {
-	margin-top: 0px;
-	font-size: 1.2rem;
+	background-color: #000;
 }
 
 .bck-dropdown-2 .bck-dropdown-icon {
-	background-color: transparent;
-	width: 35px;
-	height: 10px;
+	background-color: #000;
+	display: inline-block;
+	height: auto;
 	float: right;
 }
 
-.bck-dropdown-2 .bck-dropdown-icon>.fa {
-	border: 0px solid white;
-	padding-top: 2px;
-}
-
-.bck-dropdown-2 .fa-chevron-up:before,
-.bck-dropdown-2 .fa-chevron-down:before {
-	font-size: 1.8rem;
-	color: #2b7239;
-	font-weight: 600;
+.bck-dropdown-2 .bck-dropdown-button {
+    margin-top: 20px;
+    background: #000;
+    color: #fff;
+    text-align: left;
+    border: 2px solid #000;
+    border-radius: 0;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
 }
 
 .bck-dropdown-2 .bck-dropdown-titulo {
-	color: #2b7239;
-	font-size: 1.8rem;
-	padding-top: 2px;
-	font-weight: 600;
+    padding: 0;
+    font-size: 1.8rem;
+    padding-left: 10px;
 }
 
+.bck-dropdown-2 .bck-dropdown-icon>.fa {
+    border: 0px solid white;
+    padding-top: 2px;
+}
+
+.bck-dropdown-2 .fa-chevron-up:before, 
+.bck-dropdown-2 .fa-chevron-down:before {
+    font-size: 1.8rem;
+    color: #fff;
+}
+
+.bck-dropdown-2 .fa-chevron-up:before {
+    content: "\f077";
+    font-size: 2.0rem;
+}
+
+.bck-dropdown-2 .fa-chevron-down:before {
+    content: "\f078";
+}
 
 .bck-dropdown-2 .bck-dropdown-content {
-	background-color: #fff;
-    border-radius: 0;
-    overflow: inherit;
+    max-height: none;
     padding: 10px;
+    background-color: #fff;
+    border: 1px solid #000;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+    padding-top: 10px;
+    border-top: 0px;
     padding-left: 20px;
-}
-
-.bck-dropdown-2 .bck-dropdown-content p {
-	margin-bottom: 5px;
 }
 
 /*Dropdown 3*/
