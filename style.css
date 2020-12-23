@@ -4644,9 +4644,9 @@ table td.bck-td-9 {
 /*Dropdown 2*/
 .bck-dropdown.bck-dropdown-2 {
 	background-color: #fff;
-	margin-top: 10px;
-	border-radius: 15px;
-	border: 2px solid #dc4f24;
+    margin-top: 10px;
+    border-radius: 0px;
+    border: 2px solid #2B7239;
 }
 
 .bck-dropdown-2 .bck-dropdown-button {
@@ -4669,22 +4669,28 @@ table td.bck-td-9 {
 .bck-dropdown-2 .fa-chevron-up:before,
 .bck-dropdown-2 .fa-chevron-down:before {
 	font-size: 1.8rem;
-	color: #dc4f24;
+	color: #2b7239;
+	font-weight: 600;
 }
 
 .bck-dropdown-2 .bck-dropdown-titulo {
+	color: #2b7239;
 	font-size: 1.8rem;
-	padding-left: 8px;
+	padding-top: 2px;
 	font-weight: 600;
-	color: #dc4f24;
 }
 
+
 .bck-dropdown-2 .bck-dropdown-content {
-	background-color: transparent;
-	padding-left: 25px;
-	max-height: 800%;
-	border-bottom-left-radius: 13px;
-	border-bottom-right-radius: 13px;
+	background-color: #fff;
+    border-radius: 0;
+    overflow: inherit;
+    padding: 10px;
+    padding-left: 20px;
+}
+
+.bck-dropdown-4 .bck-dropdown-content p {
+	margin-bottom: 5px;
 }
 
 /*Dropdown 3*/
