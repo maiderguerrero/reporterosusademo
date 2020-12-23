@@ -4627,11 +4627,18 @@ table td.bck-td-9 {
 
 /*Dropdown 1*/
 .bck-dropdown.bck-dropdown-1 {
-	background-color: #9D9D9C;
+	background-color: #e30613;
 }
 
 .bck-dropdown-1 .bck-dropdown-icon {
-	background-color: #9D9D9C;
+	background-color: #e30613;
+}
+
+.bck-dropdown-1 .bck-dropdown-content {
+    background-color: #fff;
+    border: 2px solid #e30613;
+    padding-left: 17px;
+    max-height: 800%;
 }
 
 /*Dropdown 2*/
