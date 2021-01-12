@@ -2224,7 +2224,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
     font-size: 1rem;
 }
 
-/*LISTA DESORDENADA 7*/
+/*LISTA DESORDENADA 12*/
 #actividad .content .cke_contents .bck-ul-12,
 #actividad .content .texto_curso .bck-ul-12,
 #actividad .content .workspace ul li .bck-ul-12 {
@@ -2250,6 +2250,38 @@ body.is_app .reporterosusademo-navbar.ocultar {
     content: "\f061";
     background-color: transparent;
     color: #F19A00;
+    position: absolute;
+    margin-top: -1px;
+    margin-left: 2px;
+    background: transparent;
+}
+
+/*LISTA DESORDENADA 12*/
+#actividad .content .cke_contents .bck-ul-13,
+#actividad .content .texto_curso .bck-ul-13,
+#actividad .content .workspace ul li .bck-ul-13 {
+    list-style-type: none;
+}
+
+#actividad .content .cke_contents .bck-ul-13 li,
+#actividad .content .cke_contents .bck-ul-13 li,
+#actividad .content .texto_curso .bck-ul-13 li,
+#actividad .popover-content .bck-ul-13 li,
+#actividad .content .workspace ul li .bck-ul-13 li {
+    padding-left: 40px;
+    position: relative;
+    list-style-type: none;
+    margin-bottom: 10px;
+}
+
+#actividad .content .cke_contents .bck-ul-13 li:before,
+#actividad .content .texto_curso ul.bck-ul-13 li:before,
+#actividad .popover-content ul.bck-ul-13 li:before,
+#actividad .content .workspace ul li ul.bck-ul-13 li:before {
+    font-family: 'FontAwesome';
+    content: "\f061";
+    background-color: transparent;
+    color: #E3704A;
     position: absolute;
     margin-top: -1px;
     margin-left: 2px;
