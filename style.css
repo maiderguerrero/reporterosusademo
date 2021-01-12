@@ -956,6 +956,11 @@ body.is_app .reporterosusademo-navbar.ocultar {
 	color: #009A5A;
 }
 
+/*ENFASIS 21*/
+.bck-enfasis-21 {
+	color: #82057e;
+}
+
 /*----------------------LISTAS-----------------------*/
 #actividad .content .cke_contents .bck-ol li:before,
 #actividad .content .texto_curso .bck-ol li:before,
