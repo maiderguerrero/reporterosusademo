@@ -3306,7 +3306,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 .item-container .icon-parejas-negro:before {
 	background-image: url(imagenes/icono_enparejas_negro_reporterosusa.png);
 	width: 38px;
-    height: 28px;
+    height: 26px;
     margin-right: 5px;
 }
 
@@ -3438,52 +3438,61 @@ body.is_app .reporterosusademo-navbar.ocultar {
 	background-image: url(imagenes/icono_video_reporterosusa.png);
 	height: 20px;
 	width: 30px;
+	margin-right: 5px;
 }
 
 .item-container .icon-lupa:before {
 	background-image: url(imagenes/lupa_reporterosusa.png);
+	margin-right: 5px;
 }
 
 .item-container .icon-like:before {
 	background-image: url(imagenes/icono_like_reporterosusa.png);
 	width: 23px;
     height: 23px;
+    margin-right: 5px;
 }
 
 .item-container .icon-dislike:before {
 	background-image: url(imagenes/icono_dislike_reporterosusa.png);
 	width: 25px;
     height: 23px;
+    margin-right: 5px;
 }
 
 .item-container .icon-bombilla:before {
 	background-image: url(imagenes/icono_bombilla_reporterosusa.png);
 	width: 70px;
     height: 70px;
+    margin-right: 5px;
 }
 
 .item-container .icon-escribir:before {
 	background-image: url(imagenes/icono_escribimos_reporterosusa.png);
 	width: 75px;
     height: 75px;
+    margin-right: 5px;
 }
 
 .item-container .icon-grabar:before {
 	background-image: url(imagenes/icono_grabamos_reporterosusa.png);
 	width: 70px;
     height: 70px;
+    margin-right: 5px;
 }
 
 .item-container .icon-lista:before {
 	background-image: url(imagenes/icono_lista_reporterosusa.png);
 	width: 70px;
     height: 70px;
+    margin-right: 5px;
 }
 
 .item-container .icon-cabeza-engranajes:before {
 	background-image: url(imagenes/icono_cabezaengranajes_reporterosusa.png);
 	width: 34px;
     height: 40px;
+    margin-right: 5px;
 }
 
 .item-container .icon-thespanishhub:before {
@@ -3491,12 +3500,14 @@ body.is_app .reporterosusademo-navbar.ocultar {
 	width: 113px;
     height: 33px;
     margin-top: -3px;
+    margin-right: 5px;
 }
 
 .item-container .icon-flechaazul:before {
 	font-family: 'FontAwesome';
     content: "\f061";
     color: #00A6BA;
+    margin-right: 5px;
 }
 
 
