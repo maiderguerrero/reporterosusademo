@@ -660,7 +660,9 @@ body.is_app .reporterosusademo-navbar.ocultar {
 
 /*TITULO 9*/
 
-.bck-title-9 {
+.bck-title-9,
+.bck-box .bck-title-9,
+.bck-box.bck-box-24 .bck-title.bck-title-9 {
 	color: #fff;
 	background-color: #025864;
 	padding: 3px 5px 0px 5px;
@@ -670,6 +672,8 @@ body.is_app .reporterosusademo-navbar.ocultar {
     -webkit-width: fit-content;
     -o-width: fit-content;
     width: fit-content;
+    box-shadow: none;
+    border-radius: 0px;
 }
 
 /*TITULO 10*/
@@ -3055,17 +3059,17 @@ body.is_app .reporterosusademo-navbar.ocultar {
 
 .bck-box.bck-box-24 .bck-title {
 	background: #e30613;
-	text-align: left;
-    font-weight: bold;
+    text-align: left;
+    font-weight: 500;
     color: #fff;
-    padding: 13px 20px;
+    padding: 13px 20px 6px 20px;
     border: 0px;
     border-radius: 10px;
-    font-size: 1.8rem;
+    font-size: 2.2rem;
     margin-top: -27px;
     -webkit-box-shadow: rgb(212, 212, 212) 5px 6px 13px 0px;
-	-moz-box-shadow: rgb(212, 212, 212) 5px 6px 13px 0px;
-	box-shadow: rgb(212, 212, 212) 5px 6px 13px 0px;
+    -moz-box-shadow: rgb(212, 212, 212) 5px 6px 13px 0px;
+    box-shadow: rgb(212, 212, 212) 5px 6px 13px 0px;
 }
 
 /*CAJA 25*/
@@ -3326,8 +3330,8 @@ body.is_app .reporterosusademo-navbar.ocultar {
 
 .item-container .icon-grupos-negro:before {
 	background-image: url(imagenes/icono_engrupos_negro_reporterosusa.png);
-	width: 38px;
-    height: 35px;
+	width: 29px;
+    height: 28px;
     margin-right: 5px;
 }
 
