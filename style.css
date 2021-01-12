@@ -686,6 +686,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 	border-bottom: none;
 	background-color: transparent;
 	box-shadow: none;
+	padding-left: 0px;
 }
 
 /*TITULO 11*/
