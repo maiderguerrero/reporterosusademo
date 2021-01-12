@@ -982,6 +982,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 #actividad .popover-content .bck-ol-1 li:before,
 #actividad .content .workspace ul li .bck-ol-1 li:before {
 	content: counter(bck-li-counter) ".";
+	font-family: Conv_Calibre;
 	font-weight: 800;
 	position: absolute;
 	text-align: right;
@@ -1024,6 +1025,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 	text-align: right;
 	margin-left: -10px;
 	width: 29px;
+	font-family: Conv_Calibre;
 }
 
 /*LISTA ORDENADA 3*/
@@ -1119,6 +1121,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 #actividad .popover-content .bck-ol-5 li:before,
 #actividad .content .workspace ul li .bck-ol-5 li:before {
 	content: counter(bck-li-counter);
+    font-family: Conv_Calibre;
     font-weight: bold;
     position: absolute;
     color: #fff;
@@ -1157,6 +1160,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 #actividad .popover-content .bck-ol-6 li:before,
 #actividad .content .workspace ul li .bck-ol-6 li:before {
 	content: counter(bck-li-counter);
+    font-family: Conv_Calibre;
     font-weight: bold;
     position: absolute;
     text-align: right;
@@ -1206,7 +1210,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 	margin-left: -60px;
 	width: 79px;
 	font-size: 1.4rem;
-	/*font-family: Conv_TypeType-TT_Rounds;*/
+	font-family: Conv_Calibre;
 }
 
 /*LISTA ORDENADA 8*/
@@ -1236,7 +1240,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 #actividad .popover-content .bck-ol-8 li:before,
 #actividad .content .workspace ul li .bck-ol-8 li:before {
 	content: counter(bck-li-counter);
-    /* font-family: Conv_TypeType-TT_Rounds; */
+    font-family: Conv_Calibre;
     font-weight: bold;
     position: absolute;
     text-align: right;
@@ -1283,7 +1287,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 	text-align: right;
 	margin-left: -10px;
 	width: 29px;
-	/*font-family: Conv_TypeType-TT_Rounds;*/
+	font-family: Conv_Calibre;
 }
 
 /*LISTA ORDENADA 10*/
@@ -1311,7 +1315,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 #actividad .popover-content .bck-ol-10 li:before,
 #actividad .content .workspace ul li .bck-ol-10 li:before {
 	content: counter(bck-li-counter);
-    /* font-family: Conv_TypeType-TT_Rounds; */
+    font-family: Conv_Calibre;
     font-weight: bold;
     position: absolute;
     text-align: right;
@@ -1384,7 +1388,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 #actividad .popover-content .bck-ol-12 li:before,
 #actividad .content .workspace ul li .bck-ol-12 li:before {
 	content: counter(bck-li-counter);
-    /* font-family: Conv_TypeType-TT_Rounds; */
+    font-family: Conv_Calibre;
     font-weight: bold;
     position: absolute;
     text-align: right;
@@ -1424,7 +1428,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 #actividad .popover-content .bck-ol-13 li:before,
 #actividad .content .workspace ul li .bck-ol-13 li:before {
 	content: counter(bck-li-counter);
-    /* font-family: Conv_TypeType-TT_Rounds; */
+    font-family: Conv_Calibre;
     font-weight: bold;
     position: absolute;
     text-align: right;
@@ -1470,7 +1474,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 	text-align: right;
 	margin-left: -10px;
 	width: 29px;
-	/*font-family: Conv_TypeType-TT_Rounds;*/
+	font-family: Conv_Calibre;
 }
 
 /*LISTA ORDENADA 15*/
@@ -1538,7 +1542,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 	text-align: right;
 	margin-left: -10px;
 	width: 29px;
-	/*font-family: Conv_TypeType-TT_Rounds;*/
+	font-family: Conv_Calibre;
 }
 
 /*LISTA ORDENADA 17*/
@@ -1568,7 +1572,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 #actividad .popover-content .bck-ol-17 li:before,
 #actividad .content .workspace ul li .bck-ol-17 li:before {
 	content: counter(bck-li-counter);
-    /* font-family: Conv_TypeType-TT_Rounds; */
+    font-family: Conv_Calibre;
     font-weight: bold;
     position: absolute;
     text-align: right;
@@ -1614,7 +1618,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 	text-align: right;
 	margin-left: -10px;
 	width: 29px;
-	/*font-family: Conv_TypeType-TT_Rounds;*/
+	font-family: Conv_Calibre;
 }
 
 /*LISTA ORDENADA 19*/
@@ -1676,7 +1680,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 #actividad .popover-content .bck-ol-20 li:before,
 #actividad .content .workspace ul li .bck-ol-20 li:before {
 	content: counter(bck-li-counter);
-    /* font-family: Conv_TypeType-TT_Rounds; */
+    font-family: Conv_Calibre;
     font-weight: bold;
     position: absolute;
     text-align: right;
@@ -1718,7 +1722,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 #actividad .popover-content .bck-ol-21 li:before,
 #actividad .content .workspace ul li .bck-ol-21 li:before {
     content: counter(bck-li-counter);
-    /* font-family: Conv_TypeType-TT_Rounds; */
+    font-family: Conv_Calibre;
     font-weight: bold;
     position: absolute;
     text-align: right;
@@ -1811,7 +1815,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 #actividad .popover-content .bck-ol-22 li:before,
 #actividad .content .workspace ul li .bck-ol-22 li:before {
 	content: counter(bck-li-counter);
-    /* font-family: Conv_TypeType-TT_Rounds; */
+    font-family: Conv_Calibre;
     font-weight: bold;
     position: absolute;
     text-align: right;
