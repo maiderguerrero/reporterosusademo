@@ -2287,6 +2287,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 }
 
 .bck-box.bck-box-3 .bck-title {
+	font-family: 'Conv_BebasKai';
 	color: #F19A00;
     background: #fff;
     padding: 3px 10px;
