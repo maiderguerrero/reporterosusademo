@@ -3,142 +3,106 @@
 /* Fonts */
 
 @font-face {
-	font-family: 'Conv_TypeType-TT_Rounds';
-	src: url('fonts/TypeType-TT_Rounds-Black.eot');
+	font-family: 'Conv_BebasKai';
+	src: url('fonts/BebasKai-Regular.eot');
 	src: local('☺'), 
-	url('fonts/TypeType-TT_Rounds-Black.woff') format('woff'), 
-	url('fonts/TypeType-TT_Rounds-Black.ttf') format('truetype'), 
-	url('fonts/TypeType-TT_Rounds-Black.svg') format('svg');
-	font-weight: 800;
-	font-style: normal;
-}
-
-@font-face {
-	font-family: 'Conv_TypeType-TT_Rounds';
-	src: url('fonts/TypeType-TT_Rounds-Black-Italic.eot');
-	src: local('☺'), 
-	url('fonts/TypeType-TT_Rounds-Black-Italic.woff') format('woff'), 
-	url('fonts/TypeType-TT_Rounds-Black-Italic.ttf') format('truetype'), 
-	url('fonts/TypeType-TT_Rounds-Black-Italic.svg') format('svg');
-	font-weight: 800;
-	font-style: italic;
-}
-
-@font-face {
-	font-family: 'Conv_TypeType-TT_Rounds';
-	src: url('fonts/TypeType-TT_Rounds-Bold.eot');
-	src: local('☺'), 
-	url('fonts/TypeType-TT_Rounds-Bold.woff') format('woff'), 
-	url('fonts/TypeType-TT_Rounds-Bold.ttf') format('truetype'), 
-	url('fonts/TypeType-TT_Rounds-Bold.svg') format('svg');
-	font-weight: bold;
-	font-style: normal;
-}
-
-@font-face {
-	font-family: 'Conv_TypeType-TT_Rounds';
-	src: url('fonts/TypeType-TT_Rounds-Bold-Italic.eot');
-	src: local('☺'), 
-	url('fonts/TypeType-TT_Rounds-Bold-Italic.woff') format('woff'), 
-	url('fonts/TypeType-TT_Rounds-Bold-Italic.ttf') format('truetype'), 
-	url('fonts/TypeType-TT_Rounds-Bold-Italic.svg') format('svg');
-	font-weight: bold;
-	font-style: italic;
-}
-
-@font-face {
-	font-family: 'Conv_TypeType-TT_Rounds';
-	src: url('fonts/TypeType-TT_Rounds-Regular.eot');
-	src: local('☺'), 
-	url('fonts/TypeType-TT_Rounds-Regular.woff') format('woff'), 
-	url('fonts/TypeType-TT_Rounds-Regular.ttf') format('truetype'), 
-	url('fonts/TypeType-TT_Rounds-Regular.svg') format('svg');
+	url('fonts/BebasKai-Regular.woff') format('woff'), 
+	url('fonts/BebasKai-Regular.ttf') format('truetype'), 
+	url('fonts/BebasKai-Regular.svg') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
 
-
 @font-face {
-	font-family: 'Conv_TypeType-TT_Rounds';
-	src: url('fonts/TypeType-TT_Rounds-Italic.eot');
+	font-family: 'Conv_Calibre';
+	src: url('fonts/Calibre-Black.eot');
 	src: local('☺'), 
-	url('fonts/TypeType-TT_Rounds-Italic.woff') format('woff'), 
-	url('fonts/TypeType-TT_Rounds-Italic.ttf') format('truetype'), 
-	url('fonts/TypeType-TT_Rounds-Italic.svg') format('svg');
-	font-weight: normal;
-	font-style: italic;
-}
-
-@font-face {
-	font-family: 'Conv_TypeType-TT_Rounds';
-	src: url('fonts/TypeType-TT_Rounds-Light.eot');
-	src: local('☺'), 
-	url('fonts/TypeType-TT_Rounds-Light.woff') format('woff'), 
-	url('fonts/TypeType-TT_Rounds-Light.ttf') format('truetype'), 
-	url('fonts/TypeType-TT_Rounds-Light.svg') format('svg');
-	font-weight: 200;
+	url('fonts/Calibre-Black.woff') format('woff'), 
+	url('fonts/Calibre-Black.ttf') format('truetype'), 
+	url('fonts/Calibre-Black.svg') format('svg');
+	font-weight: 900;
 	font-style: normal;
 }
 
 @font-face {
-	font-family: 'Conv_TypeType-TT_Rounds';
-	src: url('fonts/TypeType-TT_Rounds-Light-Italic.eot');
+	font-family: 'Conv_Calibre';
+	src: url('fonts/Calibre-Bold.eot');
 	src: local('☺'), 
-	url('fonts/TypeType-TT_Rounds-Light-Italic.woff') format('woff'), 
-	url('fonts/TypeType-TT_Rounds-Light-Italic.ttf') format('truetype'), 
-	url('fonts/TypeType-TT_Rounds-Light-Italic.svg') format('svg');
-	font-weight: 100;
+	url('fonts/Calibre-Bold.woff') format('woff'), 
+	url('fonts/Calibre-Bold.ttf') format('truetype'), 
+	url('fonts/Calibre-Bold.svg') format('svg');
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Conv_Calibre';
+	src: url('fonts/Calibre-Semibold.eot');
+	src: local('☺'), 
+	url('fonts/Calibre-Semibold.woff') format('woff'), 
+	url('fonts/Calibre-Semibold.ttf') format('truetype'), 
+	url('fonts/Calibre-Semibold.svg') format('svg');
+	font-weight: 600;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'Conv_Calibre';
+	src: url('fonts/Calibre-Medium.eot');
+	src: local('☺'), 
+	url('fonts/Calibre-Medium.woff') format('woff'), 
+	url('fonts/Calibre-Medium.ttf') format('truetype'), 
+	url('fonts/Calibre-Medium.svg') format('svg');
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Conv_Calibre';
+	src: url('fonts/Calibre-Regular.eot');
+	src: local('☺'), 
+	url('fonts/Calibre-Regular.woff') format('woff'), 
+	url('fonts/Calibre-Regular.ttf') format('truetype'), 
+	url('fonts/Calibre-Regular.svg') format('svg');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Conv_Calibre';
+	src: url('fonts/Calibre-RegularItalic.eot');
+	src: local('☺'), 
+	url('fonts/Calibre-RegularItalic.woff') format('woff'), 
+	url('fonts/Calibre-RegularItalic.ttf') format('truetype'), 
+	url('fonts/Calibre-RegularItalic.svg') format('svg');
+	font-weight: 400;
 	font-style: italic;
 }
 
 
 @font-face {
-	font-family: 'Conv_TypeType-TT_Rounds';
-	src: url('fonts/TypeType-TT_Rounds-Thin.eot');
+	font-family: 'Conv_Calibre';
+	src: url('fonts/Calibre-Light.eot');
 	src: local('☺'), 
-	url('fonts/TypeType-TT_Rounds-Thin.woff') format('woff'), 
-	url('fonts/TypeType-TT_Rounds-Thin.ttf') format('truetype'), 
-	url('fonts/TypeType-TT_Rounds-Thin.svg') format('svg');
+	url('fonts/Calibre-Light.woff') format('woff'), 
+	url('fonts/Calibre-Light.ttf') format('truetype'), 
+	url('fonts/Calibre-Light.svg') format('svg');
 	font-weight: 100;
 	font-style: normal;
 }
 
 @font-face {
-	font-family: 'Conv_TypeType-TT_Rounds';
-	src: url('fonts/TypeType-TT_Rounds-Thin-Italic.eot');
+	font-family: 'Conv_Calibre';
+	src: url('fonts/Calibre-LightItalic.eot');
 	src: local('☺'), 
-	url('fonts/TypeType-TT_Rounds-Thin-Italic.woff') format('woff'), 
-	url('fonts/TypeType-TT_Rounds-Thin-Italic.ttf') format('truetype'), 
-	url('fonts/TypeType-TT_Rounds-Thin-Italic.svg') format('svg');
+	url('fonts/Calibre-LightItalic.woff') format('woff'), 
+	url('fonts/Calibre-LightItalic.ttf') format('truetype'), 
+	url('fonts/Calibre-LightItalic.svg') format('svg');
 	font-weight: 100;
 	font-style: italic;
 }
 
-
-@font-face {
-	font-family: Campton;
-	font-weight: 100;
-	src: url('fonts/Campton-Light.otf');
-}
-
-@font-face {
-	font-family: Campton;
-	font-weight: bold;
-	src: url('fonts/Campton-Bold.otf');
-
-}
-
-@font-face {
-	font-family: Campton;
-	font-weight: normal;
-	src: url(fonts/Campton-Book.otf);
-}
-
-@font-face {
-	font-family: Campton light;
-	font-weight: 100;
-	src: url('fonts/Campton-Light.otf');
-}
 
 
 b,
@@ -146,27 +110,6 @@ strong {
 	font-weight: bold;
 }
 
-@font-face {
-	font-family: 'Conv_marydale';
-	src: url('fonts/marydale.eot');
-	src: local('â˜º'),
-		url('fonts/marydale.woff') format('woff'),
-		url('fonts/marydale.ttf') format('truetype'),
-		url('fonts/marydale.svg') format('svg');
-	font-weight: normal;
-	font-style: normal;
-}
-
-@font-face {
-	font-family: 'Conv_Stag-Light';
-	src: url('fonts/Stag-Light.eot');
-	src: local('â˜º'),
-		url('fonts/Stag-Light.woff') format('woff'),
-		url('fonts/Stag-Light.ttf') format('truetype'),
-		url('fonts/Stag-Light.svg') format('svg');
-	font-weight: normal;
-	font-style: normal;
-}
 
 /*TOC*/
 
@@ -291,7 +234,7 @@ body {
 	font-size: 1.8rem;
 	font-weight: normal;
 	text-align: left;
-	font-family: 'Conv_TypeType-TT_Rounds';
+	font-family: 'Conv_Calibre';
 	color: #000;
 }
 
@@ -1039,7 +982,6 @@ body.is_app .reporterosusademo-navbar.ocultar {
 #actividad .popover-content .bck-ol-1 li:before,
 #actividad .content .workspace ul li .bck-ol-1 li:before {
 	content: counter(bck-li-counter) ".";
-	/*font-family: Conv_TypeType-TT_Rounds;*/
 	font-weight: 800;
 	position: absolute;
 	text-align: right;
@@ -1082,7 +1024,6 @@ body.is_app .reporterosusademo-navbar.ocultar {
 	text-align: right;
 	margin-left: -10px;
 	width: 29px;
-	/*font-family: Conv_TypeType-TT_Rounds;*/
 }
 
 /*LISTA ORDENADA 3*/
@@ -1178,7 +1119,6 @@ body.is_app .reporterosusademo-navbar.ocultar {
 #actividad .popover-content .bck-ol-5 li:before,
 #actividad .content .workspace ul li .bck-ol-5 li:before {
 	content: counter(bck-li-counter);
-    /* font-family: Conv_TypeType-TT_Rounds; */
     font-weight: bold;
     position: absolute;
     color: #fff;
@@ -1217,7 +1157,6 @@ body.is_app .reporterosusademo-navbar.ocultar {
 #actividad .popover-content .bck-ol-6 li:before,
 #actividad .content .workspace ul li .bck-ol-6 li:before {
 	content: counter(bck-li-counter);
-    /* font-family: Conv_TypeType-TT_Rounds; */
     font-weight: bold;
     position: absolute;
     text-align: right;
