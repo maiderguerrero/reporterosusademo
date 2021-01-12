@@ -2292,7 +2292,8 @@ body.is_app .reporterosusademo-navbar.ocultar {
     padding: 20px;
 }
 
-.bck-box.bck-box-3 .bck-title {
+.bck-box.bck-box-3 .bck-title,
+.bck-box .bck-box.bck-box-3 .bck-title {
 	font-family: 'Conv_BebasKai';
 	color: #F19A00;
     background: #fff;
@@ -2309,6 +2310,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
     width: fit-content;
     margin-top: -40px;
     font-size: 1.8rem;
+    box-shadow: none;
 }
 
 
