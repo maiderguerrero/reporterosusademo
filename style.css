@@ -809,7 +809,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 /*ENFASIS 5*/
 .bck-enfasis-5 {
 	background-color: #FFEF00;
-	padding: 3px 0px;
+	padding: 5px 0px 0px 0px;
 }
 
 /*Enfasis 6*/
@@ -873,7 +873,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 .bck-enfasis-11 {
 	color: #fff;
     border-radius: 8px;
-    padding: 2px 18px 2px 18px;
+    padding: 4px 18px 0px 18px;
     background-color: #F19A00;
 }
 
@@ -881,7 +881,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 .bck-enfasis-12 {
 	color: #fff;
     border-radius: 8px;
-    padding: 2px 18px 2px 18px;
+    padding: 4px 18px 0px 18px;
     background-color: #E3704A;
  }
 
@@ -889,7 +889,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 .bck-enfasis-13 {
 	color: #fff;
     border-radius: 8px;
-    padding: 2px 18px 2px 18px;
+    padding: 4px 18px 0px 18px;
     background-color: #00A6BA;
  }
 
@@ -898,7 +898,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 .bck-enfasis-14 {
 	color: #fff;
     border-radius: 8px;
-    padding: 2px 18px 2px 18px;
+    padding: 4px 18px 0px 18px;
     background-color: #990381;
  }
 
@@ -911,7 +911,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 /*ENFASIS 16*/
 .bck-enfasis-16 { 
 	background-color: #F19A00;
-	padding: 3px 5px;
+	padding: 5px 5px 0px 5px;
 	color: #fff;
 	font-size: 1.8rem;
 }
@@ -919,11 +919,12 @@ body.is_app .reporterosusademo-navbar.ocultar {
 /*ENFASIS 17*/
 .bck-enfasis-17 { 
 	background-color: #fff;
-	padding: 2px 10px;
-	color: #F19A00;
-	border: 1px solid #F19A00;
-	font-size: 1.8rem;
-	border-radius: 5px;
+    padding: 2px 10px 0px 10px;
+    color: #F19A00;
+    border: 1px solid #F19A00;
+    font-size: 1.8rem;
+    border-radius: 5px;
+    font-family: 'Conv_BebasKai';
 }
 
 /*ENFASIS 18*/
