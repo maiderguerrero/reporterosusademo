@@ -3072,6 +3072,10 @@ body.is_app .reporterosusademo-navbar.ocultar {
     box-shadow: rgb(212, 212, 212) 5px 6px 13px 0px;
 }
 
+.bck-box.bck-box-24 .bck-title p {
+    margin-bottom: 0;
+}
+
 /*CAJA 25*/
 
 .bck-box.bck-box-25 {
