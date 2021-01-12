@@ -846,7 +846,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
     color: #fff;
     background-color: #00A6BA;
     border-radius: 3px;
-    padding: 2px 15px;
+    padding: 3px 15px 0px 15px;
     text-align: center;
 }
 
@@ -854,11 +854,11 @@ body.is_app .reporterosusademo-navbar.ocultar {
 	content: "";
     display: block;
     position: absolute;
-    border-bottom: 12px solid transparent;
-    border-top: 12px solid transparent;
+    border-bottom: 10px solid transparent;
+    border-top: 10px solid transparent;
     border-right: 15px solid #00A6BA;
     margin-left: -14px;
-    margin-top: 0.3px;
+    margin-top: 0.4px;
 }
 
 /*ENFASIS 10*/
@@ -866,7 +866,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 	background-color: #990381;
 	color: #fff;
 	border-radius: 3px;
-    padding: 2px 15px;
+    padding: 3px 15px 0px 15px;
     text-align: center;
 }
 
@@ -874,11 +874,11 @@ body.is_app .reporterosusademo-navbar.ocultar {
 	content: "";
     display: block;
     position: absolute;
-    border-bottom: 12px solid transparent;
-    border-top: 12px solid transparent;
+    border-bottom: 10px solid transparent;
+    border-top: 10px solid transparent;
     border-right: 15px solid #990381;
     margin-left: -14px;
-    margin-top: 0.3px;
+    margin-top: 0.4px;
 }
 
 /*ENFASIS 11*/
