@@ -2313,6 +2313,11 @@ body.is_app .reporterosusademo-navbar.ocultar {
     box-shadow: none;
 }
 
+.bck-box.bck-box-3 .bck-title span, 
+.bck-box .bck-box.bck-box-3 .bck-title span {
+    padding-bottom: 0;
+}
+
 
 .bck-box.bck-box-3 .bck-content,
 .bck-box .bck-box.bck-box-3 .bck-content {
