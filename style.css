@@ -2448,7 +2448,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 	min-height: 80px;
 	margin-top: 50px;
 	background-color: #FFFCDC;
-	border-radius: 15px;
+	border-radius: 25px;
 	padding: 15px;
 }
 
@@ -2460,9 +2460,10 @@ body.is_app .reporterosusademo-navbar.ocultar {
 	padding: 10px;
 }
 
-.bck-box-8 .bck-content {
+.bck-box-8 .bck-content,
+.bck-box.bck-box-8 .bck-content {
 	background: #FFFCDC;
-	border-radius: 15px;
+	border-radius: 25px;
 	border: 2px solid #FFEF00;
 	padding-left: 45px;
 }
