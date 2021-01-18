@@ -2124,6 +2124,8 @@ body.is_app .reporterosusademo-navbar.ocultar {
     position: relative;
     list-style-type: none;
     margin-bottom: 10px;
+	font-family: 'Conv_Calibre';
+    font-weight: 700;
 }
 
 #actividad .content .cke_contents .bck-ul-7 li:before,
