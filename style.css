@@ -3361,7 +3361,8 @@ hr {
 .fillblanks-draggable-wrapper {
 	text-align: left;
 	margin-bottom: 20px;
-	margin-left: 47px;
+	/*margin-left: 47px;*/
+	margin-left: 7px;
 }
 
 /*clasificar*/
