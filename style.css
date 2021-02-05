@@ -985,6 +985,10 @@ body.is_app .reporterosusademo-navbar.ocultar {
     font-style: italic;
 }
 
+/**********************HR*****************************/
+hr {
+    border-top: 5px solid #fff;
+}
 
 /*----------------------LISTAS-----------------------*/
 #actividad .content .cke_contents .bck-ol li:before,
