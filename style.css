@@ -248,7 +248,7 @@ body:not(.isTablet) #indice .units ul li:not(.disabled) a .title:hover {
 }
 
 body {
-	font-size: 1.8rem;
+	font-size: 2rem;
 	font-weight: normal;
 	text-align: left;
 	font-family: 'Conv_Calibre';
@@ -262,11 +262,11 @@ body {
 /*tamaÃ±o enunciado listas*/
 
 #actividad .pregunta .texto_curso {
-	font-size: 1.8rem;
+	font-size: 2rem;
 }
 
 #actividad textarea {
-    font-size: 18px;
+    font-size: 20px;
 }
 
 /*ENLACE WEB*/
