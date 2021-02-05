@@ -379,7 +379,7 @@ body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover,
 
 body:not(.isTablet) #indice .units ul li:not(.disabled) a:hover .title,
 body:not(.isTablet) #indice .units ul li.active:not(.disabled) a .title {
-	font-size: 14px;
+	font-size: 16px;
 	font-weight: 400;
 }
 
