@@ -725,7 +725,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
     -webkit-width: fit-content;
     -o-width: fit-content;
     width: fit-content;
-    font-size: 1.8rem;
+    font-size: 1.5rem;
 }
 
 /*TITULO 12*/
@@ -1169,6 +1169,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
     background-color: #025864;
     font-size: 1.8rem;
     width: 28px;
+    height: 28px;
     padding: 1px;
     padding-top: 3px;
     padding-bottom: 0;
