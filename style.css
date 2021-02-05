@@ -978,6 +978,14 @@ body.is_app .reporterosusademo-navbar.ocultar {
 	color: #82057e;
 }
 
+/*ENFASIS 22*/
+.bck-enfasis-22 {
+    color: #9C9BA0;
+    font-size: 1.5rem;
+    font-style: italic;
+}
+
+
 /*----------------------LISTAS-----------------------*/
 #actividad .content .cke_contents .bck-ol li:before,
 #actividad .content .texto_curso .bck-ol li:before,
