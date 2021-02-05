@@ -1290,6 +1290,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
     background-color: #e30613;
     font-size: 1.8rem;
     width: 28px;
+	height: 28px;
     padding: 1px;
     padding-top: 3px;
     padding-bottom: 0;
@@ -1366,6 +1367,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
     background-color: #E3704A;
     font-size: 1.8rem;
     width: 28px;
+	height: 28px;
     padding: 1px;
     padding-top: 3px;
     padding-bottom: 0;
@@ -1440,6 +1442,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
     background-color: #00A6BA;
     font-size: 1.8rem;
     width: 28px;
+	height: 28px;
     padding: 1px;
     padding-top: 3px;
     padding-bottom: 0;
@@ -1481,6 +1484,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
     background-color: #F19A00;
     font-size: 1.8rem;
     width: 28px;
+	height: 28px;
     padding: 1px;
     padding-top: 3px;
     padding-bottom: 0;
@@ -1626,6 +1630,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
     background-color: #9C9BA0;
     font-size: 1.8rem;
     width: 28px;
+	height: 28px;
     padding: 1px;
     padding-top: 3px;
     padding-bottom: 0;
@@ -1734,6 +1739,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
     background-color: #990381;
     font-size: 1.8rem;
     width: 28px;
+	height: 28px;
     padding: 1px;
     padding-top: 3px;
     padding-bottom: 0;
@@ -1776,6 +1782,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
     background-color: #00A6BA;
     font-size: 1.8rem;
     width: 28px;
+	height: 28px;
     padding: 1px;
     padding-top: 3px;
     padding-bottom: 0;
@@ -1818,6 +1825,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
     background-color: #009D54;
     font-size: 1.8rem;
     width: 28px;
+	height: 28px;
     padding: 1px;
     padding-top: 3px;
     padding-bottom: 0;
@@ -1861,6 +1869,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
     background-color: #025864;
     font-size: 1.8rem;
     width: 28px;
+	height: 28px;
     padding: 1px;
     padding-top: 3px;
     padding-bottom: 0;
@@ -2146,7 +2155,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
     background-color: transparent;
     color: #025764;
     position: absolute;
-    margin-top: -1px;
+    margin-top: -3px;
     margin-left: 2px;
     background: transparent;
 }
