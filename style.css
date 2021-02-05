@@ -1028,7 +1028,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 	position: absolute;
 	text-align: right;
 	color: #333;
-	font-size: 1.8rem;
+	font-size: 2rem;
 	width: 31px;
 	margin-top: 0px;
 	left: -25px;
@@ -1092,7 +1092,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 	content: counter(bck-li-counter, upper-alpha)'.';
 	position: absolute;
 	color: #000;
-	font-size: 1.8rem;
+	font-size: 2rem;
 	font-weight: bold;
 	text-align: right;
 	left: -20px;
