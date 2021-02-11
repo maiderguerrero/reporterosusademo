@@ -2735,14 +2735,14 @@ hr {
 }
 
 .bck-box.bck-box-10:before {
-	content: "";
+    content: "";
     background-image: url(imagenes/icono_news_reporterosusa.png);
     background-repeat: no-repeat;
     background-size: contain;
-    padding: 30px;
+    padding: 36px;
     position: absolute;
     right: 0;
-    margin-top: -20px;
+    margin-top: -29px;
     margin-right: -20px;
 }
 
