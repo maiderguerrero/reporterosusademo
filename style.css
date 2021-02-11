@@ -2157,6 +2157,7 @@ hr {
 	font-family: 'Conv_Calibre';
     font-weight: 700;
 	font-size: 1.9rem;
+	margin-left: -15px;
 }
 
 #actividad .content .cke_contents .bck-ul-7 li:before,
