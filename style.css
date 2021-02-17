@@ -2467,6 +2467,7 @@ hr {
 
 .bck-box p {
 	display: block;
+	margin-bottom: 5px;
 }
 
 .bck-box .bck-content {
