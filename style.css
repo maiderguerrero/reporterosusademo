@@ -2247,20 +2247,23 @@ hr {
 	position: relative;
 	list-style-type: none;
 	margin-bottom: 10px;
+	font-weight: 600;
+	font-size: 2rem;
 }
 
 #actividad .content .cke_contents .bck-ul-8 li:before,
 #actividad .content .texto_curso ul.bck-ul-8 li:before,
 #actividad .popover-content ul.bck-ul-8 li:before,
 #actividad .content .workspace ul li ul.bck-ul-8 li:before {
-	font-family: 'FontAwesome';
+font-family: 'FontAwesome';
     content: "\f058";
-    background-color: transparent;
+    background-color: #ffffff00;
     color: #025864;
     position: absolute;
-    margin-top: -1px;
+    margin-top: -3px;
     margin-left: 2px;
     background: transparent;
+    box-shadow: 6px 12px 0px 3px #fff;
 }
 
 /*LISTA DESORDENADA 9*/
