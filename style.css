@@ -941,7 +941,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 /*ENFASIS 16*/
 .bck-enfasis-16 { 
 	background-color: #F19A00;
-	padding: 5px 5px 0px 5px;
+	padding: 5px 5px 5px 5px;
 	color: #fff;
 	font-size: 1.8rem;
 	font-family: 'Conv_BebasKai';
