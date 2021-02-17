@@ -5051,6 +5051,23 @@ table td.bck-td-9 {
 	background: #fcf6eb;
 }
 
+/*Seccion lista ord 11 grabar sonido*/
+
+#actividad .content  .cke_contents .bck-ol-11 li:before, 
+#actividad .content .grabarsonido .texto_curso ol.bck-ol-11 li:before, 
+#actividad .popover-content .grabarsonido ol.bck-ol-11 li:before, 
+#actividad .content .grabarsonido .workspace ul li ol.bck-ol-11 li:before {
+    content: counter(bck-li-counter, lower-alpha)'.';
+    position: absolute;
+    color: #E3704A;
+    font-weight: bold;
+    text-align: right;
+    left: -20px;
+    top: 6px;
+    font-family: inherit;
+    margin: -1px 0px 0px -1px;
+    width: inherit;
+}
 
 .fa-times:before {
 	color: #333;
