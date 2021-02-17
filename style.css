@@ -3854,6 +3854,12 @@ font-family: 'FontAwesome';
     margin-right: 5px;
 }
 
+.item-container .icon-rubric:before {
+	background-image: url(imagenes/icono_rubric_reporteros.PNG);
+	width: 38px;
+    height: 26px;
+    margin-right: 5px;
+}
 
 /**TABLA**/
 table,
