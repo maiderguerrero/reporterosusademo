@@ -150,7 +150,8 @@
 				{ name: 'Icono Cabeza Engranajes', element: 'span', attributes: { 'class': 'icon icon-cabeza-engranajes' } },
 				{ name: 'Icono The Spanish Hub', element: 'span', attributes: { 'class': 'icon icon-thespanishhub' } },
 				{ name: 'Icono Flecha Azul', element: 'span', attributes: { 'class': 'icon icon-flechaazul' } },
-
+				{ name: 'Icono Rubric', element: 'span', attributes: { 'class': 'icon icon-rubric' } },
+				
 				{ name: 'Tabla 1', element: 'table', attributes: { 'class': 'bck-table-1' } },
 				{ name: 'Tabla 2', element: 'table', attributes: { 'class': 'bck-table-2' } },
 				{ name: 'Tabla 3', element: 'table', attributes: { 'class': 'bck-table-3' } },
