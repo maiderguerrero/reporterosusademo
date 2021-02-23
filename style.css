@@ -2745,7 +2745,7 @@ font-family: 'FontAwesome';
     font-size: 1.8rem;
     background: #990381;
     border-top-left-radius: 15px;
-    padding: 5px;
+    padding: 5px 20px 0px 20px;
     font-weight: bold;
 }
 
@@ -2776,7 +2776,7 @@ font-family: 'FontAwesome';
     font-size: 1.8rem;
     background: #00A6BA;
     border-top-left-radius: 15px;
-    padding: 5px;
+    padding: 5px 20px 0px 20px;
     font-weight: bold;
 }
 
@@ -2805,7 +2805,7 @@ font-family: 'FontAwesome';
     font-size: 1.8rem;
     background: #00A6BA;
     border-radius: 0px;
-    padding: 5px 25px;
+    padding: 5px 20px 0px 20px;
 }
 
 .bck-box.bck-box-6 .bck-content {
@@ -2907,7 +2907,7 @@ font-family: 'FontAwesome';
     font-size: 1.8rem;
     background: #9C9BA0;
     border-top-left-radius: 15px;
-    padding: 5px;
+    padding: 5px 20px 0px 20px;
     font-weight: bold;
 }
 
@@ -2987,7 +2987,7 @@ font-family: 'FontAwesome';
     font-size: 1.8rem;
     background: #E3704A;
     border-top-left-radius: 15px;
-    padding: 5px;
+    padding: 5px 20px 0px 20px;
     font-weight: bold;
 }
 
@@ -3035,7 +3035,7 @@ font-family: 'FontAwesome';
 	background: #009A5A;
     font-weight: bold;
     color: #fff;
-    padding: 5px 20px;
+    padding: 5px 20px 0px 20px;
     border: 0px;
     margin: auto;
     border-top-left-radius: 10px;
@@ -3059,7 +3059,7 @@ font-family: 'FontAwesome';
     border-left: 10px solid transparent;
     border-right: 10px solid transparent;
     border-top: 10px solid #009A5A;
-    margin-top: 30px;
+    margin-top: 25px;
 }
 
 /*CAJA 13*/
@@ -3081,7 +3081,7 @@ font-family: 'FontAwesome';
 	background: #00A6BA;
     font-weight: bold;
     color: #fff;
-    padding: 5px 20px;
+    padding: 5px 20px 0px 20px;
     border: 0px;
     margin: auto;
     border-top-left-radius: 10px;
@@ -3105,7 +3105,7 @@ font-family: 'FontAwesome';
     border-left: 10px solid transparent;
     border-right: 10px solid transparent;
     border-top: 10px solid #00A6BA;
-    margin-top: 30px;
+    margin-top: 25px;
 }
 
 /*CAJA 14*/
@@ -3127,7 +3127,7 @@ font-family: 'FontAwesome';
 	background: #E4535D;
     font-weight: bold;
     color: #fff;
-    padding: 5px 20px;
+    padding: 5px 20px 0px 20px;
     border: 0px;
     margin: auto;
     border-top-left-radius: 10px;
@@ -3151,7 +3151,7 @@ font-family: 'FontAwesome';
     border-left: 10px solid transparent;
     border-right: 10px solid transparent;
     border-top: 10px solid #E4535D;
-    margin-top: 30px;
+    margin-top: 25px;
 }
 
 /*CAJA 15*/
@@ -3173,7 +3173,7 @@ font-family: 'FontAwesome';
 	background: #990381;
     font-weight: bold;
     color: #fff;
-    padding: 5px 20px;
+    padding: 5px 20px 0px 20px;
     border: 0px;
     margin: auto;
     border-top-left-radius: 10px;
@@ -3197,7 +3197,7 @@ font-family: 'FontAwesome';
     border-left: 10px solid transparent;
     border-right: 10px solid transparent;
     border-top: 10px solid #990381;
-    margin-top: 30px;
+    margin-top: 25px;
 }
 
 /*CAJA 16*/
@@ -3219,7 +3219,7 @@ font-family: 'FontAwesome';
 	background: #F19A00;
     font-weight: bold;
     color: #fff;
-    padding: 5px 20px;
+    padding: 5px 20px 0px 20px;
     border: 0px;
     margin: auto;
     border-top-left-radius: 10px;
@@ -3243,7 +3243,7 @@ font-family: 'FontAwesome';
     border-left: 10px solid transparent;
     border-right: 10px solid transparent;
     border-top: 10px solid #F19A00;
-    margin-top: 30px;
+    margin-top: 25px;
 }
 
 /*CAJA 17*/
