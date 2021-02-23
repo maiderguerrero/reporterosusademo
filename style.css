@@ -3495,7 +3495,7 @@ font-family: 'FontAwesome';
 
 /*CAJA 26*/
 
-.bck-box-26 .bck-title {
+.bck-box-26 > .bck-title {
     border: 0px;
     color: #fff;
     font-size: 1.8rem;
@@ -3519,7 +3519,7 @@ font-family: 'FontAwesome';
     border-radius: 0px;
 }
 
-.bck-box.bck-box-26 .bck-content {
+.bck-box.bck-box-26 > .bck-content {
     padding: 20px 27px;
     background: #e5f6fc;
     border: 16px solid #267183;
