@@ -1054,6 +1054,48 @@ margin-top: 0px;
     font-size: 1.6rem;
 }
 
+/*ENFASIS 26*/
+.bck-enfasis-26 {
+	color: #ffffff;
+    font-size: 18.6rem;
+    BACKGROUND-COLOR: #e30613;
+    PADDING: 12PX;
+    FONT-WEIGHT: BOLD;
+    HEIGHT: AUTO;
+    WIDTH: 125PX;
+    DISPLAY: INLINE-BLOCK;
+    PADDING-TOP: 130px;
+    TEXT-ALIGN: center;
+    PADDING-BOTTOM: 35px;
+    border-radius: 0px 0px 45px 13px;
+    box-shadow: 5px 4px 8px -3px #8c8c8c;
+}
+
+.bck-enfasis-26:before {
+    content: 'UNIDAD';
+    color: #FFF;
+    FONT-WEIGHT: BOLD;
+    FONT-SIZE: 2.5REM;
+    DISPLAY: block;
+    POSITION: absolute;
+    TOP: 20px;
+    LEFT: 36px;
+}
+
+.bck-enfasis-26:AFTER {
+	content: "";
+    display: block;
+    position: absolute;
+    border-bottom: 36px solid transparent;
+    border-top: 31px solid transparent;
+    margin-left: 67.5px;
+    margin-top: -23.6px;
+    transform: rotate(43deg);
+    border-radius: 0px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 21px;
+    border-bottom-right-radius: 32px;
+}
 /**********************HR*****************************/
 hr {
     border-top: 5px solid #fff;
