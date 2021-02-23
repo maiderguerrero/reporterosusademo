@@ -1056,7 +1056,7 @@ margin-top: 0px;
 
 /*ENFASIS 26*/
 .bck-enfasis-26 {
-	color: #ffffff;
+color: #ffffff;
     font-size: 18.6rem;
     BACKGROUND-COLOR: #e30613;
     PADDING: 12PX;
@@ -1067,7 +1067,7 @@ margin-top: 0px;
     PADDING-TOP: 130px;
     TEXT-ALIGN: center;
     PADDING-BOTTOM: 35px;
-    border-radius: 0px 0px 45px 13px;
+    border-radius: 1px 0px 55px 13px;
     box-shadow: 5px 4px 8px -3px #8c8c8c;
 }
 
@@ -1088,11 +1088,12 @@ margin-top: 0px;
     position: absolute;
     border-bottom: 36px solid transparent;
     border-top: 31px solid transparent;
+    border-right: 33px solid #7f1010;
     margin-left: 67.5px;
-    margin-top: -23.6px;
+    margin-top: -25.6px;
     transform: rotate(43deg);
     border-radius: 0px;
-    border-top-left-radius: 20px;
+    border-top-left-radius: 22px;
     border-top-right-radius: 21px;
     border-bottom-right-radius: 32px;
 }
