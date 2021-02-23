@@ -1041,6 +1041,19 @@ margin-top: 0px;
 	    font-style: italic;
 }
 
+/*ENFASIS 25*/
+.bck-enfasis-25:before {
+    font-family: 'FontAwesome';
+    content: '\f062';
+    color: #0B636D;
+    padding-right: 4px;
+}
+
+.bck-enfasis-25 {
+    color: #414141;
+    font-size: 1.6rem;
+}
+
 /**********************HR*****************************/
 hr {
     border-top: 5px solid #fff;
