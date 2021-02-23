@@ -1082,7 +1082,7 @@ margin-top: 0px;
     LEFT: 36px;
 }
 
-.bck-enfasis-26:AFTER {
+.bck-enfasis-26:after {
 	content: "";
     display: block;
     position: absolute;
@@ -1096,6 +1096,8 @@ margin-top: 0px;
     border-top-right-radius: 21px;
     border-bottom-right-radius: 32px;
 }
+
+
 /**********************HR*****************************/
 hr {
     border-top: 5px solid #fff;
