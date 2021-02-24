@@ -5285,6 +5285,19 @@ body:not(.edit) .back .bck-flipbox-title, body:not(.edit) .back .bck-flipbox-sec
     padding-left: 20px;
 }
 
+/**ACTIVIDADES**/
+/*rellenar espacios*/
+#actividad .workspace.multiplechoice_horizontal .opcion p {
+    padding: 5px 5px 0px 7px;
+}
+
+/*test*/
+#actividad .workspace.test .respuestas li {
+    width: 100%;
+    display: inline-block;
+    vertical-align: top;
+}
+
 /*SECCIONES*/
 
 /*Seccion titulo test cultural*/
