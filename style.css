@@ -5298,6 +5298,13 @@ body:not(.edit) .back .bck-flipbox-title, body:not(.edit) .back .bck-flipbox-sec
     vertical-align: top;
 }
 
+/*marcar palabras*/
+#actividad .markword-active {
+    border-radius: 12px !important;
+    padding: 7px 4px 4px 4px!important;
+    border: 2px solid #CCC !important;
+}
+
 /*SECCIONES*/
 
 /*Seccion titulo test cultural*/
