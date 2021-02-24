@@ -5074,6 +5074,13 @@ table td.bck-td-9 {
 	font-size: 2rem;
 }
 
+/**descripcion emergente*/
+.bck-tooltip, .bck-underline {
+
+    color: #9d9d9c;
+    font-weight: 500;
+}
+
 /*flipbox*/
 body:not(.edit) .bck-flipbox-face.front {
     color: #414141;
