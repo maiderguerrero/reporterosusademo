@@ -871,6 +871,13 @@ border-left: 10px solid transparent;
     width: fit-content;
 }
 
+.bck-title-18{
+	width: 100%;
+    font-size: 1.5rem;
+    padding-bottom: 5px;
+    border-bottom: 4px dotted #fff;
+}
+
 /**/
 
 /*------------------------------------ENFASIS------------------------------------------------*/
