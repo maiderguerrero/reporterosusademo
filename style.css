@@ -5074,6 +5074,47 @@ table td.bck-td-9 {
 	font-size: 2rem;
 }
 
+/*flipbox*/
+body:not(.edit) .bck-flipbox-face.front {
+    color: #414141;
+    background-color: #fff;
+    position: relative;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+body:not(.edit) .bck-flipbox-face.front, body:not(.edit) .bck-flipbox-face.back {
+    backface-visibility: hidden;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #9D9D9C;
+    transform-style: preserve-3d;
+    transition: all .5s ease-in-out;
+    -o-transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    height: 100%;
+    width: 100%;
+}
+
+body:not(.edit) .front .bck-flipbox-title, body:not(.edit) .front .bck-flipbox-section {
+    color: #414141;
+}
+
+body:not(.edit) .bck-flipbox-face.back {
+    color: #fff;
+    background-color: #9d9d9c;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 0;
+}
+
+body:not(.edit) .back .bck-flipbox-title, body:not(.edit) .back .bck-flipbox-section {
+    color: #fff;
+}
+
 
 /*Desplegable 1*/
 .bck-dropdown.bck-dropdown-1 {
