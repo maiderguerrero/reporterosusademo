@@ -3471,7 +3471,7 @@ font-family: 'FontAwesome';
 	background: transparent;
 }
 
-.bck-box.bck-box-24 .bck-title {
+.bck-box.bck-box-24 >.bck-title {
 	background: #e30613;
     text-align: left;
     font-weight: 500;
