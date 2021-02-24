@@ -5331,6 +5331,14 @@ body:not(.edit) .back .bck-flipbox-title, body:not(.edit) .back .bck-flipbox-sec
     width: inherit;
 }
 
+/*seccion marcarpalabras*/
+#actividad .content .marcarpalabras .texto_curso ul li::before, 
+#actividad .content .workspace ul li ul li::before, 
+#actividad .content .marcarpalabras.texto_curso .bck-ul li::before, 
+#actividad .content .marcarpalabras .workspace ul li .bck-ul li::before{
+	    margin-top: 12px;
+}
+
 .fa-times:before {
 	color: #333;
 }
