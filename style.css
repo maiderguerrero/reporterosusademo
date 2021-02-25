@@ -4287,7 +4287,15 @@ table td.bck-td-10 {
 	background-color: #eb5d40 !important;
 }
 
+/*unidad_cero*/
+#list-units .unittag_unidad_cero_reporterosusa {
+	background-color: #616161 !important;
+}
 
+/*no_unidad*/
+#list-units .unittag_no_unidad_reporterosusa {
+	background-color: #757575 !important;
+}
 
 /*----------------UNIT TAG GRIS------------------------*/
 .unittag_gris_reporterosusa #actividad .content .header .title h3 {
