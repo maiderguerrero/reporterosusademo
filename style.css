@@ -5374,6 +5374,11 @@ body:not(.edit) .back .bck-flipbox-title, body:not(.edit) .back .bck-flipbox-sec
     border: 2px solid #CCC !important;
 }
 
+/*RESPUESTAS CORTAS*/
+.shortanswer-container.input {
+    display: inline-block;
+    MARGIN-LEFT: -5px;
+}
 /*SECCIONES*/
 
 /*Seccion titulo test cultural*/
