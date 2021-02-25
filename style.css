@@ -2737,9 +2737,19 @@ font-family: 'FontAwesome';
 }
 
 
-/*.bck-box.bck-box-3 .bck-title:before {
-	display: none;
-}*/
+.bck-box .bck-box.bck-box-3 .bck-title:before,
+.bck-box.bck-box-3 .bck-title:before {
+	content: "";
+    background-image: url(imagenes/icono_testcultural.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 35px;
+    position: absolute;
+    margin-top: -47px;
+    margin-right: 24px;
+    right: 0;
+    z-index: 1;
+}
 
 
 /*CAJA 4*/
