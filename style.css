@@ -436,7 +436,7 @@ body:not(.isTablet) #indice .units ul li.active:not(.disabled) a .title {
 }
 
 #book-index #indice .unit-content .actividades .item {
-	background: #000;
+	background: #ccc;
 }
 
 
