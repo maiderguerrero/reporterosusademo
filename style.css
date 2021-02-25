@@ -5439,7 +5439,7 @@ body:not(.edit) .back .bck-flipbox-title, body:not(.edit) .back .bck-flipbox-sec
 
 .btn-primary, 
 .btn-primary.disabled {
-    background-color: #7c7c7c;
+    background-color: #000000;
     color: #fff;
 }
 
