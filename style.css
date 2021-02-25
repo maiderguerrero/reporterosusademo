@@ -5203,6 +5203,7 @@ body:not(.edit) .back .bck-flipbox-title, body:not(.edit) .back .bck-flipbox-sec
     border: 1px solid #9d9d9c;
     padding-left: 20px;
     max-height: 800%;
+	text-align:center;
 }
 
 .bck-dropdown-1 .bck-dropdown-titulo {
@@ -5278,6 +5279,7 @@ body:not(.edit) .back .bck-flipbox-title, body:not(.edit) .back .bck-flipbox-sec
     padding-top: 10px;
     border-top: 0px;
     padding-left: 20px;
+	text-align:center;
 }
 
 /*Desplegable 3*/
@@ -5340,6 +5342,7 @@ body:not(.edit) .back .bck-flipbox-title, body:not(.edit) .back .bck-flipbox-sec
     padding-top: 10px;
     border-top: 0px;
     padding-left: 20px;
+	text-align:center;
 }
 
 /**ACTIVIDADES**/
