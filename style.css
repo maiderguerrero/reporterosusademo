@@ -2791,7 +2791,7 @@ font-family: 'FontAwesome';
     border-radius: 0px;
 }
 
-.bck-box-4 .bck-title {
+.bck-box-4 > .bck-title {
     border: 0px;
     color: #fff;
     text-align: center;
@@ -2802,7 +2802,7 @@ font-family: 'FontAwesome';
     font-weight: bold;
 }
 
-.bck-box.bck-box-4 .bck-content {
+.bck-box.bck-box-4 > .bck-content {
 	padding: 20px 27px;
 	font-size: 1.7rem;
 	background: #EEE3F0;
