@@ -1047,6 +1047,7 @@ border-left: 10px solid transparent;
     font-size: 1.8rem;
     border-radius: 5px;
     font-family: 'Conv_BebasKai';
+	margin-right: 9px;
 }
 
 .bck-enfasis-17:before {
@@ -1057,7 +1058,7 @@ border-left: 10px solid transparent;
     padding: 6px;
     position: absolute;
     margin-top: 6px;
-    margin-left: 82px;
+    margin-left: 163px;
     left: 0;
     z-index: 1;
     transform: rotate(-90deg);
