@@ -1028,6 +1028,19 @@ border-left: 10px solid transparent;
     font-family: 'Conv_BebasKai';
 }
 
+.bck-enfasis-17:before {
+    content: "";
+    background-image: url(imagenes/icono_testcultural.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 12px;
+    position: absolute;
+    margin-top: 33px;
+    margin-left: 78px;
+    left: 0;
+    z-index: 1;
+}
+
 /*ENFASIS 18*/
 .bck-enfasis-18 {
 	color: #025864;
