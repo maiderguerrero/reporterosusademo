@@ -1033,12 +1033,13 @@ border-left: 10px solid transparent;
     background-image: url(imagenes/icono_testcultural.png);
     background-repeat: no-repeat;
     background-size: contain;
-    padding: 12px;
+    padding: 6px;
     position: absolute;
-    margin-top: 33px;
-    margin-left: 78px;
+    margin-top: 6px;
+    margin-left: 82px;
     left: 0;
     z-index: 1;
+    transform: rotate(-90deg);
 }
 
 /*ENFASIS 18*/
