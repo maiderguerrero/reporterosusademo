@@ -2814,7 +2814,7 @@ font-family: 'FontAwesome';
 .bck-box-6 .bck-title {
     border: 0px;
     color: #fff;
-    font-size: 1.8rem;
+    /*font-size: 1.8rem;*/
     background: #00A6BA;
     border-radius: 0px;
     padding: 5px 20px 0px 20px;
