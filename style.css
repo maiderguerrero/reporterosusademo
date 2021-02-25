@@ -5492,7 +5492,7 @@ body:not(.edit) .back .bck-flipbox-title, body:not(.edit) .back .bck-flipbox-sec
 }
 
 #indice .unit-content .material .item .imagen.archivo:after {
-    background-color: #706f6f;
+    background-color: #000000;
     border-radius: 50%;
 }
 
