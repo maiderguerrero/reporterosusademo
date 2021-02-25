@@ -169,7 +169,7 @@ strong {
 body:not(.isTablet) #indice .units ul li.active:not(.disabled) a .title {
 	font-size: 14px;
 	font-weight: bold;
-	color: #7c7c7c;
+	color: #fff;
 }
 
 body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
