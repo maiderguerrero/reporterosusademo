@@ -339,8 +339,8 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 body:not(.isTablet) #book-index #indice .unit-content .actividades .item:hover, 
 #book-index #indice .unit-content .actividades .item.active, 
 #book-index #indice .unit-content .actividades .item.current {
-    color: #7c7c7c;
-    background: #c2c2c2;
+    color: #fff;
+    background: #000000;
 }
 
 #book-index #indice .unit-content .actividades .item.current span.title {
@@ -389,7 +389,7 @@ body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover,
 #book-index #indice .unit-content .actividades .item .title:hover,
 #book-index #indice .unit-content .actividades .item .title:focus,
 #book-index #indice .unit-content .actividades .item .title:active {
-	color: #7c7c7c;
+	color: #fff;
 }
 
 #book-index #indice .unit-content .actividades .item a:hover,
