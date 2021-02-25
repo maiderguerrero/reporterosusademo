@@ -5291,6 +5291,13 @@ body:not(.edit) .back .bck-flipbox-title, body:not(.edit) .back .bck-flipbox-sec
     padding: 5px 5px 0px 7px;
 }
 
+.texto_curso li input {
+    height: 1.43em;
+    margin: 0;
+    position: relative;
+    bottom: 4px;
+}
+
 /*test*/
 #actividad .workspace.test .respuestas li {
     width: 100%;
