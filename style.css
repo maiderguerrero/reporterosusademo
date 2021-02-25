@@ -4101,7 +4101,10 @@ table td.bck-td-9 {
 	    font-family: 'Conv_Calibre';
 }
 
-
+/*CELDA 10*/
+table td.bck-td-10 {
+	background-color: transparent;
+}
 
 /*Boton toc - boton reininciar ejercicio*/
 .btn-primary {
