@@ -304,6 +304,10 @@ body {
     font-size: 20px;
 }
 
+.texto_curso p:last-of-type {
+    margin-bottom: 5px;
+}
+
 /*ENLACE WEB*/
 
 #actividad a,
