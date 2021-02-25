@@ -5469,7 +5469,7 @@ body:not(.edit) .back .bck-flipbox-title, body:not(.edit) .back .bck-flipbox-sec
 #indice .unit-content .actividades .item .text {
     display: block;
     margin-left: 29px;
-    font-size: 14px;
+    font-size: 16px;
     color: gray;
     max-width: 370px;
     -webkit-line-clamp: 2;
