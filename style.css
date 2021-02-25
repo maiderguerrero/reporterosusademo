@@ -350,7 +350,7 @@ body:not(.isTablet) #book-index #indice .unit-content .actividades .item:hover,
 
 body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover,
 #book-index #indice .units ul li.active a {
-	background: #b7b7b7;
+	background: #000000;
 }
 
 
