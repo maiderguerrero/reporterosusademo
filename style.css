@@ -4249,7 +4249,7 @@ table td.bck-td-10 {
 #list-units .unittag_azuloscuro_reporterosusa.active:not(.disabled),
 #list-units .unittag_naranja_reporterosusa.active:not(.disabled),
 #list-units .unittag_teja_reporterosusa.active:not(.disabled) {
-	background-color: #c2c2c2 !important;
+	background-color: #000000 !important;
 }
 
 /*Gris*/
