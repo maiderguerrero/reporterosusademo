@@ -253,7 +253,16 @@ body:not(.isTablet) #indice .units ul li:not(.disabled) a .title:hover {
 }
 
 /*logo*/
-
+.libro-left ul li .title {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 42px;
+    margin-left: 10px;
+    max-height: 44px;
+    display: inline-block;
+    padding-top: 4px;
+}
 
 .content_type_curso_reporterosusademo   .libro-left ul li .title:before {
 	content: "";
