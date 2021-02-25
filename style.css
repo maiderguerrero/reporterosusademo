@@ -2654,7 +2654,7 @@ font-family: 'FontAwesome';
 }
 
 .bck-box.bck-box-1 .bck-content {
-	padding: 10px;
+	padding: 4px 10px;
 	border-bottom: none;
 	color: #fff;
 	background-color: #e30613;
