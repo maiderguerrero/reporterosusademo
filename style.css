@@ -2699,8 +2699,7 @@ font-family: 'FontAwesome';
     padding: 20px;
 }
 
-.bck-box.bck-box-3 .bck-title,
-.bck-box .bck-box.bck-box-3 .bck-title {
+.bck-box.bck-box-3 .bck-title {
 	font-family: 'Conv_BebasKai';
 	color: #F19A00;
     background: #fff;
@@ -2720,14 +2719,12 @@ font-family: 'FontAwesome';
     box-shadow: none;
 }
 
-.bck-box.bck-box-3 .bck-title span, 
-.bck-box .bck-box.bck-box-3 .bck-title span {
+.bck-box.bck-box-3 .bck-title span  {
     padding-bottom: 0px !important;
 }
 
 
-.bck-box.bck-box-3 .bck-content,
-.bck-box .bck-box.bck-box-3 .bck-content {
+.bck-box.bck-box-3 .bck-content {
 	color: #333;
     background: #FEF6EB;
     padding: 5px;
@@ -2737,7 +2734,7 @@ font-family: 'FontAwesome';
 }
 
 
-.bck-box .bck-box.bck-box-3 .bck-title:before,
+
 .bck-box.bck-box-3 .bck-title:before {
 	content: "";
     background-image: url(imagenes/icono_testcultural.png);
