@@ -179,7 +179,7 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
 }
 
 body:not(.isTablet) #indice .units ul li:not(.disabled) a .title:hover {
-	color: #000000;
+	color: #fff;
 }
 
 #indice .units ul li a .title {
