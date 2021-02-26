@@ -4431,6 +4431,14 @@ table td.bck-td-10 {
 	background-color: #ab3a8e;
 }
 
+.unittag_azulclaro_reporterosusa .bck-enfasis-26 {
+    BACKGROUND-COLOR: #629CD3;
+}
+
+.unittag_azulclaro_reporterosusa .bck-enfasis-26:after {
+    border-right: 33px solid rgb(49,81,163);
+}
+
 .unittag_azulclaro_reporterosusa #actividad .content .cke_contents .bck-ol-5 li, 
 .unittag_azulclaro_reporterosusa #actividad .content .cke_contents .bck-ol-5 li, 
 .unittag_azulclaro_reporterosusa #actividad .content .texto_curso .bck-ol-5 li, 
