@@ -2811,7 +2811,7 @@ font-family: 'FontAwesome';
     padding: 20px;
 }
 
-.bck-box.bck-box-3 .bck-title {
+.bck-box.bck-box-3 > .bck-title {
 	font-family: 'Conv_BebasKai';
 	color: #F19A00;
     background: #fff;
@@ -2836,7 +2836,7 @@ font-family: 'FontAwesome';
 }
 
 
-.bck-box.bck-box-3 .bck-content {
+.bck-box.bck-box-3 > .bck-content {
 	color: #333;
     background: #FEF6EB;
     padding: 5px;
@@ -3374,12 +3374,12 @@ font-family: 'FontAwesome';
 	box-shadow: rgb(186, 186, 186) 10px 10px 15px 0px;
 }
 
-.bck-box.bck-box-17 .bck-content {
+.bck-box.bck-box-17 > .bck-content {
 	padding: 25px;
 	background: transparent;
 }
 
-.bck-box.bck-box-17 .bck-title {
+.bck-box.bck-box-17 > .bck-title {
 	background: #F19A00;
 	text-align: left;
     font-weight: bold;
