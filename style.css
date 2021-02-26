@@ -5446,7 +5446,7 @@ body:not(.edit) .back .bck-flipbox-title, body:not(.edit) .back .bck-flipbox-sec
 #actividad .content .grabarsonido .workspace ul li ol.bck-ol-4 li:before {
     content: counter(bck-li-counter, lower-alpha)'.';
     position: absolute;
-    color: #E3704A;
+    color: #000000;
     font-weight: bold;
     text-align: right;
     left: -20px;
