@@ -3663,6 +3663,37 @@ font-family: 'FontAwesome';
     border: 16px solid #267183;
 }
 
+/*CAJA 27*/
+
+.bck-box-27 > .bck-title {
+    border: 0px;
+    color: #fff;
+    font-size: 1.8rem;
+    background: #00A6BA;
+    border-radius: 0px;
+    content: ' ';
+    background-repeat: no-repeat;
+    position: relative;
+	background: url(imagenes/box27.png) repeat-y;
+    padding: 27px 18px 36px 32px;
+    background-size: cover;
+    top: 0px;
+    left: -3px;
+    width: 100.7%;
+}
+
+.bck-box.bck-box-27 {
+    background: transparent;
+    border: none;
+    text-align: left;
+    border-radius: 0px;
+}
+
+.bck-box.bck-box-27 > .bck-content {
+    padding: 20px 27px;
+    background: #e5f6fc;
+    border: 16px solid #267183;
+}
 
 /*CAJA POP-UP*/
 .info-popover .popover-title:before,
