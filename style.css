@@ -5653,7 +5653,7 @@ body:not(.edit) .back .bck-flipbox-title, body:not(.edit) .back .bck-flipbox-sec
 
 
 #indice .unit-content .material .item .imagen.actividad:after {
-    background-color: rgba(59, 90, 100, 0.8);
+    background-color: #000000;
     border-radius: 50%;
 }
 
