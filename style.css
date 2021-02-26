@@ -2117,6 +2117,40 @@ hr {
     border-radius: 100%;
 }
 
+/*LISTA ORDENADA 24*/
+#actividad .content .cke_contents .bck-ol-24,
+#actividad .content .texto_curso .bck-ol-24,
+#actividad .content .workspace ul li .bck-ol-24 {
+	list-style-type: none;
+	counter-reset: bck-li-counter;
+}
+
+#actividad .content .cke_contents .bck-ol-24 li,
+#actividad .content .cke_contents .bck-ol-24 li,
+#actividad .content .texto_curso .bck-ol-24 li,
+#actividad .popover-content .bck-ol-24 li,
+#actividad .content .workspace ul li .bck-ol-24 li {
+	counter-increment: bck-li-counter;
+	padding-left: 0px;
+	z-index: 0;
+}
+
+#actividad .content .cke_contents .bck-ol-24 li:before,
+#actividad .content .texto_curso ol.bck-ol-24 li:before,
+#actividad .popover-content ol.bck-ol-4 li:before,
+#actividad .content .workspace ul li ol.bck-ol-24 li:before {
+	content: counter(bck-li-counter, lower-alpha)'.';
+	position: absolute;
+	color: #000;
+	font-size: 1.8rem;
+	font-weight: bold;
+	text-align: right;
+	left: -20px;
+	font-family: inherit;
+	margin: 0px 0px 0px -1px;
+	width: inherit;
+	top: 6px;
+}
 
 /*LISTAS DESORDENADAS*/
 .texto_curso ul li {
