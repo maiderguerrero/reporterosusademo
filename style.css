@@ -906,7 +906,7 @@ border-left: 10px solid transparent;
 /*TITULO 19*/
 
 .bck-title-19 {
-	background-color: #934991;
+	background-color: rgb(155,37,144);
 	color: #fff;
 	border-top-left-radius: 10px;
 	border-top-right-radius: 10px;
@@ -924,7 +924,7 @@ border-left: 10px solid transparent;
 	content: "";
 	border-left: 15px solid transparent;
     border-right: 15px solid transparent;
-    border-top: 15px solid #934991;
+    border-top: 15px solid rgb(155,37,144);
     margin-top: 25px;
     margin-left: -25px;
     position: absolute;
