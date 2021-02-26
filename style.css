@@ -1105,19 +1105,6 @@ border-left: 10px solid transparent;
 	margin-right: 9px;
 }
 
-.bck-enfasis-17:before {
-    content: "";
-    background-image: url(imagenes/icono_testcultural.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-    padding: 6px;
-    position: absolute;
-    margin-top: 6px;
-    margin-left: 163px;
-    left: 0;
-    z-index: 1;
-    transform: rotate(-90deg);
-}
 
 /*ENFASIS 18*/
 .bck-enfasis-18 {
@@ -2822,21 +2809,6 @@ font-family: 'FontAwesome';
     font-size: 1.7rem;
     padding-top: 15px;
     font-family: 'Conv_PT_Sans-Web-Regular';
-}
-
-
-
-.bck-box.bck-box-3 .bck-title:before {
-    content: "";
-    background-image: url(imagenes/icono_testcultural.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-    padding: 12px;
-    position: absolute;
-    margin-top: 34px;
-    margin-left: 65px;
-    left: 0;
-    z-index: 1;
 }
 
 
