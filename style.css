@@ -596,13 +596,15 @@ body.is_app .reporterosusademo-navbar.ocultar {
 	-webkit-border-radius: 5px 5px;
 	-moz-border-radius: 5px 5px;
 	border-radius: 5px 5px;
-	max-width: 200px;
+	max-width: fit-content;
 	margin: 0px;
 	padding: 0px;
 	display: inline-block;
 	text-align: center;
 	overflow-wrap: break-word;
 }
+
+
 
 .bck-file-attach:before {
 	content: " ";
