@@ -2640,7 +2640,7 @@ font-family: 'FontAwesome';
     color: #555;
     border-radius: 50%;
     position: absolute;
-    margin-top: .45em;
+    margin-top: 11px;
     margin-left: -2px;
 }
 
@@ -2704,7 +2704,7 @@ font-family: 'FontAwesome';
     background-color: transparent;
     color: #F19A00;
     position: absolute;
-    margin-top: -1px;
+    margin-top: -2px;
     margin-left: 2px;
     background: transparent;
 }
@@ -2736,7 +2736,7 @@ font-family: 'FontAwesome';
     background-color: transparent;
     color: #E3704A;
     position: absolute;
-    margin-top: -1px;
+    margin-top: -2px;
     margin-left: 2px;
     background: transparent;
 }
@@ -2804,7 +2804,7 @@ font-family: 'FontAwesome';
     color: #333;
     border-radius: 50%;
     position: absolute;
-    margin-top: 9px;
+    margin-top: 12px;
     margin-left: 6px;
     border: 1px solid #333;
 }
@@ -2838,7 +2838,7 @@ font-family: 'FontAwesome';
     color: #333;
     border-radius: 50%;
     position: absolute;
-    margin-top: 9px;
+    margin-top: 11px;
     margin-left: 6px;
     border: 1px solid #333;
 }
