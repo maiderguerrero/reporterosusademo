@@ -2840,14 +2840,14 @@ font-family: 'FontAwesome';
 	display: none;
 }
 
-.bck-box.bck-box-1 {
+.bck-box.bck-box.bck-box-1 {
 	background: #e30613;
 	padding: 20px;
 	color: #fff;
 	margin-top: 0px;
 }
 
-.bck-box-1 > .bck-title {
+.bck-box.bck-box-1 > .bck-title {
 	color: #fff;
     text-align: left;
     background-color: #e30613;
