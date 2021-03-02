@@ -2963,10 +2963,10 @@ font-family: 'FontAwesome';
 .bck-box-6 > .bck-title {
     border: 0px;
     color: #fff;
-    /*font-size: 1.8rem;*/
+    font-size: 1.4em;
     background: #00A6BA;
     border-radius: 0px;
-    padding: 5px 20px 0px 20px;
+    padding: 15px 20px 0 20px;
 }
 
 .bck-box.bck-box-6 > .bck-content {
@@ -3124,11 +3124,12 @@ font-family: 'FontAwesome';
 }
 
 .bck-box.bck-box-10 > .bck-title {
-	padding: 5px;
+	padding: 15px;
 	padding-bottom: 0;
     border: 0px;
     color: #2A7184;
     font-weight: bold;
+	font-size: 1.4em;
 }
 
 
@@ -3145,10 +3146,10 @@ font-family: 'FontAwesome';
     border: 0px;
     color: #fff;
     text-align: center;
-    font-size: 1.8rem;
+    font-size: 1.4em;
     background: #E3704A;
     border-top-left-radius: 15px;
-    padding: 5px 20px 0px 20px;
+    padding: 15px 20px 0 20px;
     font-weight: bold;
 }
 
@@ -3196,7 +3197,7 @@ font-family: 'FontAwesome';
 	background: #009A5A;
     font-weight: bold;
     color: #fff;
-    padding: 5px 20px 0px 20px;
+    padding: 15px 20px 0 20px;
     border: 0px;
     margin-left: 20px;
     border-top-left-radius: 10px;
@@ -3206,7 +3207,7 @@ font-family: 'FontAwesome';
     -webkit-width: fit-content;
     -o-width: fit-content;
     width: fit-content;
-    font-size: 1.8rem;
+    font-size: 1.4em;
     margin-top: -27px;
 }
 
@@ -3242,7 +3243,7 @@ font-family: 'FontAwesome';
 	background: #00A6BA;
     font-weight: bold;
     color: #fff;
-    padding: 5px 20px 0px 20px;
+    padding: 15px ​20px 0px 20p
     border: 0px;
     margin-left: 20px;
     border-top-left-radius: 10px;
@@ -3252,7 +3253,7 @@ font-family: 'FontAwesome';
     -webkit-width: fit-content;
     -o-width: fit-content;
     width: fit-content;
-    font-size: 1.8rem;
+    font-size: 1.4em;
     margin-top: -27px;
 }
 
@@ -3288,7 +3289,7 @@ font-family: 'FontAwesome';
 	background: #E4535D;
     font-weight: bold;
     color: #fff;
-    padding: 5px 20px 0px 20px;
+    padding: 10px 20px 0px 20px;
     border: 0px;
    margin-left: 20px;
     border-top-left-radius: 10px;
@@ -3298,7 +3299,7 @@ font-family: 'FontAwesome';
     -webkit-width: fit-content;
     -o-width: fit-content;
     width: fit-content;
-    font-size: 1.8rem;
+    font-size: 1.4em;
     margin-top: -27px;
 }
 
@@ -3334,7 +3335,7 @@ font-family: 'FontAwesome';
 	background: #990381;
     font-weight: bold;
     color: #fff;
-    padding: 5px 20px 0px 20px;
+    padding: 10px 20px 0px 20px;
     border: 0px;
    margin-left: 20px;
     border-top-left-radius: 10px;
@@ -3344,7 +3345,7 @@ font-family: 'FontAwesome';
     -webkit-width: fit-content;
     -o-width: fit-content;
     width: fit-content;
-    font-size: 1.8rem;
+    font-size: 1.4em;
     margin-top: -27px;
 }
 
@@ -3390,7 +3391,7 @@ font-family: 'FontAwesome';
     -webkit-width: fit-content;
     -o-width: fit-content;
     width: fit-content;
-    font-size: 1.8rem;
+    font-size: 1.4em;
     margin-top: -27px;
 }
 
@@ -3429,10 +3430,10 @@ font-family: 'FontAwesome';
 	text-align: left;
     font-weight: bold;
     color: #fff;
-    padding: 13px 20px 6px 20px;
+    padding: 16px 20px 2px 20px;
     border: 0px;
     border-radius: 10px;
-    font-size: 2rem;
+    font-size: 1.4em;
     margin-top: -27px;
     -webkit-box-shadow: rgb(212, 212, 212) 5px 6px 13px 0px;
 	-moz-box-shadow: rgb(212, 212, 212) 5px 6px 13px 0px;
