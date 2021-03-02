@@ -5408,8 +5408,8 @@ body:not(.edit) .back .bck-flipbox-title, body:not(.edit) .back .bck-flipbox-sec
 }
 
 .bck-dropdown-1 .bck-dropdown-titulo {
-    font-size: 1.8rem;
-    padding-left: 11px;
+    font-size: 2.2rem;
+    padding: 5px 1px 1px 1px;
 }
 
 .bck-dropdown-1 .bck-dropdown-icon > .fa {
@@ -5444,9 +5444,8 @@ body:not(.edit) .back .bck-flipbox-title, body:not(.edit) .back .bck-flipbox-sec
 }
 
 .bck-dropdown-2 .bck-dropdown-titulo {
-    padding: 0;
-    font-size: 1.8rem;
-    padding-left: 10px;
+	font-size: 2.2rem;
+    padding: 5px 1px 1px 1px;
 }
 
 .bck-dropdown-2 .bck-dropdown-icon>.fa {
@@ -5507,9 +5506,8 @@ body:not(.edit) .back .bck-flipbox-title, body:not(.edit) .back .bck-flipbox-sec
 }
 
 .bck-dropdown-3 .bck-dropdown-titulo {
-    padding: 0;
-    font-size: 1.8rem;
-    padding-left: 10px;
+font-size: 2.2rem;
+    padding: 5px 1px 1px 1px;
 }
 
 .bck-dropdown-3 .bck-dropdown-icon>.fa {
