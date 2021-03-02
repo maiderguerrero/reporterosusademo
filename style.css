@@ -1223,6 +1223,14 @@ hr {
 }
 
 /*----------------------LISTAS-----------------------*/
+/*Tamaño general*/
+#actividad .texto_curso li, #actividad .workspace ul li li {
+    position: relative;
+    margin-bottom: 10px;
+    font-size: 2.2rem;
+}
+
+
 #actividad .content .cke_contents .bck-ol li:before,
 #actividad .content .texto_curso .bck-ol li:before,
 #actividad .popover-content .bck-ol li:before,
