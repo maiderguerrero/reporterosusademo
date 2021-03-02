@@ -1261,6 +1261,7 @@ hr {
 	position: relative;
 	z-index: 0;
 	font-weight: 700;
+	font-size: 2.2rem;
 }
 
 #actividad .content .cke_contents .bck-ol-1 li:before,
@@ -1280,7 +1281,7 @@ hr {
 	position: absolute;
 	text-align: right;
 	color: #333;
-	font-size: 2rem;
+	font-size: 2.2rem;
 	width: 31px;
 	margin-top: 0px;
 	left: -25px;
@@ -1304,6 +1305,7 @@ hr {
 	padding-left: 0px;
 	position: relative;
 	z-index: 0;
+	font-size: 2.2rem;
 }
 
 #actividad .content .cke_contents .bck-ol-2 li:before,
@@ -1319,6 +1321,7 @@ hr {
 	margin-left: -10px;
 	width: 29px;
 	font-family: Conv_Calibre;
+	font-size: 2.2rem;
 }
 
 /*LISTA ORDENADA 3*/
@@ -1335,6 +1338,7 @@ hr {
 #actividad .popover-content .bck-ol-3 li,
 #actividad .content .workspace ul li .bck-ol-3 li {
 	padding-left: 0px;
+	font-size: 2.2rem;
 }
 
 #actividad .content .cke_contents .bck-ol-3 li:before,
@@ -1344,7 +1348,7 @@ hr {
 	content: counter(bck-li-counter, upper-alpha)'.';
 	position: absolute;
 	color: #000;
-	font-size: 2rem;
+	font-size: 2.2rem;
 	font-weight: bold;
 	text-align: right;
 	left: -20px;
@@ -1369,6 +1373,7 @@ hr {
 	counter-increment: bck-li-counter;
 	padding-left: 0px;
 	z-index: 0;
+	font-size: 2.2rem;
 }
 
 #actividad .content .cke_contents .bck-ol-4 li:before,
@@ -1378,7 +1383,7 @@ hr {
 	content: counter(bck-li-counter, lower-alpha)'.';
 	position: absolute;
 	color: #000;
-	font-size: 1.8rem;
+	font-size: 2.2rem;
 	font-weight: bold;
 	text-align: right;
 	left: -20px;
@@ -1406,6 +1411,7 @@ hr {
 	z-index: 0;
 	font-weight: bold;
 	color: #025864;
+	font-size: 2.2rem;
 }
 
 
@@ -1419,11 +1425,11 @@ hr {
     position: absolute;
     color: #fff;
     background-color: #025864;
-    font-size: 1.8rem;
+    font-size: 2rem;
     width: 28px;
     height: 28px;
     padding: 1px;
-    padding-top: 4px;
+    padding-top: 2px;
     padding-bottom: 0;
     margin-top: -3px;
     margin-left: -5px;
@@ -1448,6 +1454,7 @@ hr {
 	padding-left: 5px;
 	position: relative;
 	z-index: 0;
+	font-size: 2.2rem;
 }
 
 
@@ -1466,8 +1473,8 @@ hr {
     width: 27px;
     height: 27px;
     padding: 0;
-	padding-top: 2px;
-    margin-top: -4px;
+	padding-top: 0px;
+    margin-top: -3px;
     margin-left: -3px;
     text-align: center;
     border-radius: 100%;
@@ -1528,6 +1535,7 @@ hr {
 	z-index: 0;
 	font-weight: bold;
 	color: #e30613;
+	font-size: 2.2rem;
 }
 
 
@@ -1541,11 +1549,11 @@ hr {
     position: absolute;
     color: #fff;
     background-color: #e30613;
-    font-size: 1.8rem;
+    font-size: 2rem;
     width: 28px;
 	height: 28px;
     padding: 1px;
-    padding-top: 4px;
+    padding-top: 2px;
     padding-bottom: 0;
     margin-top: -3px;
     margin-left: -5px;
@@ -1571,6 +1579,7 @@ hr {
 	padding-left: 0px;
 	position: relative;
 	z-index: 0;
+	font-size: 2.2rem;
 }
 
 #actividad .content .cke_contents .bck-ol-9 li:before,
@@ -1586,6 +1595,7 @@ hr {
 	margin-left: -10px;
 	width: 29px;
 	font-family: Conv_Calibre;
+	font-size: 2.2rem;
 }
 
 /*LISTA ORDENADA 10*/
@@ -1605,6 +1615,7 @@ hr {
 	padding-left: 5px;
 	position: relative;
 	z-index: 0;
+	font-size: 2.2rem;
 }
 
 
@@ -1618,11 +1629,11 @@ hr {
     position: absolute;
     color: #fff;
     background-color: #E3704A;
-    font-size: 1.8rem;
+    font-size: 2rem;
     width: 28px;
 	height: 28px;
     padding: 1px;
-    padding-top: 4px;
+    padding-top: 2px;
     padding-bottom: 0;
     margin-top: -3px;
     margin-left: -5px;
@@ -1646,6 +1657,7 @@ hr {
 	counter-increment: bck-li-counter;
 	padding-left: 0px;
 	z-index: 0;
+	font-size: 2.2rem;
 }
 
 #actividad .content .cke_contents .bck-ol-11 li:before,
@@ -1661,6 +1673,7 @@ hr {
 	font-family: inherit;
 	margin: -1px 0px 0px -1px;
 	width: inherit;
+	font-size: 2.2rem;
 }
 
 /*LISTA ORDENADA 12*/
@@ -1680,6 +1693,7 @@ hr {
 	padding-left: 5px;
 	position: relative;
 	z-index: 0;
+	font-size: 2.2rem;
 }
 
 
@@ -1693,11 +1707,11 @@ hr {
     position: absolute;
     color: #fff;
     background-color: #00A6BA;
-    font-size: 1.8rem;
+    font-size: 2rem;
     width: 28px;
 	height: 28px;
     padding: 1px;
-    padding-top: 4px;
+    padding-top: 2px;
     padding-bottom: 0;
     margin-top: -4px;
     margin-left: -5px;
@@ -1722,6 +1736,7 @@ hr {
 	padding-left: 5px;
 	position: relative;
 	z-index: 0;
+	font-size: 2.2rem;
 }
 
 
@@ -1735,11 +1750,11 @@ hr {
     position: absolute;
     color: #fff;
     background-color: #F19A00;
-    font-size: 1.8rem;
+    font-size: 2rem;
     width: 28px;
 	height: 28px;
     padding: 1px;
-    padding-top: 4px;
+    padding-top: 2px;
     padding-bottom: 0;
     margin-top: -4px;
     margin-left: -5px;
@@ -1764,6 +1779,7 @@ hr {
 	padding-left: 0px;
 	position: relative;
 	z-index: 0;
+	font-size: 2.2rem;
 }
 
 #actividad .content .cke_contents .bck-ol-14 li:before,
@@ -1779,6 +1795,7 @@ hr {
 	margin-left: -10px;
 	width: 29px;
 	font-family: Conv_Calibre;
+	font-size: 2.2rem;
 }
 
 /*LISTA ORDENADA 15*/
@@ -1797,6 +1814,7 @@ hr {
 	counter-increment: bck-li-counter;
 	padding-left: 0px;
 	z-index: 0;
+	font-size: 2.2rem;
 }
 
 #actividad .content .cke_contents .bck-ol-15 li:before,
@@ -1812,6 +1830,7 @@ hr {
 	font-family: inherit;
 	margin: 0px 0px 0px -1px;
 	width: inherit;
+	font-size: 2.2rem;
 }
 
 /*LISTA ORDENADA 16*/
@@ -1832,6 +1851,7 @@ hr {
 	position: relative;
 	z-index: 0;
 	color: #2A7184;
+	font-size: 2.2rem;
 }
 
 #actividad .content .cke_contents .bck-ol-16 li:before,
@@ -1847,6 +1867,7 @@ hr {
 	margin-left: -10px;
 	width: 29px;
 	font-family: Conv_Calibre;
+	font-size: 2.2rem;
 }
 
 /*LISTA ORDENADA 17*/
@@ -1910,6 +1931,7 @@ hr {
 	padding-left: 0px;
 	position: relative;
 	z-index: 0;
+	font-size: 2.2rem;
 }
 
 #actividad .content .cke_contents .bck-ol-18 li:before,
@@ -1925,6 +1947,7 @@ hr {
 	margin-left: -10px;
 	width: 29px;
 	font-family: Conv_Calibre;
+	font-size: 2.2rem;
 }
 
 /*LISTA ORDENADA 19*/
@@ -1942,6 +1965,7 @@ hr {
 #actividad .content .workspace ul li .bck-ol-19 li {
 	padding-left: 0px;
 	color: #fff;
+	font-size: 2.2rem;
 }
 
 #actividad .content .cke_contents .bck-ol-19 li:before,
@@ -1951,7 +1975,7 @@ hr {
 	content: counter(bck-li-counter, upper-alpha)'.';
 	position: absolute;
 	color: #fff;
-	font-size: 1.8rem;
+	font-size: 2.2rem;
 	font-weight: bold;
 	text-align: right;
 	font-family: inherit;
@@ -1977,6 +2001,7 @@ hr {
 	position: relative;
 	z-index: 0;
 	color: #990381;
+	font-size: 2.2rem;
 }
 
 
@@ -1990,11 +2015,11 @@ hr {
     position: absolute;
     color: #fff;
     background-color: #990381;
-    font-size: 1.8rem;
+    font-size: 2rem;
     width: 28px;
 	height: 28px;
     padding: 1px;
-    padding-top: 4px;
+    padding-top: 2px;
     padding-bottom: 0;
     margin-top: -4px;
     margin-left: -5px;
@@ -2020,6 +2045,7 @@ hr {
     position: relative;
     z-index: 0;
     color: #00A6BA;
+	font-size: 2.2rem;
 }
 
 
@@ -2033,11 +2059,11 @@ hr {
     position: absolute;
     color: #fff;
     background-color: #00A6BA;
-    font-size: 1.8rem;
+    font-size: 2rem;
     width: 28px;
 	height: 28px;
     padding: 1px;
-    padding-top: 4px;
+    padding-top: 2px;
     padding-bottom: 0;
     margin-top: -4px;
     margin-left: -5px;
@@ -2107,6 +2133,7 @@ hr {
 	position: relative;
 	z-index: 0;
 	color: #333;
+	font-size: 2.2rem;
 }
 
 
@@ -2120,11 +2147,11 @@ hr {
     position: absolute;
     color: #fff;
     background-color: #025864;
-    font-size: 1.8rem;
+    font-size: 2rem;
     width: 28px;
 	height: 28px;
     padding: 1px;
-    padding-top: 4px;
+    padding-top: 2px;
     padding-bottom: 0;
     margin-top: -3px;
     margin-left: -5px;
@@ -2148,6 +2175,7 @@ hr {
 	counter-increment: bck-li-counter;
 	padding-left: 0px;
 	z-index: 0;
+	font-size: 2.2rem;
 }
 
 #actividad .content .cke_contents .bck-ol-24 li:before,
@@ -2157,7 +2185,7 @@ hr {
 	content: counter(bck-li-counter, lower-alpha)'.';
 	position: absolute;
 	color: #000;
-	font-size: 1.8rem;
+	font-size: 2.2rem;
 	font-weight: bold;
 	text-align: right;
 	left: -20px;
@@ -2184,6 +2212,7 @@ hr {
 	padding-left: 5px;
 	position: relative;
 	z-index: 0;
+	font-size: 2.2rem;
 }
 
 
@@ -2197,11 +2226,11 @@ hr {
     position: absolute;
     color: #fff;
     background-color: #9C9BA0;
-    font-size: 1.8rem;
+    font-size: 2rem;
     width: 28px;
 	height: 28px;
     padding: 1px;
-    padding-top: 4px;
+    padding-top: 2px;
     padding-bottom: 0;
     margin-top: -4px;
     margin-left: -5px;
