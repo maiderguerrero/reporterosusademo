@@ -1622,6 +1622,7 @@ hr {
 	position: relative;
 	z-index: 0;
 	font-size: 2.2rem;
+	margin-left: -5px;
 }
 
 
@@ -1744,6 +1745,7 @@ hr {
 	position: relative;
 	z-index: 0;
 	font-size: 2.2rem;
+	margin-left: -5px;
 }
 
 
@@ -1896,6 +1898,7 @@ hr {
 	z-index: 0;
 	color: #9C9BA0;
 	font-weight: bold;
+	margin-left: -5px;
 }
 
 
@@ -2225,6 +2228,7 @@ hr {
 	position: relative;
 	z-index: 0;
 	font-size: 2.2rem;
+	margin-left: -5px;
 }
 
 
