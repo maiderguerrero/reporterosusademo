@@ -5396,7 +5396,7 @@ body:not(.edit) .back .bck-flipbox-title, body:not(.edit) .back .bck-flipbox-sec
 
 .bck-dropdown-1 .fa-chevron-up:before, 
 .bck-dropdown-1 .fa-chevron-down:before {
-    font-size: 1.8rem;
+    font-size: 2.2rem;
 }
 
 .bck-dropdown-1 .bck-dropdown-content {
@@ -5455,7 +5455,7 @@ body:not(.edit) .back .bck-flipbox-title, body:not(.edit) .back .bck-flipbox-sec
 
 .bck-dropdown-2 .fa-chevron-up:before, 
 .bck-dropdown-2 .fa-chevron-down:before {
-    font-size: 1.8rem;
+    font-size: 2.2rem;
     color: #fff;
 }
 
@@ -5517,7 +5517,7 @@ font-size: 2.2rem;
 
 .bck-dropdown-3 .fa-chevron-up:before, 
 .bck-dropdown-3 .fa-chevron-down:before {
-    font-size: 1.8rem;
+    font-size: 2.2rem;
     color: #fff;
 }
 
