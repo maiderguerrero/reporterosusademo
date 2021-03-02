@@ -2503,7 +2503,7 @@ hr {
     margin-bottom: 10px;
 	font-family: 'Conv_Calibre';
     font-weight: 700;
-	font-size: 1.9rem;
+	font-size: 2.4rem;
 	margin-left: -15px;
 }
 
@@ -2517,7 +2517,7 @@ hr {
     color: #025764;
     position: absolute;
     margin-top: -3px;
-    margin-left: 2px;
+    margin-left: 0px;
     background: transparent;
 }
 
