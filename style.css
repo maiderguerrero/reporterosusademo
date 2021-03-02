@@ -2802,7 +2802,7 @@ font-family: 'FontAwesome';
 	margin-top: 0px;
 }
 
-.bck-box-1 .bck-title {
+.bck-box-1 > .bck-title {
 	color: #fff;
     text-align: left;
     background-color: #e30613;
@@ -2811,7 +2811,7 @@ font-family: 'FontAwesome';
     font-weight: 800;
 }
 
-.bck-box.bck-box-1 .bck-content {
+.bck-box.bck-box-1 > .bck-content {
 	padding: 4px 10px;
 	border-bottom: none;
 	color: #fff;
@@ -2828,7 +2828,7 @@ font-family: 'FontAwesome';
     padding: 20px;
 }
 
-.bck-box.bck-box-2 .bck-content {
+.bck-box.bck-box-2 > .bck-content {
 	color: #333;
     background: #FDEEE7;
     padding: 5px;
@@ -2957,7 +2957,7 @@ font-family: 'FontAwesome';
     border-radius: 0px;
 }
 
-.bck-box-6 .bck-title {
+.bck-box-6 > .bck-title {
     border: 0px;
     color: #fff;
     /*font-size: 1.8rem;*/
@@ -2966,7 +2966,7 @@ font-family: 'FontAwesome';
     padding: 5px 20px 0px 20px;
 }
 
-.bck-box.bck-box-6 .bck-content {
+.bck-box.bck-box-6 > .bck-content {
 	padding: 20px 27px;
 	background: #EFF8F9;
 }
@@ -2987,14 +2987,14 @@ font-family: 'FontAwesome';
 	padding: 20px;
 }
 
-.bck-box-7 .bck-title {
+.bck-box-7 > .bck-title {
 	border-bottom: 0px solid transparent;
 	color: #333;
 	font-size: 1.8rem;
 	background-color: #fff;
 }
 
-.bck-box-7 .bck-content {
+.bck-box-7 > .bck-content {
 	background-color: #fff;
 	border-radius: 0px;
 	color: #333;
@@ -3014,7 +3014,7 @@ font-family: 'FontAwesome';
 	padding: 15px;
 }
 
-.bck-box-8 .bck-title {
+.bck-box-8 > .bck-title {
 	color: #333;
 	font-size: 1.8rem;
 	text-align: left;
@@ -3022,8 +3022,8 @@ font-family: 'FontAwesome';
 	padding: 10px;
 }
 
-.bck-box-8 .bck-content,
-.bck-box.bck-box-8 .bck-content {
+.bck-box-8 > .bck-content,
+.bck-box.bck-box-8 > .bck-content {
 	background: #FFFCDC;
 	border-radius: 25px;
 	border: 2px solid #FFEF00;
@@ -3058,7 +3058,7 @@ font-family: 'FontAwesome';
     border-radius: 0px;
 }
 
-.bck-box-9 .bck-title {
+.bck-box-9 > .bck-title {
     border: 0px;
     color: #fff;
     text-align: center;
@@ -3082,7 +3082,7 @@ font-family: 'FontAwesome';
     z-index: 1;
 }
 
-.bck-box.bck-box-9 .bck-content {
+.bck-box.bck-box-9 > .bck-content {
 	padding: 20px 27px;
 	font-size: 1.7rem;
 	background: #E3E4E7;
@@ -3114,13 +3114,13 @@ font-family: 'FontAwesome';
     margin-right: -20px;
 }
 
-.bck-box.bck-box-10 .bck-content {
+.bck-box.bck-box-10 > .bck-content {
 	padding: 15px 25px;
 	border-radius: 15px;
 	color: #2A7184;
 }
 
-.bck-box.bck-box-10 .bck-title {
+.bck-box.bck-box-10 > .bck-title {
 	padding: 5px;
 	padding-bottom: 0;
     border: 0px;
@@ -3138,7 +3138,7 @@ font-family: 'FontAwesome';
     border-radius: 0px;
 }
 
-.bck-box-11 .bck-title {
+.bck-box-11 > .bck-title {
     border: 0px;
     color: #fff;
     text-align: center;
@@ -3154,16 +3154,16 @@ font-family: 'FontAwesome';
     background-image: url(imagenes/icono_sonidosyletras_reporterosusa.png);
     background-repeat: no-repeat;
     background-size: contain;
-    padding: 35px;
+	padding: 45px;
     position: absolute;
-    margin-top: -47px;
+    margin-top: -33px;
     margin-right: 24px;
     right: 0;
     z-index: 1;
 }
 
-.bck-box.bck-box-11 .bck-content {
-	padding: 20px 27px;
+.bck-box.bck-box-11 > .bck-content {
+	padding: 35px 27px;
 	font-size: 1.8rem;
 	background: #FAE5DB;
 }
@@ -3183,13 +3183,13 @@ font-family: 'FontAwesome';
 	padding: 10px;
 }
 
-.bck-box.bck-box-12 .bck-content {
+.bck-box.bck-box-12 > .bck-content {
 	padding: 25px;
 	background: #DBECDF;
 	border-radius: 0px;
 }
 
-.bck-box.bck-box-12 .bck-title {
+.bck-box.bck-box-12 > .bck-title {
 	background: #009A5A;
     font-weight: bold;
     color: #fff;
@@ -3229,13 +3229,13 @@ font-family: 'FontAwesome';
 	padding: 10px;
 }
 
-.bck-box.bck-box-13 .bck-content {
+.bck-box.bck-box-13 > .bck-content {
 	padding: 25px;
 	background: #DCEFF2;
 	border-radius: 0px;
 }
 
-.bck-box.bck-box-13 .bck-title {
+.bck-box.bck-box-13 > .bck-title {
 	background: #00A6BA;
     font-weight: bold;
     color: #fff;
@@ -3275,13 +3275,13 @@ font-family: 'FontAwesome';
 	padding: 10px;
 }
 
-.bck-box.bck-box-14 .bck-content {
+.bck-box.bck-box-14 > .bck-content {
 	padding: 25px;
 	background: #FCEAE7;
 	border-radius: 0px;
 }
 
-.bck-box.bck-box-14 .bck-title {
+.bck-box.bck-box-14 > .bck-title {
 	background: #E4535D;
     font-weight: bold;
     color: #fff;
@@ -3321,13 +3321,13 @@ font-family: 'FontAwesome';
 	padding: 10px;
 }
 
-.bck-box.bck-box-15 .bck-content {
+.bck-box.bck-box-15 > .bck-content {
 	padding: 25px;
 	background: #E9D8EB;
 	border-radius: 0px;
 }
 
-.bck-box.bck-box-15 .bck-title {
+.bck-box.bck-box-15 > .bck-title {
 	background: #990381;
     font-weight: bold;
     color: #fff;
@@ -3367,13 +3367,13 @@ font-family: 'FontAwesome';
 	padding: 10px;
 }
 
-.bck-box.bck-box-16 .bck-content {
+.bck-box.bck-box-16 > .bck-content {
 	padding: 25px;
 	background: #FDEDD5;
 	border-radius: 0px;
 }
 
-.bck-box.bck-box-16 .bck-title {
+.bck-box.bck-box-16 > .bck-title {
 	background: #F19A00;
     font-weight: bold;
     color: #fff;
@@ -3449,12 +3449,12 @@ font-family: 'FontAwesome';
 	box-shadow: rgb(186, 186, 186) 10px 10px 15px 0px;
 }
 
-.bck-box.bck-box-18 .bck-content {
+.bck-box.bck-box-18 > .bck-content {
 	padding: 5px 25px;
 	background: transparent;
 }
 
-.bck-box.bck-box-18 .bck-title {
+.bck-box.bck-box-18 > .bck-title {
 	background: transparent;
     padding: 13px 20px;
     border: 0px;
@@ -3471,13 +3471,13 @@ font-family: 'FontAwesome';
 	border: 3px dotted #009A5A;
 }
 
-.bck-box.bck-box-19 .bck-content {
+.bck-box.bck-box-19 > .bck-content {
 	padding: 25px;
 	background: #EEF7F0;
 	border-radius: 0px;
 }
 
-.bck-box.bck-box-19 .bck-title {
+.bck-box.bck-box-19 > .bck-title {
 	background: #009A5A;
     font-weight: bold;
     color: #fff;
@@ -3519,7 +3519,7 @@ font-family: 'FontAwesome';
     border: 10px solid #000;
 }
 
-.bck-box.bck-box-20 .bck-content {
+.bck-box.bck-box-20 > .bck-content {
     padding: 15px;
     border: 3px solid #e30613;
     border-radius: 5px;
@@ -3536,7 +3536,7 @@ font-family: 'FontAwesome';
     border-radius: 5px;
 }
 
-.bck-box.bck-box-21 .bck-content {
+.bck-box.bck-box-21 > .bck-content {
 	border: 0px solid transparent;
 }
 
@@ -3552,7 +3552,7 @@ font-family: 'FontAwesome';
     border-radius: 5px;
 }
 
-.bck-box.bck-box-22 .bck-content {
+.bck-box.bck-box-22 > .bck-content {
 	border: 0px solid transparent;
 }
 
@@ -3566,7 +3566,7 @@ font-family: 'FontAwesome';
     padding: 20px;
 }
 
-.bck-box.bck-box-23 .bck-title {
+.bck-box.bck-box-23 > .bck-title {
 	color: #F19A00;
     background: #fff;
     padding: 3px 10px;
@@ -3585,7 +3585,7 @@ font-family: 'FontAwesome';
 }
 
 
-.bck-box.bck-box-23 .bck-content {
+.bck-box.bck-box-23 > .bck-content {
 	color: #333;
     background: #FEF6EB;
     padding: 5px;
@@ -3617,12 +3617,12 @@ font-family: 'FontAwesome';
 	box-shadow: rgb(186, 186, 186) 10px 10px 15px 0px;
 }
 
-.bck-box.bck-box-24 .bck-content {
+.bck-box.bck-box-24 > .bck-content {
 	padding: 25px;
 	background: transparent;
 }
 
-.bck-box.bck-box-24 >.bck-title {
+.bck-box.bck-box-24 > .bck-title {
 	background: #e30613;
     text-align: left;
     font-weight: 500;
@@ -3662,13 +3662,13 @@ font-family: 'FontAwesome';
     margin-top: -15px;
 }
 
-.bck-box.bck-box-25 .bck-content {
+.bck-box.bck-box-25 > .bck-content {
 	padding: 25px;
 	padding-left: 0;
 	background: transparent;
 }
 
-.bck-box.bck-box-25 .bck-title {
+.bck-box.bck-box-25 > .bck-title {
 	/*background: transparent*/;
 	text-align: left;
 }
