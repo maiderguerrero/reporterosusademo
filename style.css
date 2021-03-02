@@ -1408,7 +1408,7 @@ hr {
 #actividad .popover-content .bck-ol-5 li,
 #actividad .content .workspace ul li .bck-ol-5 li {
 	counter-increment: bck-li-counter;
-	padding-left: 5px;
+	/*padding-left: 5px;*/
 	position: relative;
 	z-index: 0;
 	font-weight: bold;
@@ -1453,7 +1453,7 @@ hr {
 #actividad .popover-content .bck-ol-6 li,
 #actividad .content .workspace ul li .bck-ol-6 li {
 	counter-increment: bck-li-counter;
-	padding-left: 5px;
+	padding-left: 0px;
 	position: relative;
 	z-index: 0;
 	font-size: 2.2rem;
@@ -1477,7 +1477,7 @@ hr {
     padding: 0;
 	padding-top: 0px;
     margin-top: -3px;
-    margin-left: -3px;
+    margin-left: -4px;
     text-align: center;
     border-radius: 100%;
 }
@@ -1500,6 +1500,7 @@ hr {
 	position: relative;
 	z-index: 0;
 	font-size: 1.4rem;
+	margin-left: -11px;
 }
 
 #actividad .content .cke_contents .bck-ol-7 li:before,
@@ -1538,6 +1539,7 @@ hr {
 	font-weight: bold;
 	color: #e30613;
 	font-size: 2.2rem;
+	margin-left: -8px;
 }
 
 
@@ -1582,6 +1584,7 @@ hr {
 	position: relative;
 	z-index: 0;
 	font-size: 2.2rem;
+	margin-left: 0;
 }
 
 #actividad .content .cke_contents .bck-ol-9 li:before,
@@ -1660,6 +1663,7 @@ hr {
 	padding-left: 0px;
 	z-index: 0;
 	font-size: 2.2rem;
+	margin-left: -1px;
 }
 
 #actividad .content .cke_contents .bck-ol-11 li:before,
@@ -1671,7 +1675,7 @@ hr {
 	color: #E3704A;
 	font-weight: bold;
 	text-align: right;
-	left: -20px;
+	left: -21px;
 	font-family: inherit;
 	margin: -1px 0px 0px -1px;
 	width: inherit;
@@ -1968,6 +1972,7 @@ hr {
 	padding-left: 0px;
 	color: #fff;
 	font-size: 2.2rem;
+	margin-left: -11px;
 }
 
 #actividad .content .cke_contents .bck-ol-19 li:before,
@@ -2004,6 +2009,7 @@ hr {
 	z-index: 0;
 	color: #990381;
 	font-size: 2.2rem;
+	margin-left: -4px;
 }
 
 
@@ -2048,6 +2054,7 @@ hr {
     z-index: 0;
     color: #00A6BA;
 	font-size: 2.2rem;
+	margin-left: -4px;
 }
 
 
@@ -2091,6 +2098,7 @@ hr {
 	position: relative;
 	z-index: 0;
 	color: #009D54;
+	margin-left: -4px;
 }
 
 
@@ -2136,6 +2144,7 @@ hr {
 	z-index: 0;
 	color: #333;
 	font-size: 2.2rem;
+	margin-left: -4px;
 }
 
 
@@ -2307,6 +2316,7 @@ hr {
 	position: relative;
 	list-style: none;
 	margin-bottom: 10px;
+	margin-left: 5px;
 }
 
 #actividad .content .cke_contents .bck-ul-1 li:before,
@@ -2321,7 +2331,7 @@ hr {
     border-radius: 50%;
     position: absolute;
     margin-top: .45em;
-    margin-left: 6px;
+    margin-left: -2px;
 }
 
 /*LISTA DESORDENADA 2*/
@@ -2340,6 +2350,7 @@ hr {
 	position: relative;
 	list-style-type: none;
 	margin-bottom: 10px;
+	margin-left: 5px;
 }
 
 #actividad .content .cke_contents .bck-ul-2 li:before,
@@ -2352,7 +2363,7 @@ hr {
     color: #333;
     position: absolute;
     margin-top: -0.2em;
-    margin-left: 7px;
+    margin-left: -2px;
     font-size: 1rem;
 }
 
@@ -2372,6 +2383,7 @@ hr {
     position: relative;
     list-style: none;
     margin-bottom: 10px;
+	margin-left: 5px;
 }
 
 #actividad .content .cke_contents .bck-ul-3 li:before,
@@ -2386,7 +2398,7 @@ hr {
     border-radius: 50%;
     position: absolute;
     margin-top: .45em;
-    margin-left: 6px;
+    margin-left: -2px;
 }
 
 /*LISTA DESORDENADA 4*/
@@ -2405,6 +2417,7 @@ hr {
     position: relative;
     list-style-type: none;
     margin-bottom: 10px;
+	margin-left: 5px;
 }
 
 #actividad .content .cke_contents .bck-ul-4 li:before,
@@ -2417,7 +2430,7 @@ hr {
     color: #3482BF;
     position: absolute;
     margin-top: -0.2em;
-    margin-left: 7px;
+    margin-left: -2px;
     font-size: 1rem;
 }
 
@@ -2437,6 +2450,7 @@ hr {
     position: relative;
     list-style: none;
     margin-bottom: 10px;
+	margin-left: 5px;
 }
 
 #actividad .content .cke_contents .bck-ul-5 li:before,
@@ -2451,7 +2465,7 @@ hr {
     border-radius: 50%;
     position: absolute;
     margin-top: .45em;
-    margin-left: 6px;
+    margin-left: -2px;
 }
 
 /*LISTA DESORDENADA 6*/
@@ -2470,6 +2484,7 @@ hr {
     position: relative;
     list-style-type: none;
     margin-bottom: 10px;
+	margin-left: 5px;
 }
 
 #actividad .content .cke_contents .bck-ul-6 li:before,
@@ -2482,7 +2497,7 @@ hr {
     color: #9C9BA0;
     position: absolute;
     margin-top: -0.2em;
-    margin-left: 7px;
+    margin-left: -2px;
     font-size: 1rem;
 }
 
@@ -2505,7 +2520,7 @@ hr {
 	font-family: 'Conv_Calibre';
     font-weight: 700;
 	font-size: 2.4rem;
-	margin-left: -15px;
+	margin-left: 1px;
 }
 
 #actividad .content .cke_contents .bck-ul-7 li:before,
@@ -2575,6 +2590,7 @@ font-family: 'FontAwesome';
     margin-bottom: 10px;
     color: #fff;
     font-size: 2.2rem;
+	margin-left: -5px;
 }
 
 #actividad .content .cke_contents .bck-ul-9 li:before,
@@ -2589,7 +2605,7 @@ font-family: 'FontAwesome';
     border-radius: 50%;
     position: absolute;
     margin-top: .45em;
-    margin-left: 6px;
+    margin-left: -4px;
 }
 
 /*LISTA DESORDENADA 10*/
@@ -2609,6 +2625,7 @@ font-family: 'FontAwesome';
     list-style: none;
     margin-bottom: 10px;
     color: #F19A00;
+	margin-left: 5px;
 }
 
 #actividad .content .cke_contents .bck-ul-10 li:before,
@@ -2623,7 +2640,7 @@ font-family: 'FontAwesome';
     border-radius: 50%;
     position: absolute;
     margin-top: .45em;
-    margin-left: 6px;
+    margin-left: -2px;
 }
 
 /*LISTA DESORDENADA 11*/
@@ -2642,6 +2659,7 @@ font-family: 'FontAwesome';
 	position: relative;
 	list-style-type: none;
 	margin-bottom: 10px;
+	margin-left: 5px;
 }
 
 #actividad .content .cke_contents .bck-ul-11 li:before,
@@ -2654,7 +2672,7 @@ font-family: 'FontAwesome';
     color: #333;
     position: absolute;
     margin-top: -0.2em;
-    margin-left: 7px;
+    margin-left: 0px;
     font-size: 1rem;
 }
 
