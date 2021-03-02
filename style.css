@@ -317,7 +317,8 @@ body {
 /*tamaÃ±o enunciado listas*/
 
 #actividad .pregunta .texto_curso {
-	font-size: 2rem;
+	/*font-size: 2rem;*/
+	font-size: 22px;
 }
 
 #actividad textarea {
@@ -326,6 +327,10 @@ body {
 
 .texto_curso p:last-of-type {
     margin-bottom: 5px;
+}
+
+#actividad .texto_curso {
+    font-size: 22px;
 }
 
 /*ENLACE WEB*/
