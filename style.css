@@ -3957,57 +3957,57 @@ font-family: 'FontAwesome';
 
 .item-container .icon-parejas-negro:before {
 	background-image: url(imagenes/icono_enparejas_negro_reporterosusa.png);
-	width: 38px;
-    height: 26px;
+	width: 18px;
+    height: 14px;
     margin-right: 5px;
 }
 
 .item-container .icon-parejas-blanco:before {
 	background-image: url(imagenes/icono_enparejas_blanco_reporterosusa.png);
-	width: 38px;
-    height: 28px;
+	width: 18px;
+    height: 13px;
     margin-right: 5px;
 }
 
 .item-container .icon-grupos-negro:before {
 	background-image: url(imagenes/icono_engrupos_negro_reporterosusa.png);
-	width: 29px;
-    height: 28px;
+    width: 16px;
+    height: 16px;
     margin-right: 5px;
 }
 
 .item-container .icon-grupos-blanco:before {
 	background-image: url(imagenes/icono_engrupos_blanco_reporterosusa.png);
-	width: 38px;
-    height: 35px;
+    width: 16px;
+    height: 16px;
     margin-right: 5px;
 }
 
 .item-container .icon-campana-azul:before {
 	background-image: url(imagenes/icono_campana_azul_reporterosusa.png);
-    width: 40px;
-    height: 40px;
+    width: 26px;
+    height: 26px;
     margin-right: 5px;
 }
 
 .item-container .icon-campana-morado:before {
 	background-image: url(imagenes/icono_campana_morado_reporterosusa.png);
-	width: 40px;
-    height: 40px;
+	width: 26px;
+    height: 26px;
     margin-right: 5px;
 }
 
 .item-container .icon-campana-teja:before {
 	background-image: url(imagenes/icono_campana_teja_reporterosusa.png);
-	width: 40px;
-    height: 40px;
+	width: 26px;
+    height: 26px;
     margin-right: 5px;
 }
 
 .item-container .icon-una-estrella:before {
 	background-image: url(imagenes/icono_unaestrella_reporterosusa.png);
-    width: 22px;
-    height: 22px;
+    width: 15px;
+    height: 14px;
     vertical-align: top;
     margin-right: 5px;
     margin-top: 1px;
@@ -4015,8 +4015,8 @@ font-family: 'FontAwesome';
 
 .item-container .icon-una-estrella-morado:before {
 	background-image: url(imagenes/icono_unaestrella_morado_reporterosusa.png);
-    width: 22px;
-    height: 22px;
+    width: 15px;
+    height: 14px;
     vertical-align: top;
     margin-right: 5px;
     margin-top: 1px;
@@ -4024,8 +4024,8 @@ font-family: 'FontAwesome';
 
 .item-container .icon-una-estrella-azul:before {
 	background-image: url(imagenes/icono_unaestrella_azul_reporterosusa.png);
-    width: 22px;
-    height: 22px;
+    width: 15px;
+    height: 14px;
     vertical-align: top;
     margin-right: 5px;
     margin-top: 1px;
@@ -4034,8 +4034,8 @@ font-family: 'FontAwesome';
 
 .item-container .icon-dos-estrellas:before {
 	background-image: url(imagenes/icono_dosestrellas_reporterosusa.png);
-    width: 45px;
-    height: 22px;
+    width: 31px;
+    height: 15px;
     vertical-align: top;
     margin-right: 5px;
     margin-top: 1px;
@@ -4043,8 +4043,8 @@ font-family: 'FontAwesome';
 
 .item-container .icon-dos-estrellas-morado:before {
 	background-image: url(imagenes/icono_dosestrellas_morado_reporterosusa.png);
-    width: 45px;
-    height: 22px;
+    width: 31px;
+    height: 15px;
     vertical-align: top;
     margin-right: 5px;
     margin-top: 1px;
@@ -4052,8 +4052,8 @@ font-family: 'FontAwesome';
 
 .item-container .icon-dos-estrellas-azul:before {
 	background-image: url(imagenes/icono_dosestrellas_azul_reporterosusa.png);
-    width: 45px;
-    height: 22px;
+    width: 31px;
+    height: 15px;
     vertical-align: top;
     margin-right: 5px;
     margin-top: 1px;
@@ -4061,8 +4061,8 @@ font-family: 'FontAwesome';
 
 .item-container .icon-tres-estrellas:before {
 	background-image: url(imagenes/icono_tresestrellas_reporterosusa.png);
-    width: 75px;
-    height: 23px;
+    width: 49px;
+    height: 16px;
     vertical-align: top;
     margin-right: 5px;
     margin-top: 1px;
@@ -4070,8 +4070,8 @@ font-family: 'FontAwesome';
 
 .item-container .icon-tres-estrellas-morado:before {
 	background-image: url(imagenes/icono_tresestrellas_morado_reporterosusa.png);
-    width: 75px;
-    height: 23px;
+    width: 49px;
+    height: 16px;
     vertical-align: top;
     margin-right: 5px;
     margin-top: 1px;
@@ -4079,8 +4079,8 @@ font-family: 'FontAwesome';
 
 .item-container .icon-tres-estrellas-azul:before {
 	background-image: url(imagenes/icono_tresestrellas_azul_reporterosusa.png);
-    width: 75px;
-    height: 23px;
+    width: 49px;
+    height: 16px;
     vertical-align: top;
     margin-right: 5px;
     margin-top: 1px;
@@ -4088,14 +4088,16 @@ font-family: 'FontAwesome';
 
 .item-container .icon-video:before {
 	background-image: url(imagenes/icono_video_reporterosusa.png);
-	height: 20px;
-	width: 30px;
+	width: 20px;
+    height: 13px;
 	margin-right: 5px;
 }
 
 .item-container .icon-lupa:before {
 	background-image: url(imagenes/lupa_reporterosusa.png);
 	margin-right: 5px;
+	width: 19px;
+    height: 18px;
 }
 
 .item-container .icon-like:before {
@@ -4142,8 +4144,8 @@ font-family: 'FontAwesome';
 
 .item-container .icon-cabeza-engranajes:before {
 	background-image: url(imagenes/icono_cabezaengranajes_reporterosusa.png);
-	width: 34px;
-    height: 40px;
+width: 19px;
+    height: 23px;;
     margin-right: 5px;
 }
 
@@ -4164,8 +4166,8 @@ font-family: 'FontAwesome';
 
 .item-container .icon-rubric:before {
 background-image: url(imagenes/icono_rubric_reporteros.PNG);
-    width: 26px;
-    height: 40px;
+    width: 14px;
+    height: 23px;
     margin-right: 10px;
 }
 
