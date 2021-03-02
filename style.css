@@ -317,8 +317,7 @@ body {
 /*tamaÃ±o enunciado listas*/
 
 #actividad .pregunta .texto_curso {
-	/*font-size: 2rem;*/
-	font-size: 22px;
+	font-size: 2.2rem;
 }
 
 #actividad textarea {
