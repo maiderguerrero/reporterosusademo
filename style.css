@@ -2528,10 +2528,10 @@ hr {
 	margin-left: 1px;
 }
 
-#actividad .content .cke_contents .bck-ul-7 li:before,
-#actividad .content .texto_curso ul.bck-ul-7 li:before,
-#actividad .popover-content ul.bck-ul-7 li:before,
-#actividad .content .workspace ul li ul.bck-ul-7 li:before {
+body #actividad .content .cke_contents .bck-ul-7 li:before, 
+body #actividad .content .texto_curso ul.bck-ul-7 li:before, 
+body #actividad .popover-content ul.bck-ul-7 li:before, 
+body #actividad .content .workspace ul li ul.bck-ul-7 li:before {
     font-family: 'FontAwesome';
     content: "\f061";
     background-color: transparent;
