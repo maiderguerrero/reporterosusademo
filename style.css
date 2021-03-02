@@ -3869,6 +3869,14 @@ font-family: 'FontAwesome';
 	margin-left: 40px;
 }
 
+.btn {
+    padding: 8px 15px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    font-size: 14px;
+}
+
 .btn-danger {
 	background-color: #e30613;
 }
