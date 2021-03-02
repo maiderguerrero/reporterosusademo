@@ -608,7 +608,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 
 .bck-file-attach:before {
 	content: " ";
-	background-image: url(imagenes/icono_transcripciones.png);
+	background-image: url(imagenes/icono_rubric_reporteros.PNG);
 	background-repeat: no-repeat;
 	padding: 10px;
 	background-size: contain;
