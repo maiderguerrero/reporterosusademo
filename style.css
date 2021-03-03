@@ -3952,7 +3952,7 @@ font-family: 'FontAwesome';
 #actividad .class_slide .review {
 	margin-top: 40px;
 	text-align: left;
-	margin-left: 40px;
+	margin-left: 0px;
 }
 
 .btn {
