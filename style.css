@@ -616,7 +616,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
     background-repeat: no-repeat;
     padding: 10px;
     background-size: contain;
-    margin-top: -1px;
+    margin-top: -2px;
     position: absolute;
     margin-left: -5px;
 }
