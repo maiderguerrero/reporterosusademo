@@ -1233,6 +1233,19 @@ hr {
     font-size: 2.2rem;
 }
 
+/*alineación izquierda todas*/
+.texto_curso ul, 
+.texto_curso ol, 
+.workspace:not(.multiple-choice,.matching,.ordenar,.clasificar,.test) ul li ul, 
+.workspace:not(.multiple-choice,.matching,.ordenar,.clasificar,.test) ul li ol, 
+.cke_contents ul, 
+.cke_contents ol, 
+.popover-content ul, 
+.popover-content ol {
+    margin-bottom: 20px;
+    margin-left: -17px;
+}
+
 
 #actividad .content .cke_contents .bck-ol li:before,
 #actividad .content .texto_curso .bck-ol li:before,
