@@ -2773,12 +2773,13 @@ font-family: 'FontAwesome';
 #actividad .content .cke_contents .bck-ul-14 li,
 #actividad .content .texto_curso .bck-ul-14 li,
 #actividad .popover-content .bck-ul-14 li,
-#actividad .content .workspace ul li .bck-ul-41 li {
+#actividad .content .workspace ul li .bck-ul-14 li {
 	padding-left: 35px;
 	position: relative;
 	list-style: none;
 	margin-bottom: 10px;
 	margin-left: -20px;
+	font-size: inherit;
 }
 
 #actividad .content .cke_contents .bck-ul-14 li:before,
