@@ -1025,16 +1025,6 @@ border-left: 10px solid transparent;
 	font-size: 2.6rem;
 }
 
-.bck-title-23:before {
-	content: "";
-	border-left: 15px solid transparent;
-    border-right: 15px solid transparent;
-    border-top: 15px solid #F19A00;
-    margin-top: 25px;
-    margin-left: -25px;
-    position: absolute;
-
-}
 
 /**/
 
