@@ -4001,6 +4001,15 @@ font-family: 'FontAwesome';
 	margin-left: 7px;
 }
 
+.fillblanks-draggable-wrapper .response p {
+    position: relative;
+    margin: 0;
+    text-align: center;
+    padding: 5px 10px 0px 10px;
+    font-size: 1.5rem;
+    text-decoration: none;
+}
+
 /*clasificar*/
 #actividad .workspace.clasificar .clasificar_lista>ul {
 	display: inline-block;
@@ -4013,6 +4022,10 @@ font-family: 'FontAwesome';
 	background: #fff;
 	padding-left: 10px;
 	padding-right: 10px;
+}
+
+#actividad .workspace.clasificar .clasificar_conjuntos .group-name-title{
+	padding: 15px 0 10px 0;
 }
 
 /*tipo test*/
