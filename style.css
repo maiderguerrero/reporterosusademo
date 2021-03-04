@@ -1233,6 +1233,7 @@ hr {
     font-size: 2.2rem;
 }
 
+
 /*alineación izquierda todas*/
 .texto_curso ul, 
 .texto_curso ol, 
@@ -1244,6 +1245,11 @@ hr {
 .popover-content ol {
     margin-bottom: 20px;
     margin-left: -17px;
+}
+
+#actividad .workspace.multiple-choice .opcion>ol, 
+#actividad .workspace.multiple-choice .opcion>ul {
+margin-left: auto;
 }
 
 
@@ -1925,7 +1931,7 @@ hr {
     position: absolute;
     color: #fff;
     background-color: #9C9BA0;
-    font-size: 1.8rem;
+    font-size: 2rem;
     width: 28px;
 	height: 28px;
     padding: 1px;
