@@ -4045,6 +4045,22 @@ font-family: 'FontAwesome';
 	font-size: 1.5rem;
 }
 
+/*entregar archivo*/
+.no-files {
+    background: none;
+    color: #444;
+    font-size: 2rem;
+    margin-top: 40px;
+}
+
+.deliverablefile .divtitle .title-deliverablefile {
+    font-size: 22px;
+    color: #444;
+    padding-bottom: 20px;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
 /*botonera general*/
 #actividad .class_slide .review {
 	margin-top: 40px;
