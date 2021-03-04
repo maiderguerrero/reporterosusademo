@@ -4000,6 +4000,11 @@ font-family: 'FontAwesome';
     text-decoration: none;
 }
 
+/*Elegir respuesta*/
+#actividad .workspace.chooseblanks select{
+	margin-bottom: 10px;
+}
+
 /*clasificar*/
 #actividad .workspace.clasificar .clasificar_lista>ul {
 	display: inline-block;
@@ -4012,6 +4017,7 @@ font-family: 'FontAwesome';
 	background: #fff;
 	padding-left: 10px;
 	padding-right: 10px;
+	padding-top: 10px;
 }
 
 #actividad .workspace.clasificar .clasificar_conjuntos .group-name-title{
