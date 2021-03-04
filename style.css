@@ -211,7 +211,7 @@ body:not(.isTablet) #indice .units ul li:not(.disabled) a .title:hover {
 /*General */
 #book-index #indice .units ul li a .title {
 	margin: 0;
-	font-size: 14px;
+	font-size: 16px;
 	font-weight: 400;
 }
 
