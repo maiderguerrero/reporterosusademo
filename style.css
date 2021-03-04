@@ -2335,6 +2335,7 @@ hr {
 	list-style: none;
 	margin-bottom: 10px;
 	margin-left: 5px;
+	
 }
 
 #actividad .content .cke_contents .bck-ul-1 li:before,
@@ -2503,6 +2504,7 @@ hr {
     list-style-type: none;
     margin-bottom: 10px;
 	margin-left: 5px;
+	font-size: inherit;
 }
 
 #actividad .content .cke_contents .bck-ul-6 li:before,
@@ -2810,6 +2812,7 @@ font-family: 'FontAwesome';
 	position: relative;
 	list-style: none;
 	margin-bottom: 5px;
+	font-size: inherit;
 }
 
 #actividad .content .cke_contents .bck-ul-15 li:before,
@@ -2844,6 +2847,7 @@ font-family: 'FontAwesome';
 	position: relative;
 	list-style: none;
 	margin-bottom: 5px;
+	font-size: inherit;
 }
 
 #actividad .content .cke_contents .bck-ul-16 li:before,
