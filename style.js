@@ -160,12 +160,7 @@
 				{ name: 'Icono Lupa', element: 'span', attributes: { 'class': 'icon icon-lupa' } },
 				{ name: 'Icono Like', element: 'span', attributes: { 'class': 'icon icon-like' } },
 				{ name: 'Icono Dislike', element: 'span', attributes: { 'class': 'icon icon-dislike' } },
-				{ name: 'Icono Bombilla', element: 'span', attributes: { 'class': 'icon icon-bombilla' } },
-				{ name: 'Icono Escribir', element: 'span', attributes: { 'class': 'icon icon-escribir' } },
-				{ name: 'Icono Grabar', element: 'span', attributes: { 'class': 'icon icon-grabar' } },
-				{ name: 'Icono Lista', element: 'span', attributes: { 'class': 'icon icon-lista' } },
 				{ name: 'Icono Cabeza Engranajes', element: 'span', attributes: { 'class': 'icon icon-cabeza-engranajes' } },
-				{ name: 'Icono The Spanish Hub', element: 'span', attributes: { 'class': 'icon icon-thespanishhub' } },
 				{ name: 'Icono Flecha Azul', element: 'span', attributes: { 'class': 'icon icon-flechaazul' } },
 				{ name: 'Icono Rubric', element: 'span', attributes: { 'class': 'icon icon-rubric' } },
 				
