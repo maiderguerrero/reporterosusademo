@@ -4321,33 +4321,6 @@ font-family: 'FontAwesome';
     margin-right: 5px;
 }
 
-.item-container .icon-bombilla:before {
-	background-image: url(imagenes/icono_bombilla_reporterosusa.png);
-	width: 70px;
-    height: 70px;
-    margin-right: 5px;
-}
-
-.item-container .icon-escribir:before {
-	background-image: url(imagenes/icono_escribimos_reporterosusa.png);
-	width: 75px;
-    height: 75px;
-    margin-right: 5px;
-}
-
-.item-container .icon-grabar:before {
-	background-image: url(imagenes/icono_grabamos_reporterosusa.png);
-	width: 70px;
-    height: 70px;
-    margin-right: 5px;
-}
-
-.item-container .icon-lista:before {
-	background-image: url(imagenes/icono_lista_reporterosusa.png);
-	width: 70px;
-    height: 70px;
-    margin-right: 5px;
-}
 
 .item-container .icon-cabeza-engranajes:before {
 	background-image: url(imagenes/icono_cabezaengranajes_reporterosusa.png);
@@ -4356,13 +4329,7 @@ width: 19px;
     margin-right: 5px;
 }
 
-.item-container .icon-thespanishhub:before {
-	background-image: url(imagenes/thespanishhub_logo_horizontal_reporterosusa.png);
-	width: 113px;
-    height: 33px;
-    margin-top: -3px;
-    margin-right: 5px;
-}
+
 
 .item-container .icon-flechaazul:before {
 	font-family: 'FontAwesome';
