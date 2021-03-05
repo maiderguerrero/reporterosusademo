@@ -666,7 +666,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 .bck-title-2,
 .bck-box .bck-title-2 {
 	color: #000;
-	font-size: 4.8em;
+	font-size: 4.8rem;
 	padding-bottom: 0px;
 	margin-left: 0px;
 	font-weight: bold;
@@ -694,7 +694,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 /*TITULO 5*/
 
 .bck-title-5 {
-	font-size: 2.3rem;
+	font-size: 2.6rem;
 	border-bottom: none;
 	color: #025864;
 	font-weight: bold;
@@ -714,7 +714,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 .bck-title-7 {
 margin-top: 0px;
     color: #fff;
-    font-size: 3.3rem;
+    font-size: 4.6rem;
     border-bottom: none;
     font-weight: bold;
     background-color: #e30613;
@@ -743,7 +743,6 @@ margin-top: 0px;
     -o-width: fit-content;
     width: fit-content;
 	font-size: 2.4rem;
-	margin-left: 5px;
 }
 
 /*TITULO 9*/
@@ -762,7 +761,7 @@ margin-top: 0px;
     width: fit-content;
     box-shadow: none;
     border-radius: 0px;
-    font-size: 1.8rem;
+    font-size: 2.2rem;
 }
 
 /*TITULO 10*/
@@ -796,7 +795,7 @@ margin-top: 0px;
     -webkit-width: fit-content;
     -o-width: fit-content;
     width: fit-content;
-    font-size: 1.5rem;
+    font-size: 2.2rem;
 }
 
 /*TITULO 12*/
@@ -927,6 +926,7 @@ border-left: 10px solid transparent;
     -o-width: fit-content;
     width: fit-content;
 	font-weight: bolder;
+	font-size: 2.4rem;
 }
 
 .bck-title-19:before {
@@ -954,6 +954,7 @@ border-left: 10px solid transparent;
     -o-width: fit-content;
     width: fit-content;
 	font-weight: bolder;
+	font-size: 2.4rem;
 }
 
 .bck-title-20:before {
@@ -2965,6 +2966,7 @@ font-family: 'FontAwesome';
     padding: 10px;
     border-radius: 0px;
     font-weight: 800;
+    font-size: 2.4rem;
 }
 
 .bck-box.bck-box-1 > .bck-content {
@@ -2972,6 +2974,7 @@ font-family: 'FontAwesome';
 	border-bottom: none;
 	color: #fff;
 	background-color: #e30613;
+	font-size: 2.2rem;
 }
 
 
@@ -2988,12 +2991,14 @@ font-family: 'FontAwesome';
 	color: #333;
     background: #FDEEE7;
     padding: 5px;
+    font-size: 2.2rem;
 }
 
-.bck-box.bck-box-2 .bck-title {
+.bck-box.bck-box-2 > .bck-title {
 	color: #333;
     background: #FDEEE7;
     padding: 5px;
+    font-size: 2.4rem;
 }
 
 .bck-box.bck-box-2 .bck-title:before {
@@ -3125,10 +3130,11 @@ font-family: 'FontAwesome';
 .bck-box.bck-box-6 > .bck-content {
 	padding: 20px 27px;
 	background: #EFF8F9;
+	font-size: 2.2rem;
 }
 
 
-.bck-box.bck-box-6 .bck-title:before {
+.bck-box.bck-box-6 > .bck-title:before {
 	 display: none;
 }
 
@@ -3184,9 +3190,10 @@ font-family: 'FontAwesome';
 	border-radius: 25px;
 	border: 2px solid #FFEF00;
 	padding-left: 45px;
+	font-size: 2.2rem;
 }
 
-.bck-box-8 .bck-content:before {
+.bck-box-8 > .bck-content:before {
 	content: "";
 	background-image: url(imagenes/lupa_reporterosusa.png);
 	background-repeat: no-repeat;
