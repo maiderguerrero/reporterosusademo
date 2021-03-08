@@ -467,7 +467,7 @@ body:not(.isTablet) #indice .units ul li.active:not(.disabled) a .title {
 body:not(.isTablet) #book-index #indice .unit-content .actividades .item:active,
 #book-index #indice .unit-content .actividades .item.active,
 #book-index #indice .unit-content .actividades .item.current {
-	background: #ccc;
+	background: #000;
 }
 
 .reporterosusademo-navbar h3 {
