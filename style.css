@@ -3548,7 +3548,7 @@ font-family: 'FontAwesome';
 	background: #F19A00;
     font-weight: bold;
     color: #fff;
-    padding: 5px 20px 0px 20px;
+    padding: 10px 20px 0px 20px;
     border: 0px;
     margin: auto;
     border-top-left-radius: 10px;
@@ -3742,7 +3742,7 @@ font-family: 'FontAwesome';
 .bck-box.bck-box-23 > .bck-title {
 	color: #F19A00;
     background: #fff;
-    padding: 3px 10px 0px 10px;
+    padding: 7px 10px 0px 10px;
     border: 1px solid #F19A00;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
