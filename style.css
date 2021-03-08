@@ -3043,7 +3043,7 @@ font-family: 'FontAwesome';
 	color: #333;
     background: #FEF6EB;
     padding: 5px;
-    font-size: 1.7rem;
+    font-size: 2rem;
     padding-top: 15px;
     font-family: 'Conv_PT_Sans-Web-Regular';
 }
@@ -3742,7 +3742,7 @@ font-family: 'FontAwesome';
 .bck-box.bck-box-23 > .bck-title {
 	color: #F19A00;
     background: #fff;
-    padding: 3px 10px;
+    padding: 3px 10px 0px 10px;
     border: 1px solid #F19A00;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
@@ -3754,7 +3754,7 @@ font-family: 'FontAwesome';
     width: fit-content;
     margin-top: -40px;
     margin-left: 20px;
-    font-size: 1.8rem;
+    font-size: 2.52rem;
 }
 
 
@@ -3762,7 +3762,7 @@ font-family: 'FontAwesome';
 	color: #333;
     background: #FEF6EB;
     padding: 5px;
-    font-size: 1.7rem;
+    font-size: 2.2rem;
     padding-top: 15px;
 }
 
@@ -3771,11 +3771,12 @@ font-family: 'FontAwesome';
 	background-image: url(imagenes/before_tick_testcultural_reporterosusa.png);
 	background-repeat: no-repeat;
 	background-size: contain;
-	padding: 20px;
+	padding: 30px;
 	right: 0px;
 	position: absolute;
 	z-index: 1;
     margin-right: 20px;
+    margin-top: -10px;
 }
 
 /*CAJA 24*/
