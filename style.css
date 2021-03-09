@@ -1286,6 +1286,14 @@ color: #ffffff;
 	margin-bottom: 10px;
 }
 
+/*ENFASIS 28*/
+.bck-enfasis-28 {
+    border-radius: 8px;
+    padding: 4px 18px 0px 18px;
+    background-color: #fff;
+    border: 2px solid #00A6BA;
+}
+
 
 /**********************HR*****************************/
 hr {
