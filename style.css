@@ -1237,15 +1237,15 @@ border-left: 10px solid transparent;
 .bck-enfasis-26 {
 color: #ffffff;
     font-size: 18.6rem;
-    BACKGROUND-COLOR: #e30613;
-    PADDING: 12PX;
-    FONT-WEIGHT: BOLD;
-    HEIGHT: AUTO;
-    WIDTH: 125PX;
-    DISPLAY: INLINE-BLOCK;
-    PADDING-TOP: 130px;
-    TEXT-ALIGN: center;
-    PADDING-BOTTOM: 35px;
+    background-color: #e30613;
+    padding: 12px;
+    font-weight: bold;
+    height: auto;
+    width: 125px;
+    display: inline-block;
+    padding-top: 130px;
+    text-align: center;
+    padding-bottom: 35px;
     border-radius: 1px 0px 55px 13px;
     box-shadow: 5px 4px 8px -3px #8c8c8c;
 }
@@ -1253,12 +1253,12 @@ color: #ffffff;
 .bck-enfasis-26:before {
     content: 'UNIDAD';
     color: #FFF;
-    FONT-WEIGHT: BOLD;
-    FONT-SIZE: 2.5REM;
-    DISPLAY: block;
-    POSITION: absolute;
-    TOP: 20px;
-    LEFT: 36px;
+    font-weight: bold;
+    font-size: 2.5rem;
+    display: block;
+    position: absolute;
+    top: 20px;
+    left: 36px;
 }
 
 .bck-enfasis-26:after {
@@ -1275,6 +1275,15 @@ color: #ffffff;
     border-top-left-radius: 22px;
     border-top-right-radius: 21px;
     border-bottom-right-radius: 32px;
+}
+
+/*ENFASIS 27*/
+.bck-enfasis-27 {
+	color: #fff;
+    border-radius: 8px;
+    padding: 4px 18px 0px 18px;
+    background-color: #990381;
+	margin-bottom: 10px;
 }
 
 
