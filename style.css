@@ -5483,8 +5483,7 @@ table td.bck-td-10 {
 }
 
 /**descripcion emergente*/
-.bck-tooltip, .bck-underline {
-
+.bck-tooltip {
     color: #9d9d9c;
     font-weight: 500;
 }
