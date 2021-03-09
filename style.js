@@ -65,6 +65,7 @@
 				{ name: 'Énfasis 24', element: 'span', attributes: { 'class': 'bck-enfasis-24'} },
 				{ name: 'Énfasis 25', element: 'span', attributes: { 'class': 'bck-enfasis-25'} },
 				{ name: 'Énfasis 26', element: 'span', attributes: { 'class': 'bck-enfasis-26'} },
+				{ name: 'Énfasis 27', element: 'span', attributes: { 'class': 'bck-enfasis-27'} },
 
 
 				{ name: 'Lista Ordenada 01', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-1' } },
