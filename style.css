@@ -907,6 +907,7 @@ border-left: 10px solid transparent;
     font-size: -2.5rem;
     border-top: 4px dotted #fff;
     margin-top: 10px;
+    padding-top: 5px;
 }
 
 /*TITULO 19*/
@@ -4021,6 +4022,14 @@ font-family: 'FontAwesome';
 
 
 /*AJUSTES ACTIVIDADES*/
+
+/*Marcar palabras*/
+
+#actividad .markwords-word {
+    cursor: pointer;
+    line-height: normal;
+}
+
 /*Verdadero y falso*/
 #actividad .workspace.true-false .tf-option {
 	display: inline-block;
