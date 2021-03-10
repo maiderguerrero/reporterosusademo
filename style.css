@@ -104,9 +104,12 @@
 }
 
 @font-face {
-	font-family: 'Conv_JeanLuc-Thin';
+	font-family: 'Conv_JeanLuc';
 	src: url('fonts/JeanLuc-Thin.eot');
-	src: local('☺'), url('fonts/JeanLuc-Thin.woff') format('woff'), url('fonts/JeanLuc-Thin.ttf') format('truetype'), url('fonts/JeanLuc-Thin.svg') format('svg');
+	src: local('☺'), 
+	url('fonts/JeanLuc-Thin.woff') format('woff'), 
+	url('fonts/JeanLuc-Thin.ttf') format('truetype'), 
+	url('fonts/JeanLuc-Thin.svg') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -114,39 +117,54 @@
 @font-face {
 	font-family: 'Conv_zwijsen-dyslexie-print';
 	src: url('fonts/zwijsen-dyslexie-print.eot');
-	src: local('☺'), url('fonts/zwijsen-dyslexie-print.woff') format('woff'), url('fonts/zwijsen-dyslexie-print.ttf') format('truetype'), url('fonts/zwijsen-dyslexie-print.svg') format('svg');
+	src: local('☺'), 
+	url('fonts/zwijsen-dyslexie-print.woff') format('woff'), 
+	url('fonts/zwijsen-dyslexie-print.ttf') format('truetype'), 
+	url('fonts/zwijsen-dyslexie-print.svg') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
  
 @font-face {
-	font-family: 'Conv_PT_Sans-Web-Bold';
+	font-family: 'Conv_PT_Sans-Web';
 	src: url('fonts/PT_Sans-Web-Bold.eot');
-	src: local('☺'), url('fonts/PT_Sans-Web-Bold.woff') format('woff'), url('fonts/PT_Sans-Web-Bold.ttf') format('truetype'), url('fonts/PT_Sans-Web-Bold.svg') format('svg');
+	src: local('☺'), 
+	url('fonts/PT_Sans-Web-Bold.woff') format('woff'), 
+	url('fonts/PT_Sans-Web-Bold.ttf') format('truetype'), 
+	url('fonts/PT_Sans-Web-Bold.svg') format('svg');
 	font-weight: 600;
 	font-style: normal;
 }
 
 @font-face {
-	font-family: 'Conv_PT_Sans-Web-BoldItalic';
+	font-family: 'Conv_PT_Sans-Web';
 	src: url('fonts/PT_Sans-Web-BoldItalic.eot');
-	src: local('☺'), url('fonts/PT_Sans-Web-BoldItalic.woff') format('woff'), url('fonts/PT_Sans-Web-BoldItalic.ttf') format('truetype'), url('fonts/PT_Sans-Web-BoldItalic.svg') format('svg');
+	src: local('☺'), 
+	url('fonts/PT_Sans-Web-BoldItalic.woff') format('woff'), 
+	url('fonts/PT_Sans-Web-BoldItalic.ttf') format('truetype'), 
+	url('fonts/PT_Sans-Web-BoldItalic.svg') format('svg');
 	font-weight: 600;
 	font-style: normal;
 }
 
 @font-face {
-	font-family: 'Conv_PT_Sans-Web-Italic';
+	font-family: 'Conv_PT_Sans-Web';
 	src: url('fonts/PT_Sans-Web-Italic.eot');
-	src: local('☺'), url('fonts/PT_Sans-Web-Italic.woff') format('woff'), url('fonts/PT_Sans-Web-Italic.ttf') format('truetype'), url('fonts/PT_Sans-Web-Italic.svg') format('svg');
+	src: local('☺'), 
+	url('fonts/PT_Sans-Web-Italic.woff') format('woff'), 
+	url('fonts/PT_Sans-Web-Italic.ttf') format('truetype'), 
+	url('fonts/PT_Sans-Web-Italic.svg') format('svg');
 	font-weight: 400;
 	font-style: normal;
 }
 
 @font-face {
-	font-family: 'Conv_PT_Sans-Web-Regular';
+	font-family: 'Conv_PT_Sans-Web';
 	src: url('fonts/PT_Sans-Web-Regular.eot');
-	src: local('☺'), url('fonts/PT_Sans-Web-Regular.woff') format('woff'), url('fonts/PT_Sans-Web-Regular.ttf') format('truetype'), url('fonts/PT_Sans-Web-Regular.svg') format('svg');
+	src: local('☺'), 
+	url('fonts/PT_Sans-Web-Regular.woff') format('woff'), 
+	url('fonts/PT_Sans-Web-Regular.ttf') format('truetype'), 
+	url('fonts/PT_Sans-Web-Regular.svg') format('svg');
 	font-weight: 400;
 	font-style: normal;
 }
