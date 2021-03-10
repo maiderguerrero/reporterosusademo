@@ -2913,7 +2913,7 @@ font-family: 'FontAwesome';
 	padding-left: 40px;
 	position: relative;
 	list-style: none;
-	margin-bottom: 5px;
+	margin-bottom: 7px;
 	font-size: inherit;
 }
 
@@ -2928,7 +2928,7 @@ font-family: 'FontAwesome';
     color: #333;
     border-radius: 50%;
     position: absolute;
-    margin-top: 12px;
+    margin-top: 5px;
     margin-left: 6px;
     border: 1px solid #333;
 }
@@ -2963,7 +2963,7 @@ font-family: 'FontAwesome';
     color: #333;
     border-radius: 50%;
     position: absolute;
-    margin-top: 11px;
+    margin-top: 7px;
     margin-left: 6px;
     border: 1px solid #333;
 }
