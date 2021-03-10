@@ -1078,7 +1078,7 @@ border-left: 10px solid transparent;
 /*Enfasis 6*/
 .bck-enfasis-6 {
 	color: #3482BF;
-	font-family: 'Conv_PT_Sans-Web-Regular';
+	font-family: 'Conv_PT_Sans-Web';
 	font-size: 2rem;
 }
 
@@ -3079,7 +3079,7 @@ font-family: 'FontAwesome';
     padding: 5px;
     font-size: 2rem;
     padding-top: 15px;
-    font-family: 'Conv_PT_Sans-Web-Regular';
+    font-family: 'Conv_PT_Sans-Web';
 }
 
 
