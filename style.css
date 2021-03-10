@@ -579,7 +579,7 @@ body.is_app .reporterosusademo-navbar.ocultar {
 
 #actividad .workspace.chooseblanks .inline-answer a {
 	margin: -7px 2px 20px 2px;
-	padding-top: 7px;
+	padding-top: 7px !important;
 }
 
 .bck-i-fullscreen figcaption {
