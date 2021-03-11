@@ -178,8 +178,6 @@
 				{ name: 'Celda 7', element: 'td', attributes: { 'class': 'bck-td-7' } },
 				{ name: 'Celda 8', element: 'td', attributes: { 'class': 'bck-td-8' } },
 				{ name: 'Celda 9', element: 'td', attributes: { 'class': 'bck-td-9' } },
-				{ name: 'Celda 10', element: 'td', attributes: { 'class': 'bck-td-10' } },
-				{ name: 'Celda 11', element: 'td', attributes: { 'class': 'bck-td-11' } },
 
 				{ name: 'Desplegable 1', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown bck-dropdown-1' } },
 				{ name: 'Desplegable 2', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown bck-dropdown-2' } },
