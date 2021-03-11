@@ -3867,16 +3867,6 @@ font-family: 'FontAwesome';
 	border-bottom: 2px dotted #e30613;
 }
 
-.bck-box.bck-box-25:before {
-	content: "";
-    background-image: url(imagenes/beforecaja_conexionarte_reporterosusa.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-    padding: 50px;
-    position: absolute;
-    right: 0;
-    margin-top: -15px;
-}
 
 .bck-box.bck-box-25 > .bck-content {
 	padding: 25px;
