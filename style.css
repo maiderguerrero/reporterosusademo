@@ -4958,10 +4958,18 @@ table td.bck-td-9 {
 	background-color: #f39400;
 }
 
-
 .unittag_verde_reporterosusa .bck-enfasis-18 {
 	color: #f39400;
 }
+
+.unittag_verde_reporterosusa .bck-enfasis-26 {
+    background-color: #009c55;
+}
+
+.unittag_verde_reporterosusa .bck-enfasis-26:after {
+    border-right: 33px solid rgb(51,105,33);
+}
+
 
 .unittag_verde_reporterosusa #actividad .content .cke_contents .bck-ol-5 li, 
 .unittag_verde_reporterosusa #actividad .content .cke_contents .bck-ol-5 li, 
@@ -5105,6 +5113,15 @@ table td.bck-td-9 {
 
 .unittag_azuloscuro_reporterosusa .bck-enfasis-18 {
 	color: #99c11a;
+}
+
+
+.unittag_azuloscuro_reporterosusa .bck-enfasis-26 {
+    background-color: #0e4090;
+}
+
+.unittag_azuloscuro_reporterosusa .bck-enfasis-26:after {
+    border-right: 33px solid rgb(0,21,97);
 }
 
 .unittag_azuloscuro_reporterosusa #actividad .content .cke_contents .bck-ol-5 li, 
@@ -5251,6 +5268,14 @@ table td.bck-td-9 {
 	color: #00B0B9;
 }
 
+.unittag_naranja_reporterosusa .bck-enfasis-26 {
+    background-color: #f9b000;
+}
+
+.unittag_naranja_reporterosusa .bck-enfasis-26:after {
+    border-right: 33px solid rgb(171,124,0);
+}
+
 .unittag_naranja_reporterosusa #actividad .content .cke_contents .bck-ol-5 li, 
 .unittag_naranja_reporterosusa #actividad .content .cke_contents .bck-ol-5 li, 
 .unittag_naranja_reporterosusa #actividad .content .texto_curso .bck-ol-5 li, 
@@ -5393,6 +5418,14 @@ table td.bck-td-9 {
 
 .unittag_teja_reporterosusa .bck-enfasis-18 {
 	color: #771b6e;
+}
+
+.unittag_teja_reporterosusa .bck-enfasis-26 {
+    background-color: #eb5d40;
+}
+
+.unittag_teja_reporterosusa .bck-enfasis-26:after {
+    border-right: 33px solid rgb(171,65,43);
 }
 
 .unittag_teja_reporterosusa #actividad .content .cke_contents .bck-ol-5 li, 
