@@ -111,6 +111,7 @@
 				{ name: 'Lista Desordenada 15', element: 'ul', attributes: { 'class': 'bck-ul bck-ul-15' } },
 				{ name: 'Lista Desordenada 16', element: 'ul', attributes: { 'class': 'bck-ul bck-ul-16' } },
 				{ name: 'Lista Desordenada 17', element: 'ul', attributes: { 'class': 'bck-ul bck-ul-17' } },
+				{ name: 'Lista Desordenada 18', element: 'ul', attributes: { 'class': 'bck-ul bck-ul-18' } },
 
 				{ name: 'Caja 01', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-1' } },
 				{ name: 'Caja 02', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-2' } },
