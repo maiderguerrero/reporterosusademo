@@ -4067,6 +4067,7 @@ font-family: 'FontAwesome';
 .rf-wordcontainer {
 	font-family: 'Conv_Calibre';
     font-size: 2.2rem;
+    padding: 15px 10px 5px 10px;
 }
 
 /*Crucigrama*/
