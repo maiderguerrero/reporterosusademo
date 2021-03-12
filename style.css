@@ -1335,10 +1335,6 @@ hr {
 
 /*----------------------LISTAS-----------------------*/
 
-.texto_curso li {
-	line-height: normal;
-}
-
 /*Tamaño general*/
 #actividad .texto_curso li, #actividad .workspace ul li li {
     position: relative;
