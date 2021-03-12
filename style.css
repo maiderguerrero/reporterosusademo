@@ -4506,6 +4506,7 @@ font-family: 'FontAwesome';
 width: 19px;
     height: 23px;;
     margin-right: 5px;
+    margin-top: -5px;
 }
 
 
@@ -6161,6 +6162,11 @@ background: transparent;
 
 #actividad a, body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img){
 	background-color: transparent;
+	font-weight: 400;
+	color: inherit;
+	border-bottom: 2.5px dotted;
+
+
 	/*margin-bottom: auto;*/
 }
 
