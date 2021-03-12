@@ -4085,6 +4085,14 @@ font-family: 'FontAwesome';
 	margin-bottom: 10px;
 }
 
+/*Ordenar*/
+
+#actividad .workspace.ordenar li>p {
+    margin-bottom: 0;
+    padding: 5px;
+    padding-top: 10px;
+}
+
 /*clasificar*/
 #actividad .workspace.clasificar .clasificar_lista>ul {
 	display: inline-block;
