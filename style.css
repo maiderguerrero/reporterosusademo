@@ -4342,6 +4342,7 @@ font-family: 'FontAwesome';
 	width: 18px;
     height: 14px;
     margin-right: 5px;
+    margin-top: -5px;
 }
 
 .item-container .icon-parejas-blanco:before {
@@ -4349,6 +4350,7 @@ font-family: 'FontAwesome';
 	width: 18px;
     height: 13px;
     margin-right: 5px;
+    margin-top: -5px;
 }
 
 .item-container .icon-grupos-negro:before {
@@ -4356,6 +4358,7 @@ font-family: 'FontAwesome';
     width: 16px;
     height: 16px;
     margin-right: 5px;
+    margin-top: -5px;
 }
 
 .item-container .icon-grupos-blanco:before {
@@ -4363,6 +4366,7 @@ font-family: 'FontAwesome';
     width: 16px;
     height: 16px;
     margin-right: 5px;
+    margin-top: -5px;
 }
 
 .item-container .icon-campana-azul:before {
