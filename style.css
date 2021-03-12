@@ -4045,6 +4045,18 @@ font-family: 'FontAwesome';
 
 /*AJUSTES ACTIVIDADES*/
 
+.nota-budget span {
+    vertical-align: middle;
+    font-weight: bold;
+    color: white;
+    display: inline-block;
+    width: auto;
+    min-width: 74px;
+    padding: 12px 46px 6px 8px;
+    font-size: 2.2rem;
+    text-align: center;
+}
+
 /*Sopa de letras*/
 
 .rf-foundword {
