@@ -4104,6 +4104,12 @@ font-family: 'FontAwesome';
 	padding: 15px 0 10px 0;
 }
 
+/*Arrastrar texto a imagen*/
+
+#actividad .drag .circulo_gris p {
+	background-position-y: -4px;
+}
+
 /*tipo test*/
 
 #actividad .workspace.test .checkbox-option label.filter-label,
