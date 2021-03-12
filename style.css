@@ -4045,6 +4045,18 @@ font-family: 'FontAwesome';
 
 /*AJUSTES ACTIVIDADES*/
 
+/*Sopa de letras*/
+
+.rf-foundword {
+    font-family: 'Conv_Calibre';
+    font-size: 2.2rem;
+}
+
+.rf-wordcontainer {
+	font-family: 'Conv_Calibre';
+    font-size: 2.2rem;
+}
+
 /*Crucigrama*/
 
 .slide.crosswords .enunciados {
