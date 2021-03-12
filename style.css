@@ -4711,6 +4711,14 @@ table td.bck-td-9 {
 	color: #706f6f;
 }
 
+.unittag_gris_reporterosusa .bck-enfasis-26 {
+    background-color: #706f6f;
+}
+
+.unittag_gris_reporterosusa .bck-enfasis-26:after {
+    border-right: 33px solid rgb(91,91,94);
+}
+
 .unittag_gris_reporterosusa #actividad .content .cke_contents .bck-ol-8 li, 
 .unittag_gris_reporterosusa #actividad .content .cke_contents .bck-ol-8 li, 
 .unittag_gris_reporterosusa #actividad .content .texto_curso .bck-ol-8 li, 
