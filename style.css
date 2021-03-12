@@ -1083,7 +1083,6 @@ border-left: 10px solid transparent;
 .bck-enfasis-5 {
 	background-color: #FFEF00;
 	padding: 5px 0px 0px 0px;
-	font-weight: 700;
 }
 
 /*Enfasis 6*/
@@ -3415,7 +3414,7 @@ font-family: 'FontAwesome';
     -webkit-width: fit-content;
     -o-width: fit-content;
     width: fit-content;
-    font-size: 1.4em;
+    font-size: 2.4rem;
     margin-top: -38px;
 }
 
@@ -3429,7 +3428,7 @@ font-family: 'FontAwesome';
     border-left: 10px solid transparent;
     border-right: 10px solid transparent;
     border-top: 10px solid #009A5A;
-    margin-top: 40px;
+    margin-top: 38px;
 }
 
 /*CAJA 13*/
@@ -3462,7 +3461,7 @@ font-family: 'FontAwesome';
     -webkit-width: fit-content;
     -o-width: fit-content;
     width: fit-content;
-    font-size: 1.4em;
+    font-size: 2.4rem;
     margin-top: -38px;
 }
 
@@ -3476,7 +3475,7 @@ font-family: 'FontAwesome';
     border-left: 10px solid transparent;
     border-right: 10px solid transparent;
     border-top: 10px solid #00A6BA;
-    margin-top: 40px;
+    margin-top: 38px;
 }
 
 /*CAJA 14*/
@@ -3509,7 +3508,7 @@ font-family: 'FontAwesome';
     -webkit-width: fit-content;
     -o-width: fit-content;
     width: fit-content;
-    font-size: 1.4em;
+    font-size: 2.4rem;
     margin-top: -38px;
 }
 
@@ -3523,7 +3522,7 @@ font-family: 'FontAwesome';
     border-left: 10px solid transparent;
     border-right: 10px solid transparent;
     border-top: 10px solid #E4535D;
-    margin-top: 40px;
+    margin-top: 38px;
 }
 
 /*CAJA 15*/
@@ -3556,7 +3555,7 @@ font-family: 'FontAwesome';
     -webkit-width: fit-content;
     -o-width: fit-content;
     width: fit-content;
-    font-size: 1.4em;
+    font-size: 2.4rem;
     margin-top: -38px;
 }
 
@@ -3570,7 +3569,7 @@ font-family: 'FontAwesome';
     border-left: 10px solid transparent;
     border-right: 10px solid transparent;
     border-top: 10px solid #990381;
-    margin-top: 40px;
+    margin-top: 38px;
 }
 
 /*CAJA 16*/
@@ -3603,7 +3602,7 @@ font-family: 'FontAwesome';
     -webkit-width: fit-content;
     -o-width: fit-content;
     width: fit-content;
-    font-size: 1.4em;
+    font-size: 2.4rem;
     margin-top: -38px;
 }
 
@@ -3617,7 +3616,7 @@ font-family: 'FontAwesome';
     border-left: 10px solid transparent;
     border-right: 10px solid transparent;
     border-top: 10px solid #F19A00;
-    margin-top: 40px;
+    margin-top: 38px;
 }
 
 /*CAJA 17*/
