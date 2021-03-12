@@ -364,10 +364,9 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 	border-radius: 2px;
 	background-color: transparent;
 	padding: 0px 5px;
-	text-decoration: none;
-	font-weight: 400;
 	color: inherit;
-	border-bottom: 2.5px dotted;
+	font-weight: 400;
+	text-decoration: none;
 }
 
 
