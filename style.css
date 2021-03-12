@@ -4041,6 +4041,15 @@ font-family: 'FontAwesome';
 
 /*AJUSTES ACTIVIDADES*/
 
+/*Respuesta multiple*/
+#actividad .workspace.multiple-choice .opcion p {
+    padding: 10px 5px 7px 60px;
+    margin: 0;
+    text-align: left;
+    font-size: 2.2rem;
+}
+
+
 /*Marcar palabras*/
 
 #actividad .markwords-word {
@@ -4101,9 +4110,17 @@ font-family: 'FontAwesome';
 #actividad .workspace.test .radio-option label.filter-label,
 #actividad .workspace.true-false .checkbox-option label.filter-label,
 #actividad .workspace.true-false .radio-option label.filter-label {
-	font-size: 1.8rem;
+	font-size: 2.2rem;
 	font-weight: 300;
 	margin-left: 20px;
+}
+
+.checkbox-option label.filter-label:before, 
+.slides_averages #cont_checkTemas label:before, 
+.slides_averages #cont_checkSelfCorrect label:before, 
+.slides_averages #cont_checkEvaluation label:before, 
+.radio-option label.filter-label:before {
+    margin-top: -2px;
 }
 
 /*parejas cartas*/
@@ -5824,6 +5841,11 @@ font-size: 2.2rem;
 }
 
 /**ACTIVIDADES**/
+
+#actividad .workspace {
+	font-size: 2.2rem;
+}
+
 /*rellenar espacios*/
 #actividad .workspace.multiplechoice_horizontal .opcion p {
     padding: 5px 5px 0px 7px;
