@@ -528,6 +528,10 @@ body:not(.isTablet) #book-index #indice .unit-content .actividades .item:active,
 	display: none;
 }
 
+.slide_main input {
+	font-size: 2.2rem;
+}
+
 .slide_main input:focus,
 .slide_main .form-control:focus {
 	border-color: #aaa;
@@ -4105,7 +4109,7 @@ font-family: 'FontAwesome';
 	background: #fff;
 	padding-left: 10px;
 	padding-right: 10px;
-	padding-top: 10px;
+	padding-top: 12px;
 }
 
 #actividad .workspace.clasificar .clasificar_conjuntos .group-name-title{
@@ -6076,5 +6080,5 @@ background: transparent;
 }
 
 #actividad textarea {
-    font-size: 18px;
+    font-size: 2.2rem;
 }
