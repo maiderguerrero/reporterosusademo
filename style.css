@@ -364,9 +364,10 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 	border-radius: 2px;
 	background-color: transparent;
 	padding: 0px 5px;
-	color: #333;
-	font-weight: 600;
 	text-decoration: none;
+	font-weight: 400;
+	color: inherit;
+	border-bottom: 2.5px dotted;
 }
 
 
@@ -6162,9 +6163,6 @@ background: transparent;
 
 #actividad a, body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img){
 	background-color: transparent;
-	font-weight: 400;
-	color: inherit;
-	border-bottom: 2.5px dotted;
 	/*margin-bottom: auto;*/
 }
 
