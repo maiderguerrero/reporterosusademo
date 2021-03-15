@@ -4528,7 +4528,7 @@ background-image: url(imagenes/icono_rubric_reporteros.PNG);
 /**TABLA**/
 table,
 .bck-table {
-	border: 1px solid #ccc;
+	border: 0px solid #ccc;
 }
 
 table td,
