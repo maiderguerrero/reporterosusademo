@@ -1072,6 +1072,20 @@ border-left: 10px solid transparent;
 }
 
 
+/*TITULO 25*/
+
+.bck-title-25 {
+	color: #fff;
+	background: #68B686;
+	width: 100%;
+	text-align: center;
+	font-size: 2.4rem;
+	font-weight: 600;
+    padding: 15px;
+    padding-bottom: 5px;
+}
+
+
 /**/
 
 /*------------------------------------ENFASIS------------------------------------------------*/
