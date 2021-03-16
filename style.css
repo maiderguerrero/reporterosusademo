@@ -6026,6 +6026,12 @@ font-size: 2.2rem;
 	font-size: 2.2rem;
 }
 
+/*Enviar archivo*/
+
+#actividad .description-deliverablefile {
+    display: none;
+}
+
 /*rellenar espacios*/
 #actividad .workspace.multiplechoice_horizontal .opcion p {
     padding: 5px 5px 0px 7px;
