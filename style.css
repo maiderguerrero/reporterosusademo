@@ -1380,7 +1380,7 @@ hr {
 .popover-content ul, 
 .popover-content ol {
     margin-bottom: 20px;
-    margin-left: -17px;
+    margin-left: -21px;
 }
 
 #actividad .workspace.multiple-choice .opcion>ol, 
@@ -1407,6 +1407,7 @@ margin-left: auto;
 #actividad .content .workspace ul li .bck-ol-1 {
 	list-style-type: none;
 	counter-reset: bck-li-counter;
+	padding-left: 44px;
 }
 
 #actividad .content .cke_contents .bck-ol-1 li,
@@ -1452,6 +1453,7 @@ margin-left: auto;
 #actividad .content .workspace ul li .bck-ol-2 {
 	list-style-type: none;
 	counter-reset: bck-li-counter;
+	padding-left: 43px;
 }
 
 #actividad .content .cke_contents .bck-ol-2 li,
@@ -1488,6 +1490,7 @@ margin-left: auto;
 #actividad .content .workspace ul li .bck-ol-3 {
 	list-style-type: none;
 	counter-reset: bck-li-counter;
+	padding-left: 44px;
 }
 
 #actividad .content .cke_contents .bck-ol-3 li,
@@ -1521,6 +1524,7 @@ margin-left: auto;
 #actividad .content .workspace ul li .bck-ol-4 {
 	list-style-type: none;
 	counter-reset: bck-li-counter;
+	padding-left: 42px;
 }
 
 #actividad .content .cke_contents .bck-ol-4 li,
@@ -1556,6 +1560,7 @@ margin-left: auto;
 #actividad .content .workspace ul li .bck-ol-5 {
 	list-style-type: none;
 	counter-reset: bck-li-counter;
+	padding-left: 52px;
 }
 
 #actividad .content .cke_contents .bck-ol-5 li,
@@ -1601,6 +1606,7 @@ margin-left: auto;
 #actividad .content .workspace ul li .bck-ol-6 {
 	list-style-type: none;
 	counter-reset: bck-li-counter;
+	padding-left: 51px;
 }
 
 #actividad .content .cke_contents .bck-ol-6 li,
@@ -1644,6 +1650,7 @@ margin-left: auto;
 #actividad .content .workspace ul li .bck-ol-7 {
 	list-style-type: none;
 	counter-reset: bck-li-counter;
+	padding-left: 50px;
 }
 
 #actividad .content .cke_contents .bck-ol-7 li,
@@ -1681,6 +1688,7 @@ margin-left: auto;
 #actividad .content .workspace ul li .bck-ol-8 {
 	list-style-type: none;
 	counter-reset: bck-li-counter;
+	padding-left: 60px;
 }
 
 #actividad .content .cke_contents .bck-ol-8 li,
@@ -1728,6 +1736,7 @@ margin-left: auto;
 #actividad .content .workspace ul li .bck-ol-9 {
 	list-style-type: none;
 	counter-reset: bck-li-counter;
+	padding-left: 42px;
 }
 
 #actividad .content .cke_contents .bck-ol-9 li,
@@ -1765,6 +1774,7 @@ margin-left: auto;
 #actividad .content .workspace ul li .bck-ol-10 {
 	list-style-type: none;
 	counter-reset: bck-li-counter;
+	padding-left: 57px;
 }
 
 #actividad .content .cke_contents .bck-ol-10 li,
@@ -1809,6 +1819,7 @@ margin-left: auto;
 #actividad .content .workspace ul li .bck-ol-11 {
 	list-style-type: none;
 	counter-reset: bck-li-counter;
+	padding-left: 44px;
 }
 
 #actividad .content .cke_contents .bck-ol-11 li,
@@ -1845,6 +1856,7 @@ margin-left: auto;
 #actividad .content .workspace ul li .bck-ol-12 {
 	list-style-type: none;
 	counter-reset: bck-li-counter;
+	padding-left: 50px;
 }
 
 #actividad .content .cke_contents .bck-ol-12 li,
@@ -1888,6 +1900,7 @@ margin-left: auto;
 #actividad .content .workspace ul li .bck-ol-13 {
 	list-style-type: none;
 	counter-reset: bck-li-counter;
+	padding-left: 57px;
 }
 
 #actividad .content .cke_contents .bck-ol-13 li,
@@ -1932,6 +1945,7 @@ margin-left: auto;
 #actividad .content .workspace ul li .bck-ol-14 {
 	list-style-type: none;
 	counter-reset: bck-li-counter;
+	padding-left: 42px;
 }
 
 #actividad .content .cke_contents .bck-ol-14 li,
@@ -1968,6 +1982,7 @@ margin-left: auto;
 #actividad .content .workspace ul li .bck-ol-15 {
 	list-style-type: none;
 	counter-reset: bck-li-counter;
+	padding-left: 42px;
 }
 
 #actividad .content .cke_contents .bck-ol-15 li,
@@ -2003,6 +2018,7 @@ margin-left: auto;
 #actividad .content .workspace ul li .bck-ol-16 {
 	list-style-type: none;
 	counter-reset: bck-li-counter;
+	padding-left: 42px;
 }
 
 #actividad .content .cke_contents .bck-ol-16 li,
@@ -2040,6 +2056,7 @@ margin-left: auto;
 #actividad .content .workspace ul li .bck-ol-17 {
 	list-style-type: none;
 	counter-reset: bck-li-counter;
+	padding-left: 57px;
 }
 
 #actividad .content .cke_contents .bck-ol-17 li,
@@ -2069,9 +2086,9 @@ margin-left: auto;
     background-color: #9C9BA0;
     font-size: 2rem;
     width: 28px;
-	height: 28px;
-    padding: 1px;
-    padding-top: 4px;
+    height: 27px;
+    padding: 0;
+    padding-top: 2px;
     padding-bottom: 0;
     margin-top: -4px;
     margin-left: -5px;
@@ -2085,6 +2102,7 @@ margin-left: auto;
 #actividad .content .workspace ul li .bck-ol-18 {
 	list-style-type: none;
 	counter-reset: bck-li-counter;
+	padding-left: 42px;
 }
 
 #actividad .content .cke_contents .bck-ol-18 li,
@@ -2121,6 +2139,7 @@ margin-left: auto;
 #actividad .content .workspace ul li .bck-ol-19 {
 	list-style-type: none;
 	counter-reset: bck-li-counter;
+	padding-left: 44px;
 }
 
 #actividad .content .cke_contents .bck-ol-19 li,
@@ -2155,6 +2174,7 @@ margin-left: auto;
 #actividad .content .workspace ul li .bck-ol-20 {
 	list-style-type: none;
 	counter-reset: bck-li-counter;
+	padding-left: 56px;
 }
 
 #actividad .content .cke_contents .bck-ol-20 li,
@@ -2200,6 +2220,7 @@ margin-left: auto;
 #actividad .content .workspace ul li .bck-ol-21 {
     list-style-type: none;
     counter-reset: bck-li-counter;
+    padding-left: 56px;
 }
 
 #actividad .content .cke_contents .bck-ol-21 li,
@@ -2245,6 +2266,7 @@ margin-left: auto;
 #actividad .content .workspace ul li .bck-ol-22 {
 	list-style-type: none;
 	counter-reset: bck-li-counter;
+	padding-left: 56px;
 }
 
 #actividad .content .cke_contents .bck-ol-22 li,
@@ -2290,6 +2312,7 @@ margin-left: auto;
 #actividad .content .workspace ul li .bck-ol-23 {
 	list-style-type: none;
 	counter-reset: bck-li-counter;
+	padding-left: 56px;
 }
 
 #actividad .content .cke_contents .bck-ol-23 li,
@@ -2335,6 +2358,7 @@ margin-left: auto;
 #actividad .content .workspace ul li .bck-ol-24 {
 	list-style-type: none;
 	counter-reset: bck-li-counter;
+	padding-left: 42px;
 }
 
 #actividad .content .cke_contents .bck-ol-24 li,
@@ -2371,6 +2395,7 @@ margin-left: auto;
 #actividad .content .workspace ul li .bck-ol-25 {
 	list-style-type: none;
 	counter-reset: bck-li-counter;
+	padding-left: 56px;
 }
 
 #actividad .content .cke_contents .bck-ol-25 li,
@@ -2476,7 +2501,7 @@ margin-left: auto;
 	position: relative;
 	list-style: none;
 	margin-bottom: 10px;
-	margin-left: 5px;
+	margin-left: 8px;
 	
 }
 
@@ -2511,7 +2536,7 @@ margin-left: auto;
 	position: relative;
 	list-style-type: none;
 	margin-bottom: 10px;
-	margin-left: 5px;
+	margin-left: 8px;
 }
 
 #actividad .content .cke_contents .bck-ul-2 li:before,
@@ -2544,7 +2569,7 @@ margin-left: auto;
     position: relative;
     list-style: none;
     margin-bottom: 10px;
-	margin-left: 5px;
+	margin-left: 8px;
 }
 
 #actividad .content .cke_contents .bck-ul-3 li:before,
@@ -2578,7 +2603,7 @@ margin-left: auto;
     position: relative;
     list-style-type: none;
     margin-bottom: 10px;
-	margin-left: 5px;
+	margin-left: 8px;
 }
 
 #actividad .content .cke_contents .bck-ul-4 li:before,
@@ -2611,7 +2636,7 @@ margin-left: auto;
     position: relative;
     list-style: none;
     margin-bottom: 10px;
-	margin-left: 5px;
+	margin-left: 8px;
 }
 
 #actividad .content .cke_contents .bck-ul-5 li:before,
@@ -2645,7 +2670,7 @@ margin-left: auto;
     position: relative;
     list-style-type: none;
     margin-bottom: 10px;
-	margin-left: 5px;
+	margin-left: 8px;
 	font-size: inherit;
 }
 
@@ -2753,7 +2778,7 @@ font-family: 'FontAwesome';
     margin-bottom: 10px;
     color: #fff;
     font-size: 2.2rem;
-	margin-left: -5px;
+	margin-left: 0px;
 }
 
 #actividad .content .cke_contents .bck-ul-9 li:before,
@@ -2788,7 +2813,7 @@ font-family: 'FontAwesome';
     list-style: none;
     margin-bottom: 10px;
     color: #F19A00;
-	margin-left: 5px;
+	margin-left: 8px;
 }
 
 #actividad .content .cke_contents .bck-ul-10 li:before,
@@ -3025,7 +3050,7 @@ font-family: 'FontAwesome';
 	position: relative;
 	list-style: none;
 	margin-bottom: 10px;
-	margin-left: 5px;
+	margin-left: 8px;
 	
 }
 
