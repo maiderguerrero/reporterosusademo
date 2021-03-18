@@ -38,6 +38,7 @@
 				{ name: 'Título 23', element: 'h3', attributes: { 'class': 'bck-title bck-title-23'} },
 				{ name: 'Título 24', element: 'h3', attributes: { 'class': 'bck-title bck-title-24'} },
 				{ name: 'Título 25', element: 'h3', attributes: { 'class': 'bck-title bck-title-25'} },
+				{ name: 'Título 26', element: 'h3', attributes: { 'class': 'bck-title bck-title-26'} },
 				
 
 				{ name: 'Énfasis 01', element: 'span', attributes: { 'class': 'bck-enfasis-1'} },
