@@ -4917,6 +4917,13 @@ table td.bck-td-9 {
 	color: #706f6f;
 }
 
+.unittag_gris_reporterosusa #actividad .content .cke_contents .bck-ol-23 li:before, 
+.unittag_gris_reporterosusa #actividad .content .texto_curso ol.bck-ol-23 li:before, 
+.unittag_gris_reporterosusa #actividad .popover-content ol.bck-ol-23 li:before, 
+.unittag_gris_reporterosusa #actividad .content .workspace ul li ol.bck-ol-23 li:before {
+	background-color: #706f6f;
+}
+
 
 .unittag_gris_reporterosusa .bck-box.bck-box-1 {
 	background: #706f6f;
