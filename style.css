@@ -3564,7 +3564,7 @@ font-family: 'FontAwesome';
     margin-top: -38px;
 }
 
-.bck-box-13 .bck-title:before {
+.bck-box-13 > .bck-title:before {
 	content: '';
     display: block;
     position: absolute;
