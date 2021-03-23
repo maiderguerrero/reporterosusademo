@@ -4265,6 +4265,27 @@ font-family: 'FontAwesome';
 
 /*tipo test*/
 
+#actividad .content .workspace.test ul li .bck-ol-5 li:before,
+#actividad .content .workspace.test ul li .bck-ol-6 li:before,
+#actividad .content .workspace.test ul li .bck-ol-8 li:before,
+#actividad .content .workspace.test ul li .bck-ol-10 li:before,
+#actividad .content .workspace.test ul li .bck-ol-12 li:before,
+#actividad .content .workspace.test ul li .bck-ol-13 li:before,
+#actividad .content .workspace.test ul li .bck-ol-17 li:before,
+#actividad .content .workspace.test ul li .bck-ol-20 li:before,
+#actividad .content .workspace.test ul li .bck-ol-21 li:before,
+#actividad .content .workspace.test ul li .bck-ol-22 li:before,
+#actividad .content .workspace.test ul li .bck-ol-23 li:before,
+#actividad .content .workspace.test ul li .bck-ol-25 li:before {
+	padding-top: 6px;
+	margin-top: -7px;
+}
+
+.workspace.test #actividad .content .workspace ul li .bck-ol-13 li:before {
+	padding-top: 5px;
+	margin-top: -7px;
+}
+
 #actividad .workspace.test .checkbox-option label.filter-label,
 #actividad .workspace.test .radio-option label.filter-label,
 #actividad .workspace.true-false .checkbox-option label.filter-label,
